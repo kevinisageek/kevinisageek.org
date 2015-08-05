@@ -14,4 +14,5 @@ Don't need much for daily carry.
 * Webbem Traveller
 * Nexus 4 mobile phone
 
-![Minimal EDC](https://farm9.staticflickr.com/8723/17252167881_3620d852bb_c.jpg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/17252167881/in/datetaken/" title="Minimal EDC"><img src="https://farm9.staticflickr.com/8723/17252167881_3620d852bb_c.jpg" width="450" height="800" alt="Minimal EDC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--![Minimal EDC](https://farm9.staticflickr.com/8723/17252167881_3620d852bb_c.jpg)-->
