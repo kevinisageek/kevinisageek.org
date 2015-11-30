@@ -15,11 +15,11 @@ information cannot be gleaned there.
 
 However, all is not lost. I managed to get what is essentially a dump of
 his home folder
-([predarchive](/images/2013/11/predarchive.tar))
+([predarchive](/misc/predarchive.tar))
 from my mate Harlequin, who I believe was connected to Pred in some way.
 I have also just stumbled on the book which is mentioned in various
 places,
-[Pred.txt](/images/2012/07/pred.txt.pdf)(not
+[Pred.txt](/misc/pred.txt.pdf)(not
 actually .txt but .pdf).
 
 Go have a read, if you are anything like me, you will enjoy and want
