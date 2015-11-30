@@ -20,7 +20,7 @@ want to take with me.
 Enter the [Goruck GR0](http://www.goruck.com/en/gr0). Plenty of room to
 fit what I need yet not unwieldy.
 
-![Crap I'm taking to Germany](/images/2014/12/26/31c3-packing-list.jpg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/22790290624/in/album-72157659518140073/" title="Untitled"><img src="https://farm6.staticflickr.com/5720/22790290624_98158f374f_c.jpg" width="450" height="800" alt="Untitled" /></a>
 
 -   Clothes in a Kifaru extra large pullout (2 pairs boxer shorts, 2
     pairs socks, 2 tshirts, 1 pair sleeping boxers, merino wool thermal
