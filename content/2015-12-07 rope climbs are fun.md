@@ -1,4 +1,3 @@
-
 Title: Rope climbs are fun.
 Date: 2015-12-07
 Author: kevin
