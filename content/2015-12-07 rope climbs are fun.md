@@ -1,7 +1,7 @@
 Title: Rope climbs are fun.
 Date: 2015-12-07
 Author: kevin
-Tags: rope climbing, fitness, crossfit
+Tags: rope climbing, fitness, crossfit, micro
 Slug: rope-climbing
 
 Marked improvement in upper body strength. Need to work on foot technique but progress is progress.
