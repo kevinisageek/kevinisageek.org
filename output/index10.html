@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>Random Geekage</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href=".">
+        <meta name="author" content="Kevin Isageek" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Random Geekage" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Random Geekage"/>
+        <meta property="og:url" content="."/>
+        <meta property="og:description" content="Random Geekage"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+        <link href="./feed/index.html" type="application/atom+xml" rel="alternate"
+              title="Random Geekage ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+Random Geekage            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="./gpg-public-key/">
+                             GPG Public Key
+                          </a></li>
+                         <li><a href="./reading-list/">
+                             Reading list
+                          </a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+            <article class="entry tag-quote tag-vagabonding category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2013/09/17/off-to-new-mexico/">Off to New Mexico</a></h1>
+                <div class="entry-content"><blockquote>
+<p>Agent Coulson: "I’ve been reassigned; director Fury wants me in New
+Mexico"<br />
+ Tony Stark: "Fantastic, land of enchantment"<br />
+ AC: "That’s what I am told"<br />
+ TS: "Secret stuff?"<br />
+ AC: "Something like that"<br />
+ --Iron Man 2</p>
+</blockquote>
+                </div>
+            </article>
+            <hr/>
+            <article class="entry tag-code tag-udev category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2013/08/27/disabling-your-trackpad-when-a-mouse-is-connected/">Disabling your trackpad when a mouse is connected</a></h1>
+                <div class="entry-content"><p>Typing on my laptop often has the side effect of touching the trackpad
+and sending the cursor wildly off and insterting text elsewhere. This is
+highly irritating when programming. Thankfully there is a simple one
+line fixfor GNU/Linux systems using udev. Simply add</p>
+<div class="highlight"><pre>ACTION==&quot;add&quot;, SUBSYSTEM==&quot;input&quot;, KERNEL==&quot;mouse[0-9]&quot;, ENV{DISPLAY}=&quot;:0&quot;, ENV{XAUTHORITY}=&quot;/home/&lt;your username&gt;/.Xauthority&quot;, ENV{ID_CLASS}=&quot;mouse&quot;, ENV{REMOVE_CMD}=&quot;/usr/bin/synclient TouchpadOff=0&quot;, RUN+=&quot;/usr/bin/synclient TouchpadOff=1&quot;
+</pre></div>
+
+
+<p>to</p>
+<div class="highlight"><pre>/etc/udev/rules.d/01-touchpad.rules
+</pre></div>
+
+
+<p>unplug and replug your mouse and you should be good to go.</p>
+<p><a href="http://https://wiki.archlinux.org/index.php/Synaptics#Disable_touchpad_upon_external_mouse_detection">Source</a>.</p>
+                </div>
+            </article>
+            <hr/>
+            <article class="entry tag-butts tag-cloud tag-humour category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2013/06/04/just-stick-it-in-my-butt/">Just stick it in my butt</a></h1>
+                <div class="entry-content"><p>An enterprising fellow has come up with a fantastic Chrome extension
+which <a href="https://github.com/panicsteve/cloud-to-butt">swaps
+all</a><a href="https://github.com/panicsteve/cloud-to-butt">occurrences of "the
+cloud" with "my butt"</a>.
+Naturally I found that idea to be hilarious.</p>
+<p>Folk have then gone on to make versions for
+<a href="https://github.com/logancollins/cloud-to-butt-safari">Safari</a>,
+<a href="https://github.com/DaveRandom/cloud-to-butt-mozilla">Firefox</a>
+and <a href="https://github.com/DaveRandom/cloud-to-butt-opera">Opera</a>. Check it
+out!</p>
+                </div>
+            </article>
+            <hr/>
+            <article class="entry tag-quote category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2013/01/24/be-wary-of-strong-drink/">Be wary of strong drink</a></h1>
+                <div class="entry-content"><blockquote>
+<p>Be wary of strong drink. It can make you shoot at tax collectors...and
+miss</p>
+</blockquote>
+<p>--Lazarus Long, Time Enough For Love</p>
+                </div>
+            </article>
+            <hr/>
+            <article class="entry tag-recycling tag-rope tag-waste tag-wire tag-wombling category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2012/11/14/wombling/">Wombling</a></h1>
+                <div class="entry-content"><p><a href="/images/2013/11/wombled.jpg"><img alt="wombled" src="/images/2013/11/wombled-300x168.jpg" /></a>For
+those wondering what the hell this british guy means by wombling, <a href="http://en.wikipedia.org/wiki/The_Wombles">The
+Wombles</a> were a fictional
+species of anthropomorphic burrowing creatures who reused and recycled
+human rubbish. Wombling therefore refers to the act of making use of
+waste that others would simply throw in the bin (or worse, leave on the
+ground for others to deal with). In this case, I have wombled a large
+amount of polypropylene rope and several meters of good quality copper
+wire from a skip.</p>
+<p><a href="/images/2013/11/good_copper.jpg"><img alt="good_copper" src="/images/2013/11/good_copper-300x168.jpg" /></a><br />
+Who in their right mind throws away mains thickness copper?! At the
+very least, it could be scrapped for cash.  </p>
+<p><a href="/images/2013/11/frayed.jpg"><img alt="frayed" src="/images/2013/11/frayed-300x168.jpg" /></a></p>
+<p>The rope hasn't been cared for particularly well. I will need to get the
+ends whipped to prevent further fraying. Its nowhere near recovery grade
+so no towing or winching but it will be useful for tying down stuff. 
+Free cordage is always a good thing.</p>
+<p>Its worth keeping an eye out for things that have been discarded that
+could be of use. As the saying goes, one man's garbage is another's
+treasure.</p>
+                </div>
+            </article>
+            <hr/>
+            <article class="entry tag-irc tag-quote tag-self-defence category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2012/10/10/uk-self-defence/">UK Self Defence</a></h1>
+                <div class="entry-content"><blockquote>
+<p>11:57 &lt; IronAngel&gt; the example further down of picking up a brick to
+fend off an attacker<br />
+11:57 &lt; IronAngel&gt; soon you will have to have a letter from the
+home office to buy bricks<br />
+11:57 &lt; kevinisageek&gt; true story</p>
+</blockquote>
+                </div>
+            </article>
+            <hr/>
+            <article class="entry tag-crazy-aussie-bloke tag-predator tag-rip category-uncategorized">
+              <h1 class="entry-title">
+                <a href="./2012/07/24/predator-archive/">Predator Archive</a></h1>
+                <div class="entry-content"><p>Thought I would throw up a copy of some interesting files written by
+Michael Carlton aka Predator. He was a rather influential dude from
+Sydney, Australia who was involved in several underground media projects
+and a whole bunch of other stuff. Alas, he is no more, having passed
+nearly a decade ago. Information on the guy is surprisingly sparse, the
+main project he was involved with, http://cat.org.au is offline so
+information cannot be gleaned there.</p>
+<p>However, all is not lost. I managed to get what is essentially a dump of
+his home folder
+(<a href="/misc/predarchive.tar">predarchive</a>)
+from my mate Harlequin, who I believe was connected to Pred in some way.
+I have also just stumbled on the book which is mentioned in various
+places,
+<a href="/misc/pred.txt.pdf">Pred.txt</a>(not
+actually .txt but .pdf).</p>
+<p>Go have a read, if you are anything like me, you will enjoy and want
+more.</p>
+                </div>
+            </article>
+            <hr/>
+
+        <ul class="pagination">
+                <li class="prev"><a href="./index9.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="./index.html">1</a></li>
+                    <li class=""><a
+                            href="./index2.html">2</a></li>
+                    <li class=""><a
+                            href="./index3.html">3</a></li>
+                    <li class=""><a
+                            href="./index4.html">4</a></li>
+                    <li class=""><a
+                            href="./index5.html">5</a></li>
+                    <li class=""><a
+                            href="./index6.html">6</a></li>
+                    <li class=""><a
+                            href="./index7.html">7</a></li>
+                    <li class=""><a
+                            href="./index8.html">8</a></li>
+                    <li class=""><a
+                            href="./index9.html">9</a></li>
+                    <li class="active"><a
+                            href="./index10.html">10</a></li>
+                <li class="next disabled"><a href="#">&raquo;</a></li>
+        </ul>
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://twitter.com/kevinisageek"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="https://github.com/kevinisageek"><i class="fa fa-github-square fa-lg"></i> Github</a></li>
+                <li class="list-group-item"><a href="https://flickr.com/photos/kevinisageek"><i class="fa fa-flickr fa-lg"></i> Flickr</a></li>
+                <li class="list-group-item"><a href="/feed/"><i class="fa fa-rss-square fa-lg"></i> RSS</a></li>
+              </ul>
+            </li>
+
+
+
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2016 Kevin Isageek
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+
+</body>
+</html>

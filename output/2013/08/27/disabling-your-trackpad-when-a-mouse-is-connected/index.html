@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>Disabling your trackpad when a mouse is connected - Random Geekage</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="../../../../2013/08/27/disabling-your-trackpad-when-a-mouse-is-connected/">
+
+        <meta name="author" content="kevin" />
+        <meta name="keywords" content="code,udev" />
+        <meta name="description" content="Typing on my laptop often has the side effect of touching the trackpad and sending the cursor wildly off and insterting text elsewhere. This is highly irritating when programming. Thankfully there is a simple one line fixfor GNU/Linux systems using udev. Simply add ACTION==&#34;add&#34;, SUBSYSTEM==&#34;input&#34;, KERNEL==&#34;mouse ..." />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Random Geekage" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Random Geekage"/>
+        <meta property="og:url" content="../../../.."/>
+        <meta property="og:description" content="Random Geekage"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="../../../../theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="../../../../theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="../../../../theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../../theme/css/style.css" type="text/css"/>
+
+        <link href="../../../../feed/index.html" type="application/atom+xml" rel="alternate"
+              title="Random Geekage ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="../../../../" class="navbar-brand">
+Random Geekage            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="../../../../gpg-public-key/">
+                             GPG Public Key
+                          </a></li>
+                         <li><a href="../../../../reading-list/">
+                             Reading list
+                          </a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="../../../../archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article class="entry tag-code tag-udev category-uncategorized">
+            <header class="entry-header">
+                <h1 class="entry-title">
+                    <a href="../../../../2013/08/27/disabling-your-trackpad-when-a-mouse-is-connected/"
+                       rel="bookmark"
+                       title="Permalink to Disabling your trackpad when a mouse is connected">
+                        Disabling your trackpad when a mouse is connected
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+              <p>Typing on my laptop often has the side effect of touching the trackpad
+and sending the cursor wildly off and insterting text elsewhere. This is
+highly irritating when programming. Thankfully there is a simple one
+line fixfor GNU/Linux systems using udev. Simply add</p>
+<div class="highlight"><pre>ACTION==&quot;add&quot;, SUBSYSTEM==&quot;input&quot;, KERNEL==&quot;mouse[0-9]&quot;, ENV{DISPLAY}=&quot;:0&quot;, ENV{XAUTHORITY}=&quot;/home/&lt;your username&gt;/.Xauthority&quot;, ENV{ID_CLASS}=&quot;mouse&quot;, ENV{REMOVE_CMD}=&quot;/usr/bin/synclient TouchpadOff=0&quot;, RUN+=&quot;/usr/bin/synclient TouchpadOff=1&quot;
+</pre></div>
+
+
+<p>to</p>
+<div class="highlight"><pre>/etc/udev/rules.d/01-touchpad.rules
+</pre></div>
+
+
+<p>unplug and replug your mouse and you should be good to go.</p>
+<p><a href="http://https://wiki.archlinux.org/index.php/Synaptics#Disable_touchpad_upon_external_mouse_detection">Source</a>.</p>
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2013-08-27T19:43:00+01:00"> Tue 27 August 2013</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="../../../../tag/code/">code</a>
+        /
+	<a href="../../../../tag/udev/">udev</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://twitter.com/kevinisageek"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="https://github.com/kevinisageek"><i class="fa fa-github-square fa-lg"></i> Github</a></li>
+                <li class="list-group-item"><a href="https://flickr.com/photos/kevinisageek"><i class="fa fa-flickr fa-lg"></i> Flickr</a></li>
+                <li class="list-group-item"><a href="/feed/"><i class="fa fa-rss-square fa-lg"></i> RSS</a></li>
+              </ul>
+            </li>
+
+
+
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2016 Kevin Isageek
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="../../../../theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../../../../theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="../../../../theme/js/respond.min.js"></script>
+
+
+</body>
+</html>
