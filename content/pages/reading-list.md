@@ -8,7 +8,6 @@ Slug: reading-list
 -   Bertrand Russell - Sceptical Essays
 -   Takuan Soho - The Unfettered Mind (Translated by William Scott
     Wilson)
--   Neil Gaiman - Neverwhere
 -   Eliezer Yudkowski - Rationality: From AI to Zombies
 
 ### Want to read
@@ -33,4 +32,4 @@ Slug: reading-list
 -   Mors Kochanski - Bushcraft
 -   [Richard and Nicholas Crane - Journey to the Centre of the
     Earth](http://www.crazyguyonabike.com/doc/page/?page_id=134003)
-
+    -   Neil Gaiman - Neverwhere
