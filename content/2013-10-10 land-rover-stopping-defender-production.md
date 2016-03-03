@@ -2,7 +2,7 @@ Title: Land Rover stopping Defender production
 Date: 2013-10-10 16:20
 Author: kevin
 Category: Uncategorized
-Tags: Defender, Land Rover, quote
+Tags: Land Rover Defender, quote
 Slug: land-rover-stopping-defender-production
 
 > "What are they going to make instead? Something with nice seats and
