@@ -2,7 +2,7 @@ Title: Well, today could have gone better
 Date: 2013-12-07 17:19
 Author: kevin
 Category: Uncategorized
-Tags: Defender, fail, Land Rover, Serenity, stockholm syndrome
+Tags: fail, Land Rover Defender, stockholm syndrome
 Slug: well-today-could-have-gone-better
 
 I've just finished working on Serenity for the day. I would have been

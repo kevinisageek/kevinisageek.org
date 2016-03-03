@@ -2,43 +2,17 @@ Title: Serenity's rear end looks better now
 Date: 2013-12-16 13:14
 Author: kevin
 Category: Uncategorized
-Tags: Defender, Land Rover, lights
+Tags: Land Rover Defender, lights
 Slug: serenitys-rear-end-looks-better-now
 
-[caption id="attachment\_220" align="aligncenter" width="300"][![Orange
-coating has degraded
-severely](/images/2013/12/IMG_20131216_111750-300x225.jpg)](/images/2013/12/IMG_20131216_111750.jpg)
-Orange coating has degraded severely[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25358997052/in/album-72157664706966409/" title="Untitled"><img src="https://farm2.staticflickr.com/1448/25358997052_d4f7a5ec1b_c.jpg" width="800" height="600" alt="Untitled"></a>
 
-[caption id="attachment\_222" align="aligncenter" width="300"][![Small
-crack, not sure if it will pass MOT,
-replaced](/images/2013/12/IMG_20131216_112520-300x225.jpg)](/images/2013/12/IMG_20131216_112520.jpg)
-Small crack, not sure if it will pass MOT, replaced[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25181864990/in/album-72157664706966409/" title="Untitled"><img src="https://farm2.staticflickr.com/1545/25181864990_0e306665f1_c.jpg" width="800" height="600" alt="Untitled"></a>
 
-[caption id="attachment\_221" align="aligncenter" width="300"][![Old
-light isn't as translucent as the other side, new one for
-comparison](/images/2013/12/IMG_20131216_112122-300x225.jpg)](/images/2013/12/IMG_20131216_112122.jpg)
-Old light isn't as translucent as the other side, new one for
-comparison[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/24850737403/in/album-72157664706966409/" title="Untitled"><img src="https://farm2.staticflickr.com/1470/24850737403_b8d35af800_c.jpg" width="800" height="600" alt="Untitled"></a>
 
-[caption id="attachment\_223" align="aligncenter" width="300"][![Never
-goes
-smoothly...](/images/2013/12/IMG_20131216_112533-300x225.jpg)](/images/2013/12/IMG_20131216_112533.jpg)
-Never goes smoothly...[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25451324526/in/album-72157664706966409/" title="Untitled"><img src="https://farm2.staticflickr.com/1477/25451324526_d84253baaf_c.jpg" width="800" height="600" alt="Untitled"></a>
 
-[caption id="attachment\_224" align="aligncenter" width="300"][![5
-minutes with some WD40 and mole grips and I have the screw
-out](/images/2013/12/IMG_20131216_113034-300x225.jpg)](/images/2013/12/IMG_20131216_113034.jpg)
-5 minutes with some WD40 and mole grips and I have the screw
-out[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25181876950/in/album-72157664706966409/" title="Untitled"><img src="https://farm2.staticflickr.com/1555/25181876950_522c4db7b0_c.jpg" width="800" height="600" alt="Untitled"></a>
 
-[caption id="attachment\_225" align="aligncenter" width="225"][![Much
-better
-looking](/images/2013/12/IMG_20131216_113239-225x300.jpg)](/images/2013/12/IMG_20131216_113239.jpg)
-Much better looking[/caption]
-
-[caption id="attachment\_226" align="aligncenter" width="225"][![Spare
-lights. To think I was gonna buy a light kit. Money saved right
-there.](/images/2013/12/IMG_20131216_114220-225x300.jpg)](/images/2013/12/IMG_20131216_114220.jpg)
-Spare lights. To think I was gonna buy a light kit. Money saved right
-there.[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25384599721/in/album-72157664706966409/" title="Untitled"><img src="https://farm2.staticflickr.com/1672/25384599721_aff40f35aa_c.jpg" width="600" height="800" alt="Untitled"></a>

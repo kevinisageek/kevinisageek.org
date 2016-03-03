@@ -5,7 +5,7 @@ Slug: now
 
 What I am up to:
 
-- Maintaining a fussy [2004 TD5 Land Rover Defender 110](/tag/land-rover)
+- Maintaining a fussy [2004 TD5 Land Rover Defender 110](/tag/land-rover-defender)
 - [Keeping my fitness up](http://claymorecrossfit.co.uk/)
 - Planning the next adventure...
 
