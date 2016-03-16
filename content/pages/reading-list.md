@@ -9,7 +9,6 @@ Slug: reading-list
 - Takuan Soho - The Unfettered Mind (Translated by William Scott Wilson)
 - Eliezer Yudkowski - Rationality: From AI to Zombies
 - Neil Gaiman - American Gods
-- Left of Bang - Patrick Van Horne and Jason A. Riley
 
 ### Want to read
 
@@ -32,3 +31,12 @@ Slug: reading-list
 - Mors Kochanski - Bushcraft
 - [Richard and Nicholas Crane - Journey to the Centre of the Earth](http://www.crazyguyonabike.com/doc/page/?page_id=134003)
 - Neil Gaiman - Neverwhere
+- Evan Wright - Generation Kill
+- Ray Mears - Essential Bushcraft
+- Mors Kochanski - Bushcraft
+- Alastair Humphreys - Microadventures
+- Alastair Humphreys - Moods of Future Joys: Around the World by Bike part 1
+- Alastair Humphreys - Thunder and Sunshine: Around the World by Bike Part 2
+- Nathan Edmondson and Mitch Gerards - The Activity Vols 1-3
+- Charles Stross - The Annihilation Score
+- Left of Bang - Patrick Van Horne and Jason A. Riley
