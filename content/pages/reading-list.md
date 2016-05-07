@@ -40,3 +40,4 @@ Slug: reading-list
 - Nathan Edmondson and Mitch Gerards - The Activity Vols 1-3
 - Charles Stross - The Annihilation Score
 - Left of Bang - Patrick Van Horne and Jason A. Riley
+- Extreme Ownership - Jocko Willink and Leif Babin
