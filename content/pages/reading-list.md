@@ -7,8 +7,8 @@ Slug: reading-list
 
 - Bertrand Russell - Sceptical Essays
 - Takuan Soho - The Unfettered Mind (Translated by William Scott Wilson)
-- Eliezer Yudkowski - Rationality: From AI to Zombies
 - Neil Gaiman - American Gods
+- Lt. Col. Dave Grossman - On Combat
 
 ### Want to read
 
