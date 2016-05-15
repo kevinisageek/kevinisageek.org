@@ -39,7 +39,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/kevinisageek'),
 DEFAULT_PAGINATION = 10
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+    (2, '{base_name}/{number}/', '{base_name}/{number}/index.html'),
 )
 
 # Plugins
