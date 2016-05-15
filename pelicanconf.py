@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Kevin Isageek'
+AUTHOR = u'Kevin Smith'
 SITENAME = u'Random Geekage'
 SITEURL = 'http://localhost:8000'
 
@@ -35,13 +35,16 @@ SOCIAL = (('Twitter', 'https://twitter.com/kevinisageek'),
 )
 
 # Pagination
+#USE_PAGINATION = True
 DEFAULT_PAGINATION = 10
+PAGINATION_PATTERNS = (
+    (1, '{base_name}/', '{base_name}/index.html'),
+    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)
 
-#PAGINATION_PATTERNS = (
-    #(1, '{base_name}/', '{base_name}/index.html'),
-    #(2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
-    #)
-
+# Plugins
+PLUGIN_PATHS = ['plugins',]
+#PLUGINS = ['tipue_search']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

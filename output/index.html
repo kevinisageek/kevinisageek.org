@@ -10,26 +10,25 @@
 
 
 
-<link rel="canonical" href=".">
-        <meta name="author" content="Kevin Isageek" />
+<link rel="canonical" href="http://localhost:8000">
+        <meta name="author" content="Kevin Smith" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="Random Geekage" />
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="Random Geekage"/>
-        <meta property="og:url" content="."/>
+        <meta property="og:url" content="http://localhost:8000"/>
         <meta property="og:description" content="Random Geekage"/>
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="http://localhost:8000/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://localhost:8000/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="./theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+    <link href="http://localhost:8000/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="http://localhost:8000/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://localhost:8000/theme/css/style.css" type="text/css"/>
 
-        <link href="./feed/index.html" type="application/atom+xml" rel="alternate"
-              title="Random Geekage ATOM Feed"/>
 
 </head>
 <body>
@@ -43,23 +42,28 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="./" class="navbar-brand">
+            <a href="http://localhost:8000/" class="navbar-brand">
 Random Geekage            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="./gpg-public-key/">
+                         <li><a href="http://localhost:8000/gpg-public-key/">
                              GPG Public Key
                           </a></li>
-                         <li><a href="./now/">
+                         <li><a href="http://localhost:8000/now/">
                              Now
                           </a></li>
-                         <li><a href="./reading-list/">
+                         <li><a href="http://localhost:8000/reading-list/">
                              Reading list
                           </a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              <li><span>
+                <form class="navbar-search" action="/search">
+                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+                </form></span>
+              </li>
+              <li><a href="http://localhost:8000/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -73,7 +77,7 @@ Random Geekage            </a>
 
             <article class="entry tag-training tag-fitness tag-saitama tag-one-punch-man tag-anime category-misc">
               <h1 class="entry-title">
-                <a href="./2016/05/07/training/">Training</a></h1>
+                <a href="http://localhost:8000/2016/05/07/training/">Training</a></h1>
                 <div class="entry-content"><blockquote>
 <p>Listen, Genos. You just have to keep doing it. No matter how hard it gets. It took me three years to get this strong.</p>
 <p>One hundred push-ups! One hundred sit-ups! One hundred squats! Then a 10km run! Every single day!</p>
@@ -87,7 +91,7 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-edc tag-gear tag-daily-carry category-misc">
               <h1 class="entry-title">
-                <a href="./2016/03/14/edc-2016-03/">EDC 2016-03</a></h1>
+                <a href="http://localhost:8000/2016/03/14/edc-2016-03/">EDC 2016-03</a></h1>
                 <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25666567442/in/datetaken/" title="EDC Bag"><img src="https://farm2.staticflickr.com/1554/25666567442_efb9a73bd3_c.jpg" width="800" height="646" alt="EDC Bag"></a></p>
 <ul>
 <li>GR1 26l</li>
@@ -113,14 +117,14 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-coffee tag-micro category-misc">
               <h1 class="entry-title">
-                <a href="./2016/03/08/coffee/">Coffee</a></h1>
+                <a href="http://localhost:8000/2016/03/08/coffee/">Coffee</a></h1>
                 <div class="entry-content"><p><br/ ><a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/25345531730/in/datetaken/" title="Untitled"><img src="https://farm2.staticflickr.com/1512/25345531730_e82ec012b7_c.jpg" width="600" height="800" alt="Untitled"></a>&lt;</p>
                 </div>
             </article>
             <hr/>
             <article class="entry tag-motivation tag-get-up-and-do-stuff category-misc">
               <h1 class="entry-title">
-                <a href="./2016/02/05/motivation/">Motivation</a></h1>
+                <a href="http://localhost:8000/2016/02/05/motivation/">Motivation</a></h1>
                 <div class="entry-content"><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/IdTMDpizis8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="https://twitter.com/redteamsblog/status/695654345619193857">Via @redteamsblog</a>.</p>
@@ -129,7 +133,7 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-rope-climbing tag-fitness tag-crossfit tag-micro category-misc">
               <h1 class="entry-title">
-                <a href="./2015/12/07/rope-climbing/">Rope climbs are fun.</a></h1>
+                <a href="http://localhost:8000/2015/12/07/rope-climbing/">Rope climbs are fun.</a></h1>
                 <div class="entry-content"><p>Marked improvement in upper body strength. Need to work on foot technique but progress is progress.</p>
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/QO0lUp6DO1A?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -139,7 +143,7 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-photo tag-redteams tag-vagabonding tag-tad-litespeed tag-gear category-misc">
               <h1 class="entry-title">
-                <a href="./2015/11/25/Stuff/">Stuff</a></h1>
+                <a href="http://localhost:8000/2015/11/25/Stuff/">Stuff</a></h1>
                 <div class="entry-content"><p><a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/23295458432/in/datetaken/" title="Stuff"><img src="https://farm1.staticflickr.com/750/23295458432_bc6d4d77db_z.jpg" width="480" height="640" alt="Stuff" /></a></p>
 <p>I do stuff. I go places.</p>
                 </div>
@@ -147,7 +151,7 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-bicycle tag-surly-troll category-uncategorized">
               <h1 class="entry-title">
-                <a href="./2015/08/05/semi-skim/">Semi Skim</a></h1>
+                <a href="http://localhost:8000/2015/08/05/semi-skim/">Semi Skim</a></h1>
                 <div class="entry-content"><p>Not <a href="https://flic.kr/p/jG8yUH">full fat</a>, not <a href="https://flic.kr/p/a9t6ag">skim</a>.</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/20313655912/in/datetaken/" title="Semi Skim"><img src="https://farm6.staticflickr.com/5618/20313655912_cbaaf752ac_c.jpg" width="800" height="450" alt="Semi Skim"></a></p>
 <p>Semi skim.</p>
@@ -156,14 +160,14 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-bike tag-fitness tag-micro category-uncategorized">
               <h1 class="entry-title">
-                <a href="./2015/08/03/not-cycling/">Not been on the bike for months.</a></h1>
+                <a href="http://localhost:8000/2015/08/03/not-cycling/">Not been on the bike for months.</a></h1>
                 <div class="entry-content"><p>Shocking behaviour, I know. Needs to change. Went up to the co-op for some salad for dinner in an attempt to arrest the dependence on the Land Rover. Legs are burning, throat is raw. Only a 2km trip. Caught a midge in the eye too. Must get better.</p>
                 </div>
             </article>
             <hr/>
             <article class="entry tag-schiehallion tag-vagabonding tag-photos category-uncategorized">
               <h1 class="entry-title">
-                <a href="./2015/08/03/schiehallion-again/">Schiehallion Again</a></h1>
+                <a href="http://localhost:8000/2015/08/03/schiehallion-again/">Schiehallion Again</a></h1>
                 <div class="entry-content"><p>A couple of months ago, <a href="http://lynsayshepherd.com">Lynsay</a> and I climbed up <a href="https://en.wikipedia.org/wiki/Schiehallion">Schiehallion</a> (my second go, Lynsay's first Munro).</p>
 <p>Took a few photos, nothing spectacular as there was cloud everywhere.</p>
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/19551024342/in/datetaken/" title="Prepped for tomorrow&#x27;s hike up Schiehallion #goruck #bulletruck #bbpack"><img src="https://farm1.staticflickr.com/457/19551024342_36533c4bba_q.jpg" width="150" height="150" alt="Prepped for tomorrow&#x27;s hike up Schiehallion #goruck #bulletruck #bbpack"></a>
@@ -179,7 +183,7 @@ Random Geekage            </a>
             <hr/>
             <article class="entry tag-book tag-micro tag-cycling tag-quote category-uncategorized">
               <h1 class="entry-title">
-                <a href="./2015/06/26/moods-of-future-joys/">Currently reading "Moods of Future Joys" by Alastair Humphreys.</a></h1>
+                <a href="http://localhost:8000/2015/06/26/moods-of-future-joys/">Currently reading "Moods of Future Joys" by Alastair Humphreys.</a></h1>
                 <div class="entry-content"><p>It is the <a href="http://www.alastairhumphreys.com/books/moods-of-future-joys-part-1-riding-into-africa/">first half of his autobiographical account</a> of the 4 years he spent traversing the globe by bicycle on a slim budget of £7000. From London, through Europe, the Middle East and down the east of Africa.</p>
 <blockquote>
 <p>Mornings come peacefully on the road. I wake slowly with the daylight, turning in my sleeping bag, adjusting the bundle of clothes that act as my pillow and dozing off once or twice until my head is clear and ready to begin the day. I lie still and listen to the sounds outside my tent. Sometimes birdsong, sometimes whooshing vehicles, sometimes water, sometimes silence. I unzip the tent door and feel the fresh air on my face. I check the weather and particlarly the wind: strong winds can seriously spoil my day.</p>
@@ -191,27 +195,27 @@ Random Geekage            </a>
         <ul class="pagination">
                 <li class="prev disabled"><a href="#">&laquo;</a></li>
                     <li class="active"><a
-                            href="./index.html">1</a></li>
+                            href="http://localhost:8000/page//">1</a></li>
                     <li class=""><a
-                            href="./index2.html">2</a></li>
+                            href="http://localhost:8000/page/2/">2</a></li>
                     <li class=""><a
-                            href="./index3.html">3</a></li>
+                            href="http://localhost:8000/page/3/">3</a></li>
                     <li class=""><a
-                            href="./index4.html">4</a></li>
+                            href="http://localhost:8000/page/4/">4</a></li>
                     <li class=""><a
-                            href="./index5.html">5</a></li>
+                            href="http://localhost:8000/page/5/">5</a></li>
                     <li class=""><a
-                            href="./index6.html">6</a></li>
+                            href="http://localhost:8000/page/6/">6</a></li>
                     <li class=""><a
-                            href="./index7.html">7</a></li>
+                            href="http://localhost:8000/page/7/">7</a></li>
                     <li class=""><a
-                            href="./index8.html">8</a></li>
+                            href="http://localhost:8000/page/8/">8</a></li>
                     <li class=""><a
-                            href="./index9.html">9</a></li>
+                            href="http://localhost:8000/page/9/">9</a></li>
                     <li class=""><a
-                            href="./index10.html">10</a></li>
+                            href="http://localhost:8000/page/10/">10</a></li>
                 <li class="next"><a
-                        href="./index2.html">&raquo;</a></li>
+                        href="http://localhost:8000/page/2/">&raquo;</a></li>
         </ul>
         </div>
         <div class="col-sm-3" id="sidebar">
@@ -240,7 +244,7 @@ Random Geekage            </a>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2016 Kevin Isageek
+         <div class="col-xs-10">&copy; 2016 Kevin Smith
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
@@ -248,13 +252,13 @@ Random Geekage            </a>
       </div>
    </div>
 </footer>
-<script src="./theme/js/jquery.min.js"></script>
+<script src="http://localhost:8000/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="./theme/js/bootstrap.min.js"></script>
+<script src="http://localhost:8000/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="./theme/js/respond.min.js"></script>
+<script src="http://localhost:8000/theme/js/respond.min.js"></script>
 
 
 </body>
