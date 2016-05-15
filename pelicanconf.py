@@ -43,11 +43,13 @@ PAGINATION_PATTERNS = (
 )
 
 # Plugins
-PLUGIN_PATHS = ['plugins',]
+#PLUGIN_PATHS = ['plugins',]
 #PLUGINS = ['tipue_search']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+DIRECT_TEMPLATES = (('index', 'tags', 'archives', 'search'))
 
 # URL Formatting
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
