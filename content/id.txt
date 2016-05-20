@@ -2,7 +2,7 @@
 Hash: SHA1
 
 
-Last Updated: 2016-05-120 18:19
+Last Updated: 2016-05-20 18:19
 
 This file is a record of the cryptographic keys and identification that I currently use.
 
@@ -60,19 +60,20 @@ certify their key based solely on our relationship. I use my judgement and discr
 * "Very difficult to forge evidence of identity" often means state issued photo identification 
 which I find convincing. It may also mean a personal attestation from someone who I know well and 
 consider trustworthy.
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBAgAGBQJXP0cUAAoJEOMXsR7KckQrM80P/Ra+o1U73ZyN3FiGyMQXnGnk
-8j6gkKKLqIFCB/JS8uHmUAPJDCD8EwMd1BNRNUVTU4tcDBcr1Lkn5rwiZ3ByFQMO
-uHyXb/Q9FuI9K+OPc7MSGIUe/A71PA6QTbf4Po3l3/NUMFC6LSNXq+YzlyPpsuPu
-i59cQwtegQGG9r1vEueo09eptY80qhXlS74XnQktrEOa3kmBrQKva9atR6ZM4lpk
-Q/JbahUzSr8lBhG1FkU3tpXVr2+R2sAqaV2vcl9W+k3io2rwUOs2Cefoo73EcriR
-0mPz2gjalzjOkKCml4KPFuYEYEIzx5FvqkEkk4xbISKaIWRWd7f/s2f9dps2VSWg
-17kyJDmZv3QN8qVmqa6mhe4MQij89Gw+ZXrq0OfZ0KL5nWHKXugZ9vVGVVcDYQyL
-kty9K+WnrlvxhDqMmrhXbSN0VrXS4PIjphEI6bDM9N8/svct1JqjQEKSXv0C+cjL
-A12UtEQy9YwDh1DupQ1g4rZS6ClkKXsWIdhnrkguomq+fZK8+rvS19k9+FtEVpN/
-CMWTuoC/LzoM9HSpDmbgL6KPtPxXZq2fech5RdZo1lKuA+8OJJNEuovuGfxg74fS
-DBulnkRgSl9g0juBEYp74pvX0AUCCQGbStw9wtRPP9at7svigYIMBBmFKaAfowEt
-zAUOLfy2b0JlIxhPlB4+
-=0jUS
+iQIcBAEBAgAGBQJXP0fGAAoJEOMXsR7KckQrueQQAIRmvGdxktpDyUBFhckvWkJ5
+9MxMYRUZh7G/zGVCXrRhvI4iZu0OVVv/brQDsH2jgxMUV6NOALr33jrxX5KKpZ7p
+XIxVa9oxNyD/L56FmPMrYu7/YZOxKDsIyFytr4On4ojWIclE/nwdK+QDXHQqgduQ
+FkMda1rnFkOiMSAQUtsVvK7/djLtP6ojiFext3mQFzSN4pUDLud8vr/ad7I/1czm
+WXR2BOJa35mrZG2A8PCe78rq9coJzi0iVTg4AY9jKe45g4Lr+MAo2/OQh1E4oT/W
+Rva7aTX57mJwyp/CcJLxhY6GQHggZm7RrU0rZefQHsutTycHjnEhjc1G5Xsvv7MC
+pgxx6GsVABZh26xIzyjHQtIfV6x+eCvQzBLo8Gy5fGvx6hBWGrMIuvsWl34WnlBc
+yh35OAL2OFy4/xmtfJKe+vF1ATBcEaIg7AKWoGJjQqTwRTMEJ5fXnzWxl4uXPM21
+1Fa+3kMruWpKH6OlxKlChSSSY/+eYKOxvSWK2rmQjxLEJmX1w5zaOZeEQ9jtXMyz
+QkNPd8X5IGj/TNQ4KZGdoENrdOtMI9dFPz9ts9PKGxo7HQ0Pxiq7lkdkZJcLly4V
+otJt4SVf5aWJDYd4j7QQyGVfeSYSqDtOAPEChhuVjyZIIjBj0WGP4/kdhPD4HBdw
+wLOY5j9knF44ZEoILfFY
+=+Ecw
 -----END PGP SIGNATURE-----
