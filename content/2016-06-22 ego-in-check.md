@@ -3,6 +3,5 @@ Date: 2016-06-22
 Author: kevin
 Tags: micro, crossfit, fitness, ego
 Slug: ego-in-check
-Status: draft
 
 Look at the WOD, think to yourself "that looks easy, no bother." Halfway through the WOD, you reconsider. Finish up, you are humbled by the weight.
