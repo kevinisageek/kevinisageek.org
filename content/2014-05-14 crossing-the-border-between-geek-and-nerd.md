@@ -1,6 +1,6 @@
 Title: Crossing the border between geek and nerd
 Date: 2014-05-14 10:39
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: RPG, The Laundry Files
 Slug: crossing-the-border-between-geek-and-nerd

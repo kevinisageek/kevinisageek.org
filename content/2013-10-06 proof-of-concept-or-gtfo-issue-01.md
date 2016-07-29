@@ -1,6 +1,6 @@
 Title: Proof of Concept or GTFO issue 01
 Date: 2013-10-06 19:13
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: paper, Pastor Manul Laphroaig, tech
 Slug: proof-of-concept-or-gtfo-issue-01

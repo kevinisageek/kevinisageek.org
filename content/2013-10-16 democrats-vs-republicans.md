@@ -1,6 +1,6 @@
 Title: Democrats Vs Republicans
 Date: 2013-10-16 21:10
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: irc, quote, US shutdown
 Slug: democrats-vs-republicans

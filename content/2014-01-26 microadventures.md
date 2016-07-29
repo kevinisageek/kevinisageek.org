@@ -1,6 +1,6 @@
 Title: Just come across the idea of microadventures.
 Date: 2014-01-26 21:39
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: microadventures, vagabonding, micro
 Slug: microadventures

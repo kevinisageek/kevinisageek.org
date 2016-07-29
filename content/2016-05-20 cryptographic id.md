@@ -1,6 +1,6 @@
 Title: Cryptographic ID
 Date: 2016-05-20 18:30
-Author: kevin
+Author: Kevin
 Tags: cryptography, gpg, ssh, signal, verification
 Slug: crypto-id
 Status: draft

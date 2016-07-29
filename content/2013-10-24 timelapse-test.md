@@ -1,6 +1,6 @@
 Title: Timelapse Test
 Date: 2013-10-24 10:55
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: GoPro, timelapse, video
 Slug: timelapse-test

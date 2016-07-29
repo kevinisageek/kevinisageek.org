@@ -1,6 +1,6 @@
 Title: Motivation
 Date: 2016-02-05 17:40
-Author: kevin
+Author: Kevin
 Tags: motivation, get up and do stuff
 Slug: motivation
 

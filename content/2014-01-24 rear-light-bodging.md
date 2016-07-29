@@ -1,6 +1,6 @@
 Title: Rear light bodging
 Date: 2014-01-24 13:39
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: bicycle, diy, light
 Slug: rear-light-bodging

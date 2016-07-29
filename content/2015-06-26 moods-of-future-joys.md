@@ -1,6 +1,6 @@
 Title: Currently reading "Moods of Future Joys" by Alastair Humphreys.
 Date: 2015-06-26 13:20
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: book, micro, cycling, quote
 Slug: moods-of-future-joys

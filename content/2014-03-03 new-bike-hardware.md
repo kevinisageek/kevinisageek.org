@@ -1,6 +1,6 @@
 Title: New bike hardware
 Date: 2014-03-03 14:54
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: bike, pannier, yay new kit
 Slug: new-bike-hardware

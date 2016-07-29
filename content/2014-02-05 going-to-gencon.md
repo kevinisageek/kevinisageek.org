@@ -1,6 +1,6 @@
 Title: Going to Gencon!
 Date: 2014-02-05 15:55
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: gencon, vagabonding, micro
 Slug: going-to-gencon

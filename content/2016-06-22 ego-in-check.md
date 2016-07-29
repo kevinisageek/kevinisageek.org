@@ -1,6 +1,6 @@
 Title: Crossfit is one of the quickest ways to put your ego in check.
 Date: 2016-06-22
-Author: kevin
+Author: Kevin
 Tags: micro, crossfit, fitness, ego
 Slug: ego-in-check
 

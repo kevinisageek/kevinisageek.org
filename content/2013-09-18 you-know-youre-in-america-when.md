@@ -1,6 +1,6 @@
 Title: You know you're in America when
 Date: 2013-09-18 19:45
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: 'Murica, micro
 Slug: you-know-youre-in-america-when

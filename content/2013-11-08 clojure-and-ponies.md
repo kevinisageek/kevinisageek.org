@@ -1,6 +1,6 @@
 Title: Clojure and ponies
 Date: 2013-11-08 14:35
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: clojure, geek, MLP
 Slug: clojure-and-ponies

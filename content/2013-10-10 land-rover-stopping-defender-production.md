@@ -1,6 +1,6 @@
 Title: Land Rover stopping Defender production
 Date: 2013-10-10 16:20
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: Land Rover Defender, quote
 Slug: land-rover-stopping-defender-production

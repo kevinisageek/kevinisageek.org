@@ -1,6 +1,6 @@
 Title: Accessorising
 Date: 2014-07-04 11:40
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: bicycle, Klean Kanteen
 Slug: accessorising

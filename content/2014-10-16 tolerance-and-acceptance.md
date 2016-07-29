@@ -1,6 +1,6 @@
 Title: Tolerance and Acceptance
 Date: 2014-10-16 13:09
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: lgbtq+
 Slug: tolerance-and-acceptance

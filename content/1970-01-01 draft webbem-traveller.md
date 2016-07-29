@@ -1,6 +1,6 @@
 Title: Webbem Traveller
 Date: 1970-01-01 00:00
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Status: draft
 Tags: edc, gear, review

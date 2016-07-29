@@ -1,6 +1,6 @@
 Title: Disabling your trackpad when a mouse is connected
 Date: 2013-08-27 19:43
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: code, udev
 Slug: disabling-your-trackpad-when-a-mouse-is-connected

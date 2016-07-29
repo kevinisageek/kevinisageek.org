@@ -1,6 +1,6 @@
 Title: Minimal EDC
 Date: 2015-04-24 09:03
-Author: kevin
+Author: Kevin
 Tags: EDC, gear, photo
 Slug: minimal-edc
 
@@ -13,4 +13,4 @@ Don't need much for daily carry.
 * Webbem Traveller
 * Nexus 4 mobile phone
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/17252167881/in/datetaken/" title="Minimal EDC"><img src="https://farm9.staticflickr.com/8723/17252167881_3620d852bb_c.jpg" width="450" height="800" alt="Minimal EDC" /></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/Kevinisageek/17252167881/in/datetaken/" title="Minimal EDC"><img src="https://farm9.staticflickr.com/8723/17252167881_3620d852bb_c.jpg" width="450" height="800" alt="Minimal EDC" /></a>

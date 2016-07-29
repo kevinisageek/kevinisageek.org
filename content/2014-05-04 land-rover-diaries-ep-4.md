@@ -1,6 +1,6 @@
 Title: Land Rover Diaries EP 4
 Date: 2014-05-04 21:25
-Author: kevin
+Author: Kevin
 Tags: Land Rover Defender, video
 Slug: land-rover-diaries-ep-4
 

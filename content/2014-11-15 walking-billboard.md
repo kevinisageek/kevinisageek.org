@@ -1,6 +1,6 @@
 Title: Walking billboard
 Date: 2014-11-15 11:59
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: tadgear
 Slug: walking-billboard

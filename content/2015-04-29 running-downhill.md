@@ -1,6 +1,6 @@
 Title: Running downhill
 Date: 2015-04-29 11:03
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: micro, running
 Slug: running-downhill

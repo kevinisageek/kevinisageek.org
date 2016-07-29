@@ -1,6 +1,6 @@
 Title: I fail at subkeys
 Date: 2014-03-01 12:04
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: fail, GPG
 Slug: i-fail-at-subkeys
@@ -13,5 +13,5 @@ Long story short, my encryption subkey expired a few months ago. In my
 defence, "expires" and "expired" look bloody similar in a monospaced
 font on a terminal. I've extended the expiry date.  
 [Grab my updated key
-here](http://kevinisageek.org/gpg-public-key/ "GPG Public Key") or do
+here](http://Kevinisageek.org/gpg-public-key/ "GPG Public Key") or do
 `gpg --recv-keys BAF45865` to update.

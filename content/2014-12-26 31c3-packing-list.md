@@ -1,6 +1,6 @@
 Title: 31C3 Packing List
 Date: 2014-12-26 10:51
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: 31C3, gear, vagabonding
 Slug: 31c3-packing-list
@@ -20,14 +20,14 @@ want to take with me.
 Enter the [Goruck GR0](http://www.goruck.com/en/gr0). Plenty of room to
 fit what I need yet not unwieldy.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/kevinisageek/22790290624/in/album-72157659518140073/" title="Untitled"><img src="https://farm6.staticflickr.com/5720/22790290624_98158f374f_c.jpg" width="450" height="800" alt="Untitled" /></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/Kevinisageek/22790290624/in/album-72157659518140073/" title="Untitled"><img src="https://farm6.staticflickr.com/5720/22790290624_98158f374f_c.jpg" width="450" height="800" alt="Untitled" /></a>
 
 -   Clothes in a Kifaru extra large pullout (2 pairs boxer shorts, 2
     pairs socks, 2 tshirts, 1 pair sleeping boxers, merino wool thermal
     top
 -   1.2 litre (40oz) Klean Kanteen
 -   Map of Hamburg
--   [Notebook](http://kevinisageek.org/2014/05/10/i-comissioned-a-field-notes-leather-notebook-cover/ "I comissioned a Field Notes leather notebook cover"),
+-   [Notebook](http://Kevinisageek.org/2014/05/10/i-comissioned-a-field-notes-leather-notebook-cover/ "I comissioned a Field Notes leather notebook cover"),
     Sharpie and passport
 -   book
 -   USB battery, mini and micro USB cables

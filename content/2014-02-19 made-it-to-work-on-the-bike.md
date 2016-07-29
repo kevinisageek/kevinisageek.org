@@ -1,6 +1,6 @@
  Title: Made it to work on the bike
 Date: 2014-02-19 16:26
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: bike
 Slug: made-it-to-work-on-the-bike

@@ -1,6 +1,6 @@
 Title: Triple Aught Design trousers are the shiznit!
 Date: 2013-12-30 12:07
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: TAD, Triple Aught Design, trousers
 Slug: triple-aught-design-trousers-are-the-shiznit

@@ -1,9 +1,9 @@
 Title: My name is Kevinus Isageekus
 Date: 2014-02-21 11:04
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: Cold Steel, gladius
-Slug: my-name-is-kevinus-isageekus
+Slug: my-name-is-Kevinus-isageekus
 
 > Owner of a slow moving website, caretaker of a buggered land rover! I
 > will get my geek on in this life, but not the next, as I'm an atheist!

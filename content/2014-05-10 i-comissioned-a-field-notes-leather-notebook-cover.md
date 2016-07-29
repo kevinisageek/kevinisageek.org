@@ -1,6 +1,6 @@
 Title: I comissioned a Field Notes leather notebook cover
 Date: 2014-05-10 10:49
-Author: kevin
+Author: Kevin
 Category: Uncategorized
 Tags: EDC, leatherwork
 Slug: i-comissioned-a-field-notes-leather-notebook-cover
