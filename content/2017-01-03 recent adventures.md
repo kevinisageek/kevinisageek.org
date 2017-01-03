@@ -2,7 +2,7 @@ Title: Been out and about the past month or so.
 Date: 2017-01-03 19:45
 Author: Kevin
 Tags: micro, photos
-Slug: recent-adventures.
+Slug: recent-adventures
 
 Day trips with my partner. Mostly to hunt down rocks of various sorts, as well as plants.
 
