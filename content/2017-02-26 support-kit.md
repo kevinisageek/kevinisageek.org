@@ -1,5 +1,5 @@
 Title: EDC electronics support kit
-Date: 1970-01-01 00:00
+Date: 2017-02-26 09:50
 Tags: edc, electronics, kit, power
 Slug: edc-electronics-support-kit
 
