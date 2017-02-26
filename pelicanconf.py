@@ -29,8 +29,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/kevinisageek'),
           ('Github', 'https://github.com/kevinisageek'),
-	  ('Flickr', 'https://flickr.com/photos/kevinisageek'),
-	  #('Instagram', 'https://instagram.com/kevinisageek_'),
+          ('Flickr', 'https://flickr.com/photos/kevinisageek'),
           ('RSS', '/feed/'),
 )
 

@@ -15,7 +15,7 @@ Additionally, I have a set of headphones to avoid being subject to sonic assault
 
 A USB fast charge adapter rounds up the power side of things. Public USB sockets are suspect at best, who knows what is on the other side of the connector. Could be a dumb power supply, could be a full blown computer sucking down all your phone data and sending it off to shady places, possibly giving you malware at the same time. Don't be a fool, protect your tool.
 
-The last few items in the kit aren't strictly power related but they fit in well anyway. I have a physical GPG smart card reader with built in smart card so I can do GPG stuff and have a good degree of confidence that if either my laptop or the kit gets stolen/lost, folk can't impersonate me by email. I have a Kingston 32GB pendrive for quick data storage/transfer and lastly, a lighter. Because fire is a good thing to have on command.
+The last few items in the kit aren't strictly power related but they fit in well anyway. I have a physical GPG smart card reader with built in smart card so I can do GPG stuff and have a good degree of confidence that if either my laptop or the kit gets stolen/lost, folk can't impersonate me by email. I have a Kingston 32GB pendrive for quick data storage/[transfer](https://en.wikipedia.org/wiki/Sneakernet) and lastly, a lighter. Because fire is a good thing to have on command.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/32278572594/in/photostream/" title="EDC electronics support kit"><img src="https://c1.staticflickr.com/1/728/32278572594_d254cec08b_c.jpg" width="600" height="800" alt="EDC electronics support kit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
