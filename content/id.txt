@@ -1,8 +1,5 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
 
-
-Last Updated: 2016-05-20 18:19
+Last Updated: 2017-02-26 12:22
 
 This file is a record of the cryptographic keys and identification that I currently use.
 
@@ -24,6 +21,11 @@ I cannot invalidate them.
 
 I will be moving to a smartcard based system in the near future so the key associated with this fingerprint
 will be obsoleted then.
+
+IRC OTR Fingerprint
+===================
+
+3262CDF6 D164F8E2 33591890 F5C1ADE8 427692C3 kevinisageek on irc.freenode.net
 
 Signal private messenger
 ========================
@@ -61,19 +63,3 @@ certify their key based solely on our relationship. I use my judgement and discr
 which I find convincing. It may also mean a personal attestation from someone who I know well and 
 consider trustworthy.
 
------BEGIN PGP SIGNATURE-----
-
-iQIcBAEBAgAGBQJXP0fGAAoJEOMXsR7KckQrueQQAIRmvGdxktpDyUBFhckvWkJ5
-9MxMYRUZh7G/zGVCXrRhvI4iZu0OVVv/brQDsH2jgxMUV6NOALr33jrxX5KKpZ7p
-XIxVa9oxNyD/L56FmPMrYu7/YZOxKDsIyFytr4On4ojWIclE/nwdK+QDXHQqgduQ
-FkMda1rnFkOiMSAQUtsVvK7/djLtP6ojiFext3mQFzSN4pUDLud8vr/ad7I/1czm
-WXR2BOJa35mrZG2A8PCe78rq9coJzi0iVTg4AY9jKe45g4Lr+MAo2/OQh1E4oT/W
-Rva7aTX57mJwyp/CcJLxhY6GQHggZm7RrU0rZefQHsutTycHjnEhjc1G5Xsvv7MC
-pgxx6GsVABZh26xIzyjHQtIfV6x+eCvQzBLo8Gy5fGvx6hBWGrMIuvsWl34WnlBc
-yh35OAL2OFy4/xmtfJKe+vF1ATBcEaIg7AKWoGJjQqTwRTMEJ5fXnzWxl4uXPM21
-1Fa+3kMruWpKH6OlxKlChSSSY/+eYKOxvSWK2rmQjxLEJmX1w5zaOZeEQ9jtXMyz
-QkNPd8X5IGj/TNQ4KZGdoENrdOtMI9dFPz9ts9PKGxo7HQ0Pxiq7lkdkZJcLly4V
-otJt4SVf5aWJDYd4j7QQyGVfeSYSqDtOAPEChhuVjyZIIjBj0WGP4/kdhPD4HBdw
-wLOY5j9knF44ZEoILfFY
-=+Ecw
------END PGP SIGNATURE-----
