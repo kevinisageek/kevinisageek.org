@@ -8,5 +8,5 @@ Public key ID: 0xBAF45865
 Fingerprint: 0EF0 B344 CAB4 684B 46E5 19F1 1077 E792 BAF4 5865
 
 To add to your keyring, do `gpg --recv-keys BAF45865` or grab [this
-file](/misc/kevinatkevinisageekdotorg.gpg.asc) and import with
+file](/kevinatkevinisageekdotorg.gpg.asc) and import with
 `gpg --import kevinatkevinisageekdotorg.gpg.asc`

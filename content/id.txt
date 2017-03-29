@@ -1,5 +1,5 @@
 
-Last Updated: 2017-02-26 12:22
+Last Updated: 2017-02-28 16:22
 
 This file is a record of the cryptographic keys and identification that I currently use.
 
@@ -26,6 +26,13 @@ IRC OTR Fingerprint
 ===================
 
 3262CDF6 D164F8E2 33591890 F5C1ADE8 427692C3 kevinisageek on irc.freenode.net
+
+XMPP OTR Fingerprints
+=====================
+
+kevinisageek@jabber.otr.im
+59879227 0E7D6FD4 5C8EA664 FFD17600 BF1CE8F7 Phone
+CB539509 48BE1279 7197B8A6 9BABCFA1 9E007B27 Laptop
 
 Signal private messenger
 ========================
