@@ -1,1 +1,16 @@
-../../../../../../.git/annex/objects/8p/wP/SHA256E-s610--7f855dcaa4e1740d789cae6f9e8365bde52e54aa2bb7dc323a1126e305f5e03b.html/SHA256E-s610--7f855dcaa4e1740d789cae6f9e8365bde52e54aa2bb7dc323a1126e305f5e03b.html
+{% if ADDTHIS_PROFILE %}
+    <hr />
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style">
+        {% if ADDTHIS_FACEBOOK_LIKE|default(true) %}
+            <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+        {% endif %}
+        {% if ADDTHIS_TWEET|default(true) %}
+            <a class="addthis_button_tweet"></a>
+        {% endif %}
+        {% if ADDTHIS_GOOGLE_PLUSONE|default(true) %}
+            <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+        {% endif %}
+    </div>
+    <!-- AddThis Button END -->
+{% endif %}

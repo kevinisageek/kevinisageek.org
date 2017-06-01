@@ -1,1 +1,11 @@
-../../../../../../.git/annex/objects/fJ/Pm/SHA256E-s430--f00f8d968c00c73c536394f807796046399de6d45eb120a6434c70567f3f55ac.html/SHA256E-s430--f00f8d968c00c73c536394f807796046399de6d45eb120a6434c70567f3f55ac.html
+{% if GITHUB_USER %}
+
+    <li class="list-group-item"><h4><i class="fa fa-github fa-lg"></i><span class="icon-label">GitHub Repos</span></h4>
+        <div id="gh_repos">
+            <p class="list-group-item">Status updating...</p>
+        </div>
+        {% if GITHUB_SHOW_USER_LINK is defined %}
+            <a href="https://github.com/{{ GITHUB_USER }}">@{{ GITHUB_USER }}</a> on GitHub
+        {% endif %}
+    </li>
+{% endif %}

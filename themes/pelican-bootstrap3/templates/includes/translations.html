@@ -1,1 +1,8 @@
-../../../../../../.git/annex/objects/Px/X3/SHA256E-s273--0ce9cbf4c342e817b9ac3f0d8cc3278d20263851070a0a0ce30a3497ee96cef6.html/SHA256E-s273--0ce9cbf4c342e817b9ac3f0d8cc3278d20263851070a0a0ce30a3497ee96cef6.html
+{% macro translations_for(article) %}
+{% if article.translations %}
+<span class="label label-default">Lang</span>
+{% for translation in article.translations %}
+	<a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+{% endfor %}
+{% endif %}
+{% endmacro %}

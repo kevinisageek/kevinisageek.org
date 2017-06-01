@@ -1,1 +1,15 @@
-../../../../../.git/annex/objects/8m/9f/SHA256E-s617--4f4815872387f339531af15f0456c4c68c15b5900a83ba7eae72df49543fb37e.html/SHA256E-s617--4f4815872387f339531af15f0456c4c68c15b5900a83ba7eae72df49543fb37e.html
+{% extends "article_list.html" %}
+{% block title %}{{ category }} - {{ SITENAME }}{% endblock %}
+{% block meta %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="keywords" content="{{ category }}" />
+{% endblock %}
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li><a href="{{ SITEURL}}/{{ CATEGORIES_URL }}" title="{{ SITENAME }} Categories">Categories</a></li>
+        <li class="active">{{ category }}</li>
+    </ol>
+    {% endif %}
+{% endblock %}

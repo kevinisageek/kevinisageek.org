@@ -1,1 +1,37 @@
-../../../../../../.git/annex/objects/9w/jM/SHA256E-s1795--60f67cde5e85a5ef1762e9017693c077d58549d9a6b1901eb1a4dcde9ba93d6a.html/SHA256E-s1795--60f67cde5e85a5ef1762e9017693c077d58549d9a6b1901eb1a4dcde9ba93d6a.html
+{% if articles_page and articles_paginator.num_pages > 1 %}
+    {% if USE_PAGER %}
+        <ul class="pager">
+            {% if articles_page.has_previous() %}
+                <li class="previous"><a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&larr; Newer</a></li>
+            {% else %}
+                <li class="previous disabled"><a href="#">&larr; Newer</a></li>
+            {% endif %}
+            {% if articles_page.has_next() %}
+                <li class="next"><a
+                        href="{{ SITEURL }}/{{ articles_next_page.url }}">Older &rarr;</a></li>
+            {% else %}
+                <li class="next disabled"><a href="#">Older &rarr;</a></li>
+            {% endif %}
+        </ul>
+    {% else %}
+        <ul class="pagination">
+            {% if articles_page.has_previous() %}
+                {% set num = articles_page.previous_page_number() %}
+                <li class="prev"><a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&laquo;</a>
+                </li>
+            {% else %}
+                <li class="prev disabled"><a href="#">&laquo;</a></li>
+            {% endif %}
+            {% for num in range( 1, 1 + articles_paginator.num_pages ) %}
+                    <li class="{{ 'active' if num == articles_page.number else '' }}"><a
+                            href="{{ SITEURL }}/{{ page_name if page_name != 'index' else '' }}{{ num if num > 1 else '' }}/">{{ num }}</a></li>
+                {% endfor %}
+            {% if articles_page.has_next() %}
+                <li class="next"><a
+                        href="{{ SITEURL }}/{{ articles_next_page.url }}">&raquo;</a></li>
+            {% else %}
+                <li class="next disabled"><a href="#">&raquo;</a></li>
+            {% endif %}
+        </ul>
+    {% endif %}
+{% endif %}
