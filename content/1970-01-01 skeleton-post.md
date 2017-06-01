@@ -1,6 +1,4 @@
-Title: skeleton post
-Date: 1970-01-01
+Title: 
+Date: 
 Tags: 
-Slug: skeleton post
-Status: draft
-
+Slug: 
