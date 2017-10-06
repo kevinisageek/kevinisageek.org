@@ -95,6 +95,15 @@ Random Geekage            </a>
                 </div>
             </article>
             <hr/>
+            <article class="entry tag-cryptography tag-gpg tag-ssh tag-signal tag-verification category-misc">
+              <h1 class="entry-title">
+                <a href="../../2016/05/20/crypto-id/">Cryptographic ID</a></h1>
+                <div class="entry-content"><p>A couple days ago, <a href="http://pig-monkey.com/2016/05/id/">Peter posted about having a record of cryptographic information</a> that folk can use to verify that he is who they think they are communicating with. I thought this was a good idea and set about <a href="/id.txt">creating my own record</a>.</p>
+<p>The idea is broadly similar to <a href="https://keybase.io">Keybase</a> but doing it this way means I am not relying on their system for providing verification. It does mean that there is less automation involved but it should be workable for everyone who uses GPG/PGP.</p>
+<p>For the record, my current GPG key setup is less than ideal. The private key is held on my daily use machine which is not the most secure method. I have ordered a set of <a href="http://shop.kernelconcepts.de#openpgp">smart cards and a USB reader</a> and I will regenerate my keys to be used on them on an air-gapped computer, likely running <a href="https://libreboot.org/">Libreboot</a>. When this happens, I will update the id file with my new public key fingerprint and also sign the file as before.</p>
+                </div>
+            </article>
+            <hr/>
             <article class="entry tag-fail tag-gpg category-uncategorized">
               <h1 class="entry-title">
                 <a href="../../2014/03/01/i-fail-at-subkeys/">I fail at subkeys</a></h1>
