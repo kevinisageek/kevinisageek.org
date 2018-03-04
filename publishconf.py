@@ -13,7 +13,7 @@ from pelicanconf import *
 SITEURL = 'https://kevinisageek.org'
 RELATIVE_URLS = True
 
-FEED_ALL_ATOM = 'feed/index.html'
+FEED_ALL_ATOM = 'feed/index.xml'
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
