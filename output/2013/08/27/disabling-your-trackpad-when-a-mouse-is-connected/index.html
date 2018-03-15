@@ -90,12 +90,12 @@ Random Geekage            </a>
 and sending the cursor wildly off and insterting text elsewhere. This is
 highly irritating when programming. Thankfully there is a simple one
 line fixfor GNU/Linux systems using udev. Simply add</p>
-<div class="highlight"><pre>ACTION==&quot;add&quot;, SUBSYSTEM==&quot;input&quot;, KERNEL==&quot;mouse[0-9]&quot;, ENV{DISPLAY}=&quot;:0&quot;, ENV{XAUTHORITY}=&quot;/home/&lt;your username&gt;/.Xauthority&quot;, ENV{ID_CLASS}=&quot;mouse&quot;, ENV{REMOVE_CMD}=&quot;/usr/bin/synclient TouchpadOff=0&quot;, RUN+=&quot;/usr/bin/synclient TouchpadOff=1&quot;
+<div class="highlight"><pre><span></span>ACTION==&quot;add&quot;, SUBSYSTEM==&quot;input&quot;, KERNEL==&quot;mouse[0-9]&quot;, ENV{DISPLAY}=&quot;:0&quot;, ENV{XAUTHORITY}=&quot;/home/&lt;your username&gt;/.Xauthority&quot;, ENV{ID_CLASS}=&quot;mouse&quot;, ENV{REMOVE_CMD}=&quot;/usr/bin/synclient TouchpadOff=0&quot;, RUN+=&quot;/usr/bin/synclient TouchpadOff=1&quot;
 </pre></div>
 
 
 <p>to</p>
-<div class="highlight"><pre>/etc/udev/rules.d/01-touchpad.rules
+<div class="highlight"><pre><span></span>/etc/udev/rules.d/01-touchpad.rules
 </pre></div>
 
 
