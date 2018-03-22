@@ -2,7 +2,7 @@ Title: New bike hardware
 Date: 2014-03-03 14:54
 Author: Kevin
 Category: Uncategorized
-Tags: bike, pannier, yay new kit
+Tags: bicycle, pannier
 Slug: new-bike-hardware
 
 Got a rear pannier (which will act as a mudguard), front mudguard and a
