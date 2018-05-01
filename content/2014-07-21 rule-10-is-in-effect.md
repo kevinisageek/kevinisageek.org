@@ -1,7 +1,6 @@
 Title: Rule 10 is in effect
 Date: 2014-07-21 22:44
 Author: Kevin
-
 Tags: bike
 Slug: rule-10-is-in-effect
 

@@ -1,7 +1,6 @@
 Title: View from the top
 Date: 2014-06-05 20:13
 Author: Kevin
-
 Tags: Craigowl Hill, photo
 Slug: view-from-the-top
 

@@ -1,7 +1,6 @@
 Title: Video from Craigowl Hill
 Date: 2014-06-06 10:52
 Author: Kevin
-
 Tags: Craigowl Hill, video
 Slug: video-from-craigowl-hill
 

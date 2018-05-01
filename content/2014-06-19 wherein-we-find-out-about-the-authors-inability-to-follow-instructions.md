@@ -1,7 +1,6 @@
 Title: Wherein we find out about the author's inability to follow instructions
 Date: 2014-06-19 21:56
 Author: Kevin
-
 Tags: clojure, fail, programming
 Slug: wherein-we-find-out-about-the-authors-inability-to-follow-instructions
 

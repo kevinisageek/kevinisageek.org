@@ -1,7 +1,6 @@
 Title: Schiehallion Again
 Date: 2015-08-03 09:00
 Author: Kevin
-
 Tags: Schiehallion, vagabonding, photos
 Slug: schiehallion-again
 
