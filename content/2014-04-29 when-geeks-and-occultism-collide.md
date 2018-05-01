@@ -1,7 +1,6 @@
 Title: When geeks and occultism collide
 Date: 2014-04-29 09:30
 Author: Kevin
-Category: Uncategorized
 Tags: Charles Stross, quote, The Laundry Files
 Slug: when-geeks-and-occultism-collide
 

@@ -1,7 +1,6 @@
 Title: Field Notes don't like being laundered
 Date: 2014-03-11 15:53
 Author: Kevin
-Category: Uncategorized
 Tags: fail, shit
 Slug: field-notes-dont-like-being-laundered
 

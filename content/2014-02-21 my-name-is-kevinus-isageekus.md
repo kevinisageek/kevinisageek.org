@@ -1,7 +1,6 @@
 Title: My name is Kevinus Isageekus
 Date: 2014-02-21 11:04
 Author: Kevin
-Category: Uncategorized
 Tags: Cold Steel, gladius
 Slug: my-name-is-Kevinus-isageekus
 

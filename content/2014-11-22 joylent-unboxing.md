@@ -1,7 +1,7 @@
 Title: Joylent: Unboxing
 Date: 2014-11-22 10:44
 Author: Kevin
-Category: Uncategorized
+
 Tags: Joylent
 Slug: joylent-unboxing
 

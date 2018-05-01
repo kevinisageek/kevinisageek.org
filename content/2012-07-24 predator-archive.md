@@ -1,7 +1,6 @@
 Title: Predator Archive
 Date: 2012-07-24 19:31
 Author: Kevin
-Category: Uncategorized
 Tags: crazy aussie bloke, predator, rip
 Slug: predator-archive
 

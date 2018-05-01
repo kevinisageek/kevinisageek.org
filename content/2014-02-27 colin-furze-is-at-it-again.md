@@ -1,7 +1,6 @@
 Title: Colin Furze is at it again
 Date: 2014-02-27 17:27
 Author: Kevin
-Category: Uncategorized
 Tags: mental, mobility scooter, video
 Slug: colin-furze-is-at-it-again
 

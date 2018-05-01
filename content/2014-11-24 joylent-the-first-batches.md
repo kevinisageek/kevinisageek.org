@@ -1,7 +1,7 @@
 Title: Joylent: the first batches
 Date: 2014-11-24 10:54
 Author: Kevin
-Category: Uncategorized
+
 Tags: Joylent
 Slug: joylent-the-first-batches
 

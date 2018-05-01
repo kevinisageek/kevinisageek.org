@@ -1,7 +1,6 @@
 Title: Serenity's rear end looks better now
 Date: 2013-12-16 13:14
 Author: Kevin
-Category: Uncategorized
 Tags: Land Rover Defender, lights
 Slug: serenitys-rear-end-looks-better-now
 

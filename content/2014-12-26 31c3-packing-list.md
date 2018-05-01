@@ -1,7 +1,7 @@
 Title: 31C3 Packing List
 Date: 2014-12-26 10:51
 Author: Kevin
-Category: Uncategorized
+
 Tags: 31C3, gear, vagabonding
 Slug: 31c3-packing-list
 

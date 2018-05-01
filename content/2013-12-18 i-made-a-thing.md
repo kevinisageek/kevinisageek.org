@@ -1,7 +1,6 @@
 Title: I made a thing
 Date: 2013-12-18 12:52
 Author: Kevin
-Category: Uncategorized
 Tags: audio, R4nger5 Radio
 Slug: i-made-a-thing
 

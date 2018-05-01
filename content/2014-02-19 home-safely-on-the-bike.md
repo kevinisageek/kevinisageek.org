@@ -1,7 +1,6 @@
 Title: Home safely on the bike.
 Date: 2014-02-19 19:49
 Author: Kevin
-Category: Uncategorized
 Tags: bike, cycling, micro
 Slug: home-safely-on-the-bike
 

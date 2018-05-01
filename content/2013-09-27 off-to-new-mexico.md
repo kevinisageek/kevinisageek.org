@@ -1,7 +1,6 @@
 Title: Off to New Mexico
 Date: 2013-09-17 16:09
 Author: Kevin
-Category: Uncategorized
 Tags: quote, vagabonding
 Slug: off-to-new-mexico
 

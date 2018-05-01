@@ -1,7 +1,6 @@
 Title: Children’s Bible Coloring Book of PoC || GTFO Issue 0x02
 Date: 2013-12-30 12:21
 Author: Kevin
-Category: Uncategorized
 Tags: poc||gtfo
 Slug: childrens-bible-coloring-book-of-poc-or-gtfo-issue-0x02
 

@@ -1,7 +1,6 @@
 Title: Finally fused
 Date: 2014-02-19 14:08
 Author: Kevin
-Category: Uncategorized
 Tags: electrics, Land Rover Defender
 Slug: finally-fused
 

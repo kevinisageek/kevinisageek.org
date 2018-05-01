@@ -1,7 +1,6 @@
 Title: Anyone want a tow?
 Date: 2013-12-05 12:01
 Author: Kevin
-Category: Uncategorized
 Tags: recovery equipment, winch
 Slug: anyone-want-a-tow
 

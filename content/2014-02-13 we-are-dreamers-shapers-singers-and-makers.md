@@ -1,7 +1,6 @@
 Title: We are dreamers, shapers, singers, and makers
 Date: 2014-02-13 10:18
 Author: Kevin
-Category: Uncategorized
 Tags: quote, technomage
 Slug: we-are-dreamers-shapers-singers-and-makers
 

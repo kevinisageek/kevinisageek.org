@@ -1,7 +1,6 @@
 Title: Makes me proud to be British
 Date: 2013-10-31 15:44
 Author: Kevin
-Category: Uncategorized
 Tags: Best 4x4xFar, Land Rover Defender, video
 Slug: makes-me-proud-to-be-british
 

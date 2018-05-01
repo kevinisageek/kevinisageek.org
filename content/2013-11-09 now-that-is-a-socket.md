@@ -1,7 +1,6 @@
 Title: Now that is a socket
 Date: 2013-11-09 11:53
 Author: Kevin
-Category: Uncategorized
 Tags: britpart, oh dear, socket
 Slug: now-that-is-a-socket
 

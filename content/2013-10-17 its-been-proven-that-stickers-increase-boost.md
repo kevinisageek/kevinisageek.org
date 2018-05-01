@@ -1,7 +1,6 @@
 Title: Its been proven that stickers increase boost.
 Date: 2013-10-17 11:29
 Author: Kevin
-Category: Uncategorized
 Tags: air filter, Defender, K&amp;N, Land Rover, micro
 Slug: its-been-proven-that-stickers-increase-boost
 

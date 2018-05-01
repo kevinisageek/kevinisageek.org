@@ -1,7 +1,6 @@
 Title: Well, today could have gone better
 Date: 2013-12-07 17:19
 Author: Kevin
-Category: Uncategorized
 Tags: fail, Land Rover Defender, stockholm syndrome
 Slug: well-today-could-have-gone-better
 

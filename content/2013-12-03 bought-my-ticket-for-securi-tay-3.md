@@ -1,7 +1,6 @@
 Title: Bought my ticket for Securi-Tay 3
 Date: 2013-12-03 15:34
 Author: Kevin
-Category: Uncategorized
 Tags: conference
 Slug: bought-my-ticket-for-securi-tay-3
 

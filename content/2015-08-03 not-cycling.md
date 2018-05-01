@@ -1,7 +1,7 @@
 Title: Not been on the bike for months.
 Date: 2015-08-03 17:15
 Author: Kevin
-Category: Uncategorized
+
 Tags: bike, fitness, micro
 Slug: not-cycling
 

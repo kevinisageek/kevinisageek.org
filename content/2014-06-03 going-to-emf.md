@@ -1,7 +1,6 @@
 Title: Going to EMF!
 Date: 2014-06-03 12:26
 Author: Kevin
-Category: Uncategorized
 Tags: EMFCamp, vagabonding
 Slug: going-to-emf
 

@@ -1,7 +1,6 @@
 Title: Geeking out over org-mode
 Date: 2013-12-10 21:49
 Author: Kevin
-Category: Uncategorized
 Tags: emacs, geek, org-mode
 Slug: geeking-out-over-org-mode
 

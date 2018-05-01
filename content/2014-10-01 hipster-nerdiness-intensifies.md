@@ -1,7 +1,7 @@
 Title: [Hipster nerdiness intensifies]
 Date: 2014-10-01 10:59
 Author: Kevin
-Category: Uncategorized
+
 Tags: book, clojure
 Slug: hipster-nerdiness-intensifies
 

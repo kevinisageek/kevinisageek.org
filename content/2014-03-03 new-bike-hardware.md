@@ -1,7 +1,6 @@
 Title: New bike hardware
 Date: 2014-03-03 14:54
 Author: Kevin
-Category: Uncategorized
 Tags: bicycle, pannier
 Slug: new-bike-hardware
 

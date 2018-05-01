@@ -1,7 +1,6 @@
 Title: I fail at subkeys
 Date: 2014-03-01 12:04
 Author: Kevin
-Category: Uncategorized
 Tags: fail, GPG
 Slug: i-fail-at-subkeys
 

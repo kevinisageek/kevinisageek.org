@@ -1,7 +1,6 @@
 Title: UK Self Defence
 Date: 2012-10-10 15:44
 Author: Kevin
-Category: Uncategorized
 Tags: irc, quote, self defence
 Slug: uk-self-defence
 

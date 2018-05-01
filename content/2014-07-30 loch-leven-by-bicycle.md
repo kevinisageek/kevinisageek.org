@@ -1,7 +1,7 @@
 Title: Loch Leven by Bicycle
 Date: 2014-07-30 15:35
 Author: Kevin
-Category: Uncategorized
+
 Tags: bicycle, video
 Slug: loch-leven-by-bicycle
 

@@ -1,7 +1,6 @@
 Title: Tesco CREE aluminium torch: initial review
 Date: 2013-11-28 12:42
 Author: Kevin
-Category: Uncategorized
 Tags: review, torch
 Slug: tesco-cree-aluminium-torch-initial-review
 

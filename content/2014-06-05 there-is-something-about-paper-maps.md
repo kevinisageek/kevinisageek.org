@@ -1,7 +1,7 @@
 Title: There is something about paper maps
 Date: 2014-06-05 15:40
 Author: Kevin
-Category: Uncategorized
+
 Tags: Craigowl Hill, map
 Slug: there-is-something-about-paper-maps
 

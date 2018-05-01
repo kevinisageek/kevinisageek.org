@@ -1,7 +1,6 @@
 Title: I think I have a minor Triple Aught Design addiction
 Date: 2014-03-12 11:29
 Author: Kevin
-Category: Uncategorized
 Tags: kit, TAD, Triple Aught Design
 Slug: i-think-i-have-a-minor-triple-aught-design-addiction
 

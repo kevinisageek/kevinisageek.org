@@ -1,7 +1,6 @@
 Title: Harry Potter and the Methods of Rationality
 Date: 2013-12-27 23:19
 Author: Kevin
-Category: Uncategorized
 Tags: book, fanfiction
 Slug: harry-potter-and-the-methods-of-rationality
 

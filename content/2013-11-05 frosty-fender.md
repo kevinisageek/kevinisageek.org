@@ -1,7 +1,6 @@
 Title: Frosty 'Fender
 Date: 2013-11-05 11:17
 Author: Kevin
-Category: Uncategorized
 Tags: Land Rover Defender
 Slug: frosty-fender
 

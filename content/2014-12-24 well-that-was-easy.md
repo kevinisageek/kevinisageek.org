@@ -1,7 +1,7 @@
 Title: Well that was easy
 Date: 2014-12-24 10:26
 Author: Kevin
-Category: Uncategorized
+
 Tags: alcohol, self improvement, teetotal
 Slug: well-that-was-easy
 

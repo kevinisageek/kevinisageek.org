@@ -1,7 +1,6 @@
 Title: 2014 is the year of vagabonding
 Date: 2014-03-13 12:49
 Author: Kevin
-Category: Uncategorized
 Tags: vagabonding
 Slug: 2014-is-the-year-of-vagabonding
 

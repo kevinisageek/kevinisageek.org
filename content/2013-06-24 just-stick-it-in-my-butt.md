@@ -1,7 +1,6 @@
 Title: Just stick it in my butt
 Date: 2013-06-04 15:42
 Author: Kevin
-Category: Uncategorized
 Tags: butts, cloud, humour
 Slug: just-stick-it-in-my-butt
 

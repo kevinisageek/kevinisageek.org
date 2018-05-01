@@ -1,7 +1,6 @@
 Title: Bike Power
 Date: 2014-04-04 13:15
 Author: Kevin
-Category: Uncategorized
 Tags: bicycle, dynamo, power, video
 Slug: bike-power
 

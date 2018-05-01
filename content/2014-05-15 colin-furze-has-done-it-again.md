@@ -1,7 +1,7 @@
 Title: Colin Furze has done it again
 Date: 2014-05-15 16:50
 Author: Kevin
-Category: Uncategorized
+
 Tags: awesome, videos, Wolverine
 Slug: colin-furze-has-done-it-again
 

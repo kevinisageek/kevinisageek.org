@@ -1,7 +1,7 @@
 Title: Started reading The Apocalypse Codex by Charles Stross.
 Date: 2014-05-17 23:35
 Author: Kevin
-Category: Uncategorized
+
 Tags: book, The Laundry Files, micro
 Slug: started-reading-the-apocalypse-codex-by-charles-stross
 

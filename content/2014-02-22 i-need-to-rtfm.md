@@ -1,7 +1,6 @@
 Title: I need to rtfm
 Date: 2014-02-22 11:37
 Author: Kevin
-Category: Uncategorized
 Tags: bike, maintenance, oh cock
 Slug: i-need-to-rtfm
 

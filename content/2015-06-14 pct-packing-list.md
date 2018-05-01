@@ -1,7 +1,7 @@
 Title: What do you need to survive on the Pacific Crest Trail?
 Date: 2015-06-14 19:00
 Author: Kevin
-Category: Uncategorized
+
 Tags: PCT, vagabonding, micro, kit
 Slug: pct-packing-list
 

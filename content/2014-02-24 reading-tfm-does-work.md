@@ -1,7 +1,6 @@
 Title: Reading TFM does work.
 Date: 2014-02-24 15:23
 Author: Kevin
-Category: Uncategorized
 Tags: bike, micro
 Slug: reading-tfm-does-work
 
