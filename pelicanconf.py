@@ -8,11 +8,12 @@ SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 STATIC_PATHS = ['misc','images','content','*.jpg']
+PAGE_PATHS = ['pages']
 
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
-
+LOAD_CONTENT_CACHE = False
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -41,7 +42,7 @@ PAGINATION_PATTERNS = (
 )
 
 # Plugins
-PLUGIN_PATHS = ['plugins',]
+#PLUGIN_PATHS = ['plugins',]
 #PLUGINS = ['tipue_search']
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -61,16 +62,15 @@ CATEGORY_SAVE_AS = ''
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 STATIC_SAVE_AS = '{path}'
+ARCHIVES_SAVE_AS = 'archives/index.html'
+ARCHIVES_URL = 'archives'
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_SIDEBAR = True
+DISPLAY_PAGES_ON_SIDEBAR = False
 DISPLAY_CATEGORIES_ON_SIDEBAR = False
 DISPLAY_TAGS_ON_SIDEBAR = False
 HIDE_SIDEBAR = False
 
-DIRECT_TEMPLATES = ('index', 'search')
-
-#PAGE_PATHS = ['pages']
-
 THEME = "themes/pelican-bootstrap3"
+DELETE_OUTPUT_DIRECTORY = True
