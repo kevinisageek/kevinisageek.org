@@ -3,7 +3,6 @@ Date: 2014-02-27 00:47
 Author: kevin
 Slug: gpg-public-key
 
-
 Public key ID: 0x982959BF
 
 Fingerprint: 116D B25C A5C4 73C5 3262 BEDC 8322 D167

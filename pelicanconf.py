@@ -42,8 +42,8 @@ PAGINATION_PATTERNS = (
 )
 
 # Plugins
-#PLUGIN_PATHS = ['plugins',]
-#PLUGINS = ['tipue_search']
+PLUGIN_PATHS = ['plugins',]
+PLUGINS = ['tipue_search','tag_cloud']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -64,13 +64,15 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 STATIC_SAVE_AS = '{path}'
 ARCHIVES_SAVE_AS = 'archives/index.html'
 ARCHIVES_URL = 'archives'
+SEARCH_SAVE_AS = 'search/index.html'
+SEARCH_URL = 'search'
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_SIDEBAR = False
+DISPLAY_PAGES_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = False
-DISPLAY_TAGS_ON_SIDEBAR = False
+DISPLAY_TAGS_ON_SIDEBAR = True
 HIDE_SIDEBAR = False
 
-THEME = "themes/pelican-bootstrap3"
-DELETE_OUTPUT_DIRECTORY = True
+THEME = 'themes/pelican-bootstrap3'
+IGNORE_FILES = ['.#*','.DS_Store']
