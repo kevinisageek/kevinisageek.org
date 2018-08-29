@@ -7,7 +7,7 @@ SITENAME = u'Random Geekage'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-STATIC_PATHS = ['misc','images','content','*.jpg']
+STATIC_PATHS = ['misc','images','content','*.jpg','keybase.txt']
 PAGE_PATHS = ['pages']
 
 TIMEZONE = 'Europe/London'
