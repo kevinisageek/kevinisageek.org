@@ -1,4 +1,4 @@
-Title: Manchester -> EMFCamp
+Title: Manchester -> EMFCamp.
 Date: 2018-08-30
 Slug: manchester-emfcamp
 Tags: vagabonding, emfcamp, micro
