@@ -1,5 +1,5 @@
 Title: Goruck GR1 Framesheet Upgrade
-Date: 2018-10-09
+Date: 2018-10-09 17:30
 Slug: framesheet
 Tags: goruck, framesheet, edc
 
