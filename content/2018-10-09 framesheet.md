@@ -1,7 +1,6 @@
 Title: Goruck GR1 Framesheet Upgrade
 Date: 2018-10-09
 Slug: framesheet
-Status: draft
 Tags: goruck, framesheet, edc
 
 I've been rocking a [Goruck GR1](https://www.goruck.com/GR1) as my EDC pack for several years now. Sadly, over time the stock plastic framesheet has slacked off a bit and allows the pack to sag when it is sitting upright. Its a common issue with Goruck packs but is easily replicated with a 3m A3 sheet of [Kydex](https://en.wikipedia.org/wiki/Kydex) from Ebay.
