@@ -5,15 +5,15 @@ Slug: reading-list
 
 ### Currently reading
 
- * Nomad - James Swallow
- * Discipline Equals Freedom Field Manual - Jocko Willink (constantly on desk)
- * The Diamond Age - Neil Stephenson
+ * James Swallow - Nomad
+ * Jocko Willink - Discipline Equals Freedom Field Manual (constantly on desk)
+ * Neil Stephenson The Diamond Age
 
 ### To read
 
-* The Mission, The Men, And Me - Pete Blaber
-* Dare to Do - Sarah Van Outen
-* Snow Blind - Ragnar Jonassson
+* Pete Blaber - The Mission, The Men, And Me
+* Sarah Van Outen - Dare to Do
+* Ragnar Jonassson - Snow Blind
 
 ### Read
 
@@ -24,9 +24,10 @@ Slug: reading-list
 * Charles Stross - The Jennifer Morgue
 * Charles Stross - The Fuller Memorandum
 * Charles Stross - The Apocalypse Codex
+* Charles Stross - The Annihilation Score
 * Charles Stross - The Rhesus Chart
 * Charles Stross - The Nightmare Stacks
-* Charles Stross - The Delirium Bried
+* Charles Stross - The Delirium Brief
 * Sean Kennedy - The Scabbed Wings of Abaddon
 * Rolf Potts - Vagabonding
 * Mors Kochanski - Bushcraft
@@ -39,7 +40,10 @@ Slug: reading-list
 * Alastair Humphreys - Moods of Future Joys: Around the World by Bike part 1
 * Alastair Humphreys - Thunder and Sunshine: Around the World by Bike Part 2
 * Nathan Edmondson and Mitch Gerards - The Activity Vols 1-3
-* Charles Stross - The Annihilation Score
-* Left of Bang - Patrick Van Horne and Jason A. Riley
-* Extreme Ownership - Jocko Willink and Leif Babin
-* The Dichotomy of Leadership - Jocko Willink and Leif Babin
+* Patrick Van Horne and Jason A. Riley - Left of Bang
+* Jocko Willink and Leif Babin - Extreme Ownership
+* Jocko Willink and Leif Babin -The Dichotomy of Leadership
+* Col. André Diedricks - Journey Without Borders
+* Gen. Stanley McChrystal - Team of Teams
+* Patrick Van Horne - Left of Bang
+* Jordan Peterson - 12 Rules for Life
