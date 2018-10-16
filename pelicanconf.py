@@ -42,8 +42,8 @@ PAGINATION_PATTERNS = (
 )
 
 # Plugins
-PLUGIN_PATHS = ['plugins',]
-PLUGINS = ['tipue_search','tag_cloud']
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['tipue_search','tag_cloud','i18n_subsites']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -67,6 +67,9 @@ ARCHIVES_URL = 'archives'
 SEARCH_SAVE_AS = 'search/index.html'
 SEARCH_URL = 'search'
 
+SHOW_ARTICLE_AUTHOR = False
+SHOW_ARTICLE_CATEGORY = False
+
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_SIDEBAR = True
@@ -76,3 +79,5 @@ HIDE_SIDEBAR = False
 
 THEME = 'themes/pelican-bootstrap3'
 IGNORE_FILES = ['.#*','.DS_Store']
+DEFAULT_LANG = 'en'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}

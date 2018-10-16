@@ -2,6 +2,7 @@ Title: GPG Public Key
 Date: 2014-02-27 00:47
 Author: kevin
 Slug: gpg-public-key
+Status: hidden
 
 Public key ID: 0x982959BF
 
