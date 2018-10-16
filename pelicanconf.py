@@ -75,9 +75,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = False
 DISPLAY_TAGS_ON_SIDEBAR = False
-HIDE_SIDEBAR = False
+HIDE_SIDEBAR = True
 
 THEME = 'themes/pelican-bootstrap3'
 IGNORE_FILES = ['.#*','.DS_Store']
 DEFAULT_LANG = 'en'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+MENUITEMS = (
+            ('Feed', '/feed'),
+            )
