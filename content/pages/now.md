@@ -4,6 +4,8 @@ Author: kevin
 Slug: now
 
 What I am up to:
-- Planning the next adventure...
+
+* Slowly converting the van into a stealth camper
+* Planning the next adventure...
 
 *Inspired by [Derek Sivers](https://sivers.org/nowff) and [Patrick Rhone](http://patrickrhone.com/now/).*
