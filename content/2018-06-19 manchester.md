@@ -4,5 +4,5 @@ Slug: manchester
 Tags: vagabonding, micro
 
 for a few nights. Pleasure, [rather than work](/2018/06/08/newcastle) which is nice.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Asad9K-ozrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br />
+<iframe width="720" height="576" src="https://www.youtube-nocookie.com/embed/Asad9K-ozrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
