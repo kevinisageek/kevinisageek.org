@@ -12,3 +12,4 @@ Places I am:
 * Email: kevin at this domain
 * [Instagram](https://instagram.com/kevinisageek_)
 * [Github](https://github.com/kevinisageek)
+* <a rel="me" href="https://mastodon.social/@kevinisageek">Mastodon</a>
