@@ -1,4 +1,4 @@
-Title: Been commuting for 3 out of 4 shifts this week.
+Title: Been commuting for 3 out of 4 shifts on the bike this week.
 Date: 2018-11-25
 Slug: bike-commute
 Tags: bicycle, commute, micro
