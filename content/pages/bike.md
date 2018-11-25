@@ -4,6 +4,7 @@ Author: kevin
 Slug: bike
 
 Upgraded and customised Surly Troll in a fetching purple colour (they call it eggplant)
+
 * Geartrain
   - Bafang BBS02 mid drive motor 750 watts, single chainring, 48 volt lithium ion battery pack, purchased from [Dillinger Bikes](http://dillengerelectricbikes.co.uk/electric-bike-kits/mid-drive/8fun-mid-drive-kit-bbs02-by-bafang.html)
   - [Aaron Urban pedals](http://aaron-parts.com/produkt/aaron-urban-fahrradpedale/)
