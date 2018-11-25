@@ -1,7 +1,7 @@
 Title: Home safely on the bike.
 Date: 2014-02-19 19:49
 Author: Kevin
-Tags: bike, cycling, micro
+Tags: bicycle, cycling, micro
 Slug: home-safely-on-the-bike
 
 No breaks, no one ran me over. Still no
