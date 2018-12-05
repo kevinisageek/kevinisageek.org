@@ -30,7 +30,6 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/kevinisageek'),
           ('Github', 'https://github.com/kevinisageek'),
-          ('RSS', '/feed/'),
 )
 
 # Pagination
@@ -63,9 +62,9 @@ TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 STATIC_SAVE_AS = '{path}'
 ARCHIVES_SAVE_AS = 'archives/index.html'
-ARCHIVES_URL = 'archives'
+ARCHIVES_URL = 'archives/'
 SEARCH_SAVE_AS = 'search/index.html'
-SEARCH_URL = 'search'
+SEARCH_URL = 'search/'
 
 SHOW_ARTICLE_AUTHOR = False
 SHOW_ARTICLE_CATEGORY = False
