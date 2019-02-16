@@ -241,14 +241,18 @@ figure.floatcenter, .align-center {
 }
 /* header tweaks for micro tagged entries */
 .tag-micro header,.tag-micro .entry-title,.tag-micro .entry-content,.tag-micro .entry-content>p:first-child{
-	display:inline
+	display:inline;
 }
 
 .tag-micro header time,.tag-micro header .edit{
-	display:none
+	display:none;
 }
 
 .tag-micro .entry-title{
 	font-size:1.3em;
-	line-height:1em
+	line-height:1em;
+}
+
+.tag-micro .page-header{
+  border-bottom: none;
 }
