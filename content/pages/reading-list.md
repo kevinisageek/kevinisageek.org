@@ -3,20 +3,23 @@ Date: 2014-06-24 16:27
 Author: kevin
 Slug: reading-list
 
-### Currently reading
+### Currently Reading
 
  * James Swallow - Nomad
  * Jocko Willink - Discipline Equals Freedom Field Manual (constantly on desk)
- * Neil Stephenson The Diamond Age
+ * Neil Stephenson - The Diamond Age
+ * Aleksander Solzhenitsyn - The Gulag Archipeligo (Abridged)
 
-### To read
+### To Read
 
 * Pete Blaber - The Mission, The Men, And Me
 * Sarah Van Outen - Dare to Do
 * Ragnar Jonassson - Snow Blind
+* Charles Stross - The Labyrinth Index
 
 ### Read
 
+* Neil Stephenson - Islands in the Net
 * [Eliezer Yudkowsky - Harry Potter and the Methods of Rationality](http://hpmor.com/)
 * Jordan Sonnenblick - Zen and the Art of Faking It
 * Richard Feynman - Surely You're  Joking, Mr. Feynman!
