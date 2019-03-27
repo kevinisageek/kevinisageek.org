@@ -33,6 +33,7 @@ ifeq ($(DEBUG), 1)
 endif
 
 rsync_upload: publish
+	./books.sh
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 help:
