@@ -1,6 +1,7 @@
 Title: Reading list
 Date: 2014-06-24 16:27
 Author: kevin
+Status: Draft
 Slug: reading-list
 
 ### Currently Reading
