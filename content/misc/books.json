@@ -1,0 +1,1362 @@
+[
+    {
+        "﻿id": 17.0, 
+        "author_sort": "Heinlein, Robert A", 
+        "title": "Farnham's Freehold", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:ee05f150-850f-4abe-ab18-c24c09cb6f9e", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8e50dbf5-e174-464c-9c6c-8b7a1c20726f"
+    }, 
+    {
+        "﻿id": 22.0, 
+        "author_sort": "Sterling, William Gibson; Bruce", 
+        "title": "The Difference Engine", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "9e2da9c9-8332-4702-924c-1e2ee59d0e68"
+    }, 
+    {
+        "﻿id": 28.0, 
+        "author_sort": "Kobayashi, Motofumi", 
+        "title": "Apocalypse Meow (Cat Shit One) Vol 002", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a704e516-3d54-4306-ba1f-158823a13b74"
+    }, 
+    {
+        "﻿id": 31.0, 
+        "author_sort": "Kobayashi, Motofumi", 
+        "title": "Apocalypse Meow (Cat Shit One) Vol 003", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7015a51a-342b-4f46-9fa4-9b6ca65236c8"
+    }, 
+    {
+        "﻿id": 57.0, 
+        "author_sort": "Stephenson, Neal", 
+        "title": "The Diamond Age: Or, a Young Lady's Illustrated Primer", 
+        "isbn": 9780141886282.0, 
+        "identifiers": "isbn:9780141886282,mobi-asin:4aec26ba-aed5-484d-9697-1955e40d8b8f", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "37860be0-f233-447a-bb2a-8f6fc914c4b5"
+    }, 
+    {
+        "﻿id": 68.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 8", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2d79fd00-381d-4572-80ec-69f445133137"
+    }, 
+    {
+        "﻿id": 69.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 9", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7c6e07a0-a7ce-48f4-9d53-1e84072b24e4"
+    }, 
+    {
+        "﻿id": 75.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 121", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3ae1e4f3-bff7-4416-91f0-5c8346454802"
+    }, 
+    {
+        "﻿id": 78.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Gunnm Mars Chronicle c001 v2", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6364ce39-244b-4c57-8f29-f24e2ea19f74"
+    }, 
+    {
+        "﻿id": 85.0, 
+        "author_sort": "Leckie, Robert", 
+        "title": "Helmet for My Pillow: From Parris Island to the Pacific", 
+        "isbn": 9780553593310.0, 
+        "identifiers": "isbn:9780553593310", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "5104491d-814a-4e02-b7e8-e8f5088235cd"
+    }, 
+    {
+        "﻿id": 88.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Count Zero", 
+        "isbn": 9780441117734.0, 
+        "identifiers": "isbn:9780441117734", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "21c4c76d-4c91-40cc-b552-48dc9c8200d4"
+    }, 
+    {
+        "﻿id": 102.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "The Future of Quantum Cosmology", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:571d658c-0bcc-468f-a5be-e75652761fe2", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "5acdfd64-7cc4-4187-80b4-3dd80b7c5406"
+    }, 
+    {
+        "﻿id": 106.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "Does God Play Dice?", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:c1e5164a-fb03-46a9-bc00-c92e30c88eba", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e7412dab-2141-43db-a4c2-410f9706471a"
+    }, 
+    {
+        "﻿id": 107.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "A brief history of time: from the big bang to black holes", 
+        "isbn": 9780553346145.0, 
+        "identifiers": "isbn:9780553346145", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f2982778-c2b7-43dc-8ab3-e72a41cd0253"
+    }, 
+    {
+        "﻿id": 108.0, 
+        "author_sort": "Hawking, Stephen W. & Mlodinow, Leonard", 
+        "title": "A Briefer History of Time", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:cba345a8-6c56-4a99-a208-83fc019227e1", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b7a931b1-b26b-4112-bd30-91e98d1c6905"
+    }, 
+    {
+        "﻿id": 112.0, 
+        "author_sort": "Unknown", 
+        "title": "Havamal", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "536e55e5-d78d-452a-b86a-e30e79546004"
+    }, 
+    {
+        "﻿id": 114.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 121", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "bc8b5ffc-a553-4070-8398-10402e2eb54b"
+    }, 
+    {
+        "﻿id": 132.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "The Theory of Everything: The Origin and Fate of the Universe", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:cdcc78ed-e058-4725-b802-47ec6423b4ad", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "485bb7ad-9051-4667-93eb-624470f69e5b"
+    }, 
+    {
+        "﻿id": 138.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "The Grand Design", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:a391f40c-39b8-413e-881b-d287dc88300b", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "4fc50d16-2c66-437b-b7dd-0d96a9d00d48"
+    }, 
+    {
+        "﻿id": 149.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "A History of Science", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:dd5b105c-e9bb-4dc4-b915-8a95617e3d64", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "21a20aac-5e4b-4d52-aea4-f5874137efe0"
+    }, 
+    {
+        "﻿id": 162.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "The Universe in a Nutshell", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:2f5c9bea-60f5-47e9-8541-61e495c98f0b", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7c30750c-f193-4f47-9162-6948f6733b3e"
+    }, 
+    {
+        "﻿id": 168.0, 
+        "author_sort": "Peterson, Jordan B.", 
+        "title": "12 Rules for Life: An Antidote to Chaos", 
+        "isbn": 9780241351659.0, 
+        "identifiers": "isbn:9780241351659,mobi-asin:a5367b8f-6536-4c8f-b4c5-d4fd611dd3f5", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f4e96188-848c-4ab9-a7f2-21b3b092abbe"
+    }, 
+    {
+        "﻿id": 173.0, 
+        "author_sort": "Thoreau, Henry David", 
+        "title": "Walden and on the Duty of Civil Disobedience", 
+        "isbn": 9780808509103.0, 
+        "identifiers": "isbn:9780808509103", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2c51ef8b-4bc1-4ccc-aa1f-e67f41b52e0c"
+    }, 
+    {
+        "﻿id": 177.0, 
+        "author_sort": "Hawking, Stephen W.", 
+        "title": "Nature Of Space And Time", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:6a138e79-ab94-41f7-b016-3d4a11b40622", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7e70c138-cd4b-47ea-8e26-4a7966523149"
+    }, 
+    {
+        "﻿id": 209.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Ashen Victor 03", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "cd998781-6ad6-417d-9d48-9314a1a58eb7"
+    }, 
+    {
+        "﻿id": 211.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Ashen Victor 01", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "4945635c-43ac-4f64-a3a7-2d84b53d9eb7"
+    }, 
+    {
+        "﻿id": 223.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "The Green Hills of Earth and The Menace from Earth", 
+        "isbn": 9781439133415.0, 
+        "identifiers": "isbn:9781439133415", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "abcaf22e-7b96-4955-a75c-80a40118fdf4"
+    }, 
+    {
+        "﻿id": 229.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "Starship Troopers", 
+        "isbn": 9781442015036.0, 
+        "identifiers": "isbn:9781442015036", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "429a24be-d5d6-432c-8a90-79615da097e2"
+    }, 
+    {
+        "﻿id": 230.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "Time Enough for Love: The Lives of Lazarus Long", 
+        "isbn": 9780441810765.0, 
+        "identifiers": "isbn:9780441810765,mobi-asin:0da188b3-47dd-4b11-9d32-92266609be56", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8295311e-1898-4fea-b397-34db4462eaf2"
+    }, 
+    {
+        "﻿id": 238.0, 
+        "author_sort": "Suarez, Daniel", 
+        "title": "Freedom", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "ec06e97b-44f5-4178-8fb8-4937bc8f183e"
+    }, 
+    {
+        "﻿id": 241.0, 
+        "author_sort": "Suarez, Daniel", 
+        "title": "Daemon", 
+        "isbn": 9781849164429.0, 
+        "identifiers": "isbn:9781849164429,mobi-asin:B0038QN2AS", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "83f8e0bd-9dbd-4edc-bb83-490036297dfe"
+    }, 
+    {
+        "﻿id": 246.0, 
+        "author_sort": "Suarez, Daniel", 
+        "title": "Kill Decision", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B0073XV2W2", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2400d10e-84d1-4eaa-b51f-8da162135a6a"
+    }, 
+    {
+        "﻿id": 250.0, 
+        "author_sort": "Musashi, Miyamoto", 
+        "title": "A Book of Five Rings", 
+        "isbn": null, 
+        "identifiers": "uri:urn:uuid:89b41ec9-594a-47a3-b20e-ba4b0dc9785f,mobi-asin:89b41ec9-594a-47a3-b20e-ba4b0dc9785f", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2c0befeb-c88b-4ef6-94e5-ca2d97de4f90"
+    }, 
+    {
+        "﻿id": 253.0, 
+        "author_sort": "Brooks, Max", 
+        "title": "The zombie survival guide: complete protection from the living dead", 
+        "isbn": 9781400049622.0, 
+        "identifiers": "isbn:9781400049622", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "70fa0741-ecc5-430d-a053-30c6b7d67dd5"
+    }, 
+    {
+        "﻿id": 257.0, 
+        "author_sort": "Bloom, Miguel De Cervantes Saavedra; Edith Grossman; Harold", 
+        "title": "Don Quixote", 
+        "isbn": 9780060188702.0, 
+        "identifiers": "isbn:9780060188702", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f149e017-a64c-4679-89e0-7fae277a2b14"
+    }, 
+    {
+        "﻿id": 259.0, 
+        "author_sort": "Kobayashi, Motofumi", 
+        "title": "Apocalypse Meow (Cat Shit One) Vol 001", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e87eaf8d-4e5c-4f97-ba86-03b6d6c0c4b3"
+    }, 
+    {
+        "﻿id": 264.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "God Emperor of Dune", 
+        "isbn": 9780441294671.0, 
+        "identifiers": "isbn:9780441294671,mobi-asin:B003TFDWG2", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "bd5ee1f4-a1d4-4edd-8e66-0e7e15a60c4a"
+    }, 
+    {
+        "﻿id": 269.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "Dune Genesis", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:8e28f919-65ce-4707-b3d0-e92b80adb7f4", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3b6c19f1-2f41-4249-912c-a4cf7ba7b378"
+    }, 
+    {
+        "﻿id": 271.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "Chapterhouse: Dune", 
+        "isbn": 9780399130274.0, 
+        "identifiers": "isbn:9780399130274,mobi-asin:B001O1O6IQ", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "9938a6f4-5b6a-4284-8828-48de3f34b86b"
+    }, 
+    {
+        "﻿id": 272.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "Dune", 
+        "isbn": 9780441013593.0, 
+        "identifiers": "isbn:9780441013593,mobi-asin:f9844f36-3979-49ef-a00c-512228292903", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "398c97f0-78d2-40ed-a21a-a124c99a78d7"
+    }, 
+    {
+        "﻿id": 278.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "Heretics of Dune", 
+        "isbn": 9780399128981.0, 
+        "identifiers": "isbn:9780399128981,mobi-asin:B003TFDWGW", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "102a13a2-7864-4a40-8f39-37362835df7e"
+    }, 
+    {
+        "﻿id": 280.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "Children of Dune", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:e068afa8-2b97-4ec4-8edf-fac28409714d", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "0b763af5-e885-4b99-82d1-3fb91975316c"
+    }, 
+    {
+        "﻿id": 281.0, 
+        "author_sort": "Herbert, Frank", 
+        "title": "Dune Messiah", 
+        "isbn": 9780441172696.0, 
+        "identifiers": "isbn:9780441172696", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "667a4b85-de0b-4bf4-af04-8671aed7a852"
+    }, 
+    {
+        "﻿id": 288.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Dune: The Machine Crusade", 
+        "isbn": 312711085.0, 
+        "identifiers": "isbn:0312711085,mobi-asin:5eeeca6d-ac03-4140-a692-a2a2de5ed34d", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "296d7bb3-d635-410d-8733-7aef8fb035ba"
+    }, 
+    {
+        "﻿id": 294.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "The Winds of Dune", 
+        "isbn": 9780765362629.0, 
+        "identifiers": "isbn:9780765362629,mobi-asin:645a38fc-5857-4e1b-8590-8f47037f1a97", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "424deb37-18fc-4ad9-b72e-3a32ef694ea4"
+    }, 
+    {
+        "﻿id": 295.0, 
+        "author_sort": "Fausset, Scott", 
+        "title": "Red Teaming Handbook", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:7c4002fd-8e0e-49c3-be77-12c0c4ca97a2", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "9910bc40-e9b4-4d95-a1c9-5d74aba8929c"
+    }, 
+    {
+        "﻿id": 303.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Dune: House Harkonnen", 
+        "isbn": 553897837.0, 
+        "identifiers": "isbn:0553897837,mobi-asin:bd878c00-0c7d-44a3-a780-b70e8bad4af7", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "eac40281-e1bd-4649-b52e-bc92a1922908"
+    }, 
+    {
+        "﻿id": 306.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Paul of Dune", 
+        "isbn": 9780765351500.0, 
+        "identifiers": "isbn:9780765351500,mobi-asin:f7756225-f4bc-428b-966f-1c6e17a57cb6", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3d8c7c23-4edf-40d2-9b66-765f1c92563b"
+    }, 
+    {
+        "﻿id": 307.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Dune: The Butlerian Jihad", 
+        "isbn": 312708084.0, 
+        "identifiers": "isbn:0312708084,mobi-asin:445f7e75-0dac-4794-b8e0-50140db44d7f", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "72ebc414-e4ad-409a-81d7-dd6a3d1772d7"
+    }, 
+    {
+        "﻿id": 310.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Dune: The Battle of Corrin", 
+        "isbn": 312712332.0, 
+        "identifiers": "isbn:0312712332,mobi-asin:73d7f763-9623-4f55-bca7-f8c9b8feb452", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "34519265-5cb7-46ad-b5f5-67dfa02b0ecb"
+    }, 
+    {
+        "﻿id": 312.0, 
+        "author_sort": "Magazine, HackSpace", 
+        "title": "HackSpaceMag10", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3a1ed661-ecf4-491f-b38d-67cc3897d00e"
+    }, 
+    {
+        "﻿id": 313.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Dune: House Corrino", 
+        "isbn": 553896954.0, 
+        "identifiers": "isbn:0553896954,mobi-asin:a03762df-cc85-4a6d-a549-b6803de809f7", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "70776525-37bc-41e9-a8c5-ebb058d20aad"
+    }, 
+    {
+        "﻿id": 317.0, 
+        "author_sort": "McChrystal, General Stanley & Collins, Tantum & Silverman, David & Fussell, Chris", 
+        "title": "Team of Teams: New Rules of Engagement for a Complex World", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:3c54a315-29e5-4484-a788-75ebe4f5b9c9", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8729b5e0-abfe-483a-aa15-4c066211ea15"
+    }, 
+    {
+        "﻿id": 319.0, 
+        "author_sort": "Yoshikawa, Eiji", 
+        "title": "Musashi", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:7700038d-2e81-4155-ace7-0748e5bf0d20", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3028104b-87ac-468a-ad6f-d0939873a406"
+    }, 
+    {
+        "﻿id": 323.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Dune: House Atreides", 
+        "isbn": 553897829.0, 
+        "identifiers": "isbn:0553897829,mobi-asin:e05a1262-8fc4-447c-a413-63765bf2f90d", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "1cb743cc-aadd-4da8-87aa-545b9fef77a3"
+    }, 
+    {
+        "﻿id": 327.0, 
+        "author_sort": "Ferriss, Timothy", 
+        "title": "The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman", 
+        "isbn": 9780307463654.0, 
+        "identifiers": "isbn:9780307463654", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3201a4a4-7401-4e0c-a239-0016892c700b"
+    }, 
+    {
+        "﻿id": 328.0, 
+        "author_sort": "Webb, Don", 
+        "title": "Overthrowing the Old Gods: Aleister Crowley and the Book of the Law", 
+        "isbn": 9781620551905.0, 
+        "identifiers": "isbn:9781620551905,mobi-asin:de69824a-714a-4161-b6a2-d75def77e69f", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "537af069-2de6-4013-b937-86d4579f65a0"
+    }, 
+    {
+        "﻿id": 335.0, 
+        "author_sort": "Ferriss, Timothy", 
+        "title": "The 4-Hour Workweek, Expanded and Updated: Escape 9-5, Live Anywhere, and Join the New Rich", 
+        "isbn": 9780307465351.0, 
+        "identifiers": "isbn:9780307465351", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e1cf878c-bb83-4f6b-9812-f5f590217546"
+    }, 
+    {
+        "﻿id": 348.0, 
+        "author_sort": "Yurichev, Dennis", 
+        "title": "Reverse Engineering for Beginners", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "07a7b34e-ae1a-4e3b-af0b-d97c4e0d11a5"
+    }, 
+    {
+        "﻿id": 350.0, 
+        "author_sort": "Stephenson, Neal", 
+        "title": "In the beginning ...was the command line", 
+        "isbn": 9780380815937.0, 
+        "identifiers": "isbn:9780380815937", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "91d25639-e08b-424d-99b7-23a5139f4826"
+    }, 
+    {
+        "﻿id": 351.0, 
+        "author_sort": "Stephenson, Neal", 
+        "title": "Zodiac: The Eco-Thriller", 
+        "isbn": 9780802143150.0, 
+        "identifiers": "isbn:9780802143150", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "ffd62f0d-f75d-4684-9ff0-27fdbdd4019a"
+    }, 
+    {
+        "﻿id": 355.0, 
+        "author_sort": "Greaney, Mark", 
+        "title": "The Gray Man", 
+        "isbn": 9780515147018.0, 
+        "identifiers": "isbn:9780515147018,mobi-asin:ce7a26ca-5fdb-4d4a-9991-c8a7c02ae228", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "890b484b-9ace-4c10-919d-11b4057e4c46"
+    }, 
+    {
+        "﻿id": 357.0, 
+        "author_sort": "Ferriss, Timothy", 
+        "title": "Tools of Titans", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:f140e8c2-985a-4318-929d-8c9cae013f05", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "db104faa-5dfa-4da0-adc5-32427f1fa554"
+    }, 
+    {
+        "﻿id": 365.0, 
+        "author_sort": "Longman, Adam", 
+        "title": "A Paramedic's Journal:: Another call, another page, another story", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:4ac5b240-bb49-42e1-b7eb-64b273f24944", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8477fec9-37b9-43a3-8420-a90674848f9b"
+    }, 
+    {
+        "﻿id": 366.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Hunters of Dune", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:c252b0e8-ff16-4054-a883-df93a58804a1", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6c1798f3-7ff9-46cb-b88e-f8bee31b9678"
+    }, 
+    {
+        "﻿id": 369.0, 
+        "author_sort": "Labs, Catalyst Game", 
+        "title": "Shadowrun: Rigger 5.0", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6fa00acd-2252-45d3-9268-4657e13884c3"
+    }, 
+    {
+        "﻿id": 370.0, 
+        "author_sort": "Anderson, Brian Herbert;Kevin J.", 
+        "title": "Sandworms Of Dune", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:cab85c1b-9346-4aeb-b05c-7af6064b8c1c", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "09c5b0e0-a3c0-4321-b01c-97311078963b"
+    }, 
+    {
+        "﻿id": 372.0, 
+        "author_sort": "Sterling, Bruce", 
+        "title": "Heavy Weather", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:96c56bdb-1d75-4278-90bb-638f7c1f293c", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "51c2dcfd-a53d-4d09-8bf7-8b8fe98a81e8"
+    }, 
+    {
+        "﻿id": 377.0, 
+        "author_sort": "Government, US", 
+        "title": "Tradecraft Primer", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:4eb5ed49-6d77-4b82-b32e-00e22dd51c2c", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b0c84c94-016b-4f11-8b17-4c93b621589a"
+    }, 
+    {
+        "﻿id": 378.0, 
+        "author_sort": "Hays, Marcus Aurelius ; Gregory", 
+        "title": "Meditations", 
+        "isbn": 9780679642602.0, 
+        "identifiers": "isbn:9780679642602,mobi-asin:33dda5b0-00a6-4e25-bfe7-dbf15cb75f87", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "dae9c10f-83ab-4084-b4d8-2bcf949fcecb"
+    }, 
+    {
+        "﻿id": 384.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 3", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "80e96e2c-1b62-43a1-8942-3f66692746ba"
+    }, 
+    {
+        "﻿id": 385.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 2", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "67312d06-2fc0-4bad-bca7-6aebf5f3a0bf"
+    }, 
+    {
+        "﻿id": 386.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 1", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3c33558b-8f4f-4e7f-82d1-9141389959ab"
+    }, 
+    {
+        "﻿id": 387.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 7", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f8820866-20f2-48dd-8b6b-4a6eb34e7789"
+    }, 
+    {
+        "﻿id": 388.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 6", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6b2e45bf-c245-4d9a-a522-9edb8ff879a0"
+    }, 
+    {
+        "﻿id": 389.0, 
+        "author_sort": "Vail, Jeff", 
+        "title": "A Theory of Power", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:f2e8bca7-eb09-432b-a2f1-b2c0aa0e9e85", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "5b9fe0a5-61c7-43a8-9293-a267c236aac7"
+    }, 
+    {
+        "﻿id": 390.0, 
+        "author_sort": "Leung, C.", 
+        "title": "THE THEORY OF EVERYTHING", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "c8356e93-8813-4997-bd7b-4726e16c4379"
+    }, 
+    {
+        "﻿id": 391.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 5", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "bd9943c8-04d7-4fb1-836c-3e9a728b2255"
+    }, 
+    {
+        "﻿id": 392.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Battle Angel Alita 4", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b2fc1d0d-e47e-478d-8fdf-6c8c0bf100f4"
+    }, 
+    {
+        "﻿id": 395.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 15", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "c75fc8c2-1e89-44be-8af0-09dbbe85747f"
+    }, 
+    {
+        "﻿id": 396.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 17", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "399ca1ae-86d4-41c8-8848-3a5f6a761f2a"
+    }, 
+    {
+        "﻿id": 397.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 14", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "be5a67de-485c-420d-9166-9ee545c2a2d0"
+    }, 
+    {
+        "﻿id": 398.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 16", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a2a491da-4b09-468d-b1f3-b7fa3d1ba611"
+    }, 
+    {
+        "﻿id": 399.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 13", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "accd914d-198c-4fad-9f9a-4d613a04fd3a"
+    }, 
+    {
+        "﻿id": 400.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 10", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a773f838-c3d3-4b74-a0f0-5ba5efaa78a1"
+    }, 
+    {
+        "﻿id": 401.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 18", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "24b6661b-8e30-4799-9a40-9c91e0578d45"
+    }, 
+    {
+        "﻿id": 402.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 11", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "856c26e8-9503-4674-9f5a-a4da4f897687"
+    }, 
+    {
+        "﻿id": 403.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 12", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "cbedb54b-75c4-4b7c-9c95-81be8bd8f8b0"
+    }, 
+    {
+        "﻿id": 404.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 9", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "02ed3a56-70f4-4d16-a2af-33a197e41cf7"
+    }, 
+    {
+        "﻿id": 405.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 8", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "4fd3924b-ad65-45b1-84b4-b2a8c86a3d58"
+    }, 
+    {
+        "﻿id": 406.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 5", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8b580744-ab54-414c-b225-b559d53ab428"
+    }, 
+    {
+        "﻿id": 407.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 7", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3a4a4c08-cfa5-4e30-8520-e89acf3afe4c"
+    }, 
+    {
+        "﻿id": 408.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 6", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b89f1a7b-2033-405f-9ded-3d6445d85907"
+    }, 
+    {
+        "﻿id": 409.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 4", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a276e5e6-748b-4c11-baf2-d104e5a3b572"
+    }, 
+    {
+        "﻿id": 410.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 2", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6fbd750e-1576-4508-a2da-1018111f95a7"
+    }, 
+    {
+        "﻿id": 411.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 1", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "37690c36-cff0-4cc4-a991-04122c564e2f"
+    }, 
+    {
+        "﻿id": 412.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 123", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "931eb97b-a2dd-46d6-b065-3297bf8d17f2"
+    }, 
+    {
+        "﻿id": 413.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 122", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f19c8ce7-23ce-4b4b-9ee3-0754b17d6a73"
+    }, 
+    {
+        "﻿id": 414.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order 3", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2b9514f6-b822-4d4f-ae5d-1edaecc33c2c"
+    }, 
+    {
+        "﻿id": 415.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 121", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b31c6b5e-ae8c-40e4-a693-32d11c3837d2"
+    }, 
+    {
+        "﻿id": 416.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 127", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "d5864147-9ee7-47f2-8f58-d80792d551d1"
+    }, 
+    {
+        "﻿id": 417.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 126", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "bf699eac-e87d-48ed-9399-eb353f10129f"
+    }, 
+    {
+        "﻿id": 418.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 125", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "68d70785-1b7e-455f-9f50-ba4677060f9c"
+    }, 
+    {
+        "﻿id": 419.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 124", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "10f5bd52-3311-429a-940d-db9eab656ad2"
+    }, 
+    {
+        "﻿id": 420.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 129", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a9dc0e31-231d-47bd-8ffb-38612051f5e8"
+    }, 
+    {
+        "﻿id": 422.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Last Order Phase 128", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "06cd4cf4-ea4b-4c14-b683-685d402a5ecd"
+    }, 
+    {
+        "﻿id": 423.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Ashen Victor 04", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "98223f8b-0085-4427-9c54-dd13b9283017"
+    }, 
+    {
+        "﻿id": 425.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Ashen Victor 02", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3904a5e9-fc0e-45a6-9228-8d424472db59"
+    }, 
+    {
+        "﻿id": 427.0, 
+        "author_sort": "Alita, Battle Angel", 
+        "title": "Extra Pages", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e9091cd7-54c5-4a93-b4ae-012303931b8b"
+    }, 
+    {
+        "﻿id": 432.0, 
+        "author_sort": "Cain, Susan & Mone, Gregory & Moroz, Erica", 
+        "title": "Quiet Power", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:4195694d-12fa-426b-b2b2-eabfda21c8d3", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "de7f916d-aaf0-4c24-bca4-86d9c41401b3"
+    }, 
+    {
+        "﻿id": 448.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Pattern Recognition", 
+        "isbn": 9780425198681.0, 
+        "identifiers": "isbn:9780425198681", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "c2102d7b-fc81-46c1-ad00-29a31d751027"
+    }, 
+    {
+        "﻿id": 450.0, 
+        "author_sort": "Gibson, William", 
+        "title": "The Princess Bride", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "cfffc87d-0341-41e2-9c28-8e73a5c22581"
+    }, 
+    {
+        "﻿id": 456.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Mona Lisa overdrive", 
+        "isbn": 9780553281743.0, 
+        "identifiers": "isbn:9780553281743", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "d34b0f80-8829-40ad-833a-a5bdd675fa68"
+    }, 
+    {
+        "﻿id": 460.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Virtual light", 
+        "isbn": 9780553074994.0, 
+        "identifiers": "isbn:9780553074994", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "d53c1cf8-1e41-4869-a50f-317fa098a73d"
+    }, 
+    {
+        "﻿id": 464.0, 
+        "author_sort": "Gibson, William", 
+        "title": "All Tomorrow's Parties", 
+        "isbn": 9780425190449.0, 
+        "identifiers": "isbn:9780425190449,mobi-asin:da20afa6-b420-4caf-aa6a-3936c2dd53fd", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "4fe04b5d-494e-4980-b87c-8abf83f27e70"
+    }, 
+    {
+        "﻿id": 467.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Neuromancer", 
+        "isbn": 9780441007462.0, 
+        "identifiers": "isbn:9780441007462", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7845a506-90dd-4dd5-9f8d-a34e74457c20"
+    }, 
+    {
+        "﻿id": 471.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Burning Chrome", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "336a444d-f336-4b62-a851-322faed1affa"
+    }, 
+    {
+        "﻿id": 472.0, 
+        "author_sort": "Cain, Susan", 
+        "title": "Quiet: The Power of Introverts in a World That Can’t Stop Talking", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:d8ee1ac1-d92f-4571-87ec-b3145c44484c", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3903ad66-802b-47d3-95e5-65969ad41cdb"
+    }, 
+    {
+        "﻿id": 474.0, 
+        "author_sort": "Humphreys, Alastair", 
+        "title": "There Are Other Rivers", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:42d17c72-64fb-406e-b924-9e4d3ab7fbd7", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "735f9859-45f7-49b0-b88d-d1154fdc28d9"
+    }, 
+    {
+        "﻿id": 482.0, 
+        "author_sort": "Willink, Jocko", 
+        "title": "Discipline Equals Freedom: Field Manual", 
+        "isbn": 9781250156952.0, 
+        "identifiers": "isbn:9781250156952,google:4cI1DgAAQBAJ,amazon:1250156947", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "d78c6afb-6371-4f87-adaa-a0b8e68b9153"
+    }, 
+    {
+        "﻿id": 483.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "The Moon Is a Harsh Mistress", 
+        "isbn": 9780575082410.0, 
+        "identifiers": "isbn:9780575082410", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f1894aaa-fb29-4eec-941e-79abe5dc2114"
+    }, 
+    {
+        "﻿id": 485.0, 
+        "author_sort": "Emerson, Clint", 
+        "title": "100 Deadly Skills", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "88c45847-d5e6-4d7a-a144-3e4c1535a53c"
+    }, 
+    {
+        "﻿id": 489.0, 
+        "author_sort": "Emerson, Clint", 
+        "title": "Survival Edition", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "9f47d12a-17e7-4e7b-b450-661711c7ce1d"
+    }, 
+    {
+        "﻿id": 492.0, 
+        "author_sort": "Metzner, Raplh", 
+        "title": "Sacred Vine of Spirits: Ayahuasca", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7d5b5291-5563-48d4-8467-50e6f7e5f1a8"
+    }, 
+    {
+        "﻿id": 494.0, 
+        "author_sort": "Weisgerber, Bernie", 
+        "title": "An Ax to Grind: A Practical Ax Manual", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:89f5233d-5321-4c63-b4af-c29f7385b6af", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "170b3d7d-0bb0-4434-af9e-c8323d1067e9"
+    }, 
+    {
+        "﻿id": 496.0, 
+        "author_sort": "Huang, Andrew \"bunnie\"", 
+        "title": "Hacking the Xbox: An Introduction to Reverse Engineering", 
+        "isbn": 1593270291.0, 
+        "identifiers": "isbn:1593270291,mobi-asin:1777e8f4-c195-40fa-be02-3178beab8138", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "243c6a16-fb98-4585-971e-628c6522eb1e"
+    }, 
+    {
+        "﻿id": 497.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "The Cat Who Walked Through Walls", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a2f263c0-6035-4f9f-bf42-cc9687f56966"
+    }, 
+    {
+        "﻿id": 498.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "Friday", 
+        "isbn": 450055493.0, 
+        "identifiers": "isbn:0450055493", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a112fabe-63f4-48d2-a275-0919b3249edd"
+    }, 
+    {
+        "﻿id": 499.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "Time Enough for Love The Lives of Lazarus Long", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2b18c3f7-79be-48a6-98ff-241550cdbf3e"
+    }, 
+    {
+        "﻿id": 500.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "The Door Into Summer", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6889c0b7-cfae-4020-8c24-187f034cae15"
+    }, 
+    {
+        "﻿id": 501.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "Stranger in a Strange Land", 
+        "isbn": 9780441790340.0, 
+        "identifiers": "isbn:9780441790340", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6a3e1fcf-fdb7-41b1-9067-d80e596fe211"
+    }, 
+    {
+        "﻿id": 502.0, 
+        "author_sort": "Sisson, Mark", 
+        "title": "The Primal Blueprint: Reprogram your genes for effortless weight loss, vibrant health, and boundless energy", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B003GY0K2K", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6a9b06e2-eeac-4d15-9644-4610e055d9c6"
+    }, 
+    {
+        "﻿id": 503.0, 
+        "author_sort": "Potts, Rolf", 
+        "title": "Vagabonding: an uncommon guide to the art of long-term world travel", 
+        "isbn": 9780812992182.0, 
+        "identifiers": "isbn:9780812992182", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a50790c0-dc22-47c2-b39f-3288c21ffc06"
+    }, 
+    {
+        "﻿id": 506.0, 
+        "author_sort": "Zenko, Micah", 
+        "title": "Red Team: How to Succeed By Thinking Like the Enemy", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B012271LJM", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "aef778f3-a906-44ee-a81c-ce1507699ed3"
+    }, 
+    {
+        "﻿id": 507.0, 
+        "author_sort": "Sterling, Bruce", 
+        "title": "Island in the Net", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "baf88618-29f5-4f37-a06a-ebd3971c8520"
+    }, 
+    {
+        "﻿id": 508.0, 
+        "author_sort": "Department, New York Fire", 
+        "title": "Forcible Entry Reference Guide", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "1a4d6bf7-82a8-4ca7-a76f-af4cc6a17314"
+    }
+]
