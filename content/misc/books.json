@@ -14,10 +14,20 @@
         "author_sort": "Stephenson, Neal", 
         "title": "The Diamond Age: Or, a Young Lady's Illustrated Primer", 
         "isbn": 9780141886282.0, 
-        "identifiers": "mobi-asin:4aec26ba-aed5-484d-9697-1955e40d8b8f,isbn:9780141886282", 
+        "identifiers": "isbn:9780141886282,mobi-asin:4aec26ba-aed5-484d-9697-1955e40d8b8f", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "37860be0-f233-447a-bb2a-8f6fc914c4b5"
+    }, 
+    {
+        "﻿id": 88.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Count Zero", 
+        "isbn": 9780441117734.0, 
+        "identifiers": "isbn:9780441117734", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "21c4c76d-4c91-40cc-b552-48dc9c8200d4"
     }, 
     {
         "﻿id": 162.0, 
@@ -50,6 +60,16 @@
         "uuid": "2c51ef8b-4bc1-4ccc-aa1f-e67f41b52e0c"
     }, 
     {
+        "﻿id": 223.0, 
+        "author_sort": "Heinlein, Robert A.", 
+        "title": "The Green Hills of Earth and The Menace from Earth", 
+        "isbn": 9781439133415.0, 
+        "identifiers": "isbn:9781439133415", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "abcaf22e-7b96-4955-a75c-80a40118fdf4"
+    }, 
+    {
         "﻿id": 229.0, 
         "author_sort": "Heinlein, Robert A.", 
         "title": "Starship Troopers", 
@@ -74,9 +94,9 @@
         "author_sort": "Herbert, Frank", 
         "title": "Dune", 
         "isbn": 9780441013593.0, 
-        "identifiers": "mobi-asin:f9844f36-3979-49ef-a00c-512228292903,isbn:9780441013593", 
+        "identifiers": "isbn:9780441013593,mobi-asin:f9844f36-3979-49ef-a00c-512228292903", 
         "series": "Dune Saga", 
-        "series_index": 1.0, 
+        "series_index": 10.0, 
         "uuid": "398c97f0-78d2-40ed-a21a-a124c99a78d7"
     }, 
     {
@@ -86,7 +106,7 @@
         "isbn": 312711085.0, 
         "identifiers": "isbn:0312711085,mobi-asin:5eeeca6d-ac03-4140-a692-a2a2de5ed34d", 
         "series": "Dune Saga", 
-        "series_index": 1.0, 
+        "series_index": 2.0, 
         "uuid": "296d7bb3-d635-410d-8733-7aef8fb035ba"
     }, 
     {
@@ -94,7 +114,7 @@
         "author_sort": "Anderson, Brian Herbert;Kevin J.", 
         "title": "Dune: The Butlerian Jihad", 
         "isbn": 312708084.0, 
-        "identifiers": "mobi-asin:445f7e75-0dac-4794-b8e0-50140db44d7f,isbn:0312708084", 
+        "identifiers": "isbn:0312708084,mobi-asin:445f7e75-0dac-4794-b8e0-50140db44d7f", 
         "series": "Dune Saga", 
         "series_index": 1.0, 
         "uuid": "72ebc414-e4ad-409a-81d7-dd6a3d1772d7"
@@ -106,7 +126,7 @@
         "isbn": 312712332.0, 
         "identifiers": "isbn:0312712332,mobi-asin:73d7f763-9623-4f55-bca7-f8c9b8feb452", 
         "series": "Dune Saga", 
-        "series_index": 1.0, 
+        "series_index": 3.0, 
         "uuid": "34519265-5cb7-46ad-b5f5-67dfa02b0ecb"
     }, 
     {
@@ -118,6 +138,26 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "8729b5e0-abfe-483a-aa15-4c066211ea15"
+    }, 
+    {
+        "﻿id": 350.0, 
+        "author_sort": "Stephenson, Neal", 
+        "title": "In the beginning ...was the command line", 
+        "isbn": 9780380815937.0, 
+        "identifiers": "isbn:9780380815937", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "91d25639-e08b-424d-99b7-23a5139f4826"
+    }, 
+    {
+        "﻿id": 357.0, 
+        "author_sort": "Ferriss, Timothy", 
+        "title": "Tools of Titans", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:f140e8c2-985a-4318-929d-8c9cae013f05", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "db104faa-5dfa-4da0-adc5-32427f1fa554"
     }, 
     {
         "﻿id": 389.0, 
@@ -138,6 +178,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "7845a506-90dd-4dd5-9f8d-a34e74457c20"
+    }, 
+    {
+        "﻿id": 471.0, 
+        "author_sort": "Gibson, William", 
+        "title": "Burning Chrome", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "336a444d-f336-4b62-a851-322faed1affa"
     }, 
     {
         "﻿id": 482.0, 
@@ -278,5 +328,55 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "c7b68891-a648-455b-97c0-a1218209b093"
+    }, 
+    {
+        "﻿id": 516.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Annihilation Score", 
+        "isbn": 9780356505336.0, 
+        "identifiers": "isbn:9780356505336,mobi-asin:09c46614-eaf3-445d-87d4-15a076033691", 
+        "series": "Laundry Files", 
+        "series_index": 5.0, 
+        "uuid": "516f18aa-aaef-4f52-b9a3-a7aff8764260"
+    }, 
+    {
+        "﻿id": 518.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Delirium Brief", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:07ed1b96-dc38-4b6c-ac77-b918e0bc15db", 
+        "series": "Laundry Files", 
+        "series_index": 8.0, 
+        "uuid": "fc8ac5d8-88ff-40b4-b79b-48a81333afc3"
+    }, 
+    {
+        "﻿id": 520.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Atrocity Archives", 
+        "isbn": 786578319.0, 
+        "identifiers": "isbn:0786578319,mobi-asin:a5330587-7ab0-4740-b8ca-5f23c9e002ef", 
+        "series": "Laundry Files", 
+        "series_index": 1.0, 
+        "uuid": "66b327d1-4492-46c0-9dc8-68ec846e4db7"
+    }, 
+    {
+        "﻿id": 521.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Jennifer Morgue", 
+        "isbn": 9780441016716.0, 
+        "identifiers": "isbn:9780441016716", 
+        "series": "Laundry Files", 
+        "series_index": 2.0, 
+        "uuid": "6f9cd9b0-b306-42af-b760-4ff92fbd2e1b"
+    }, 
+    {
+        "﻿id": 528.0, 
+        "author_sort": "Humphreys, Alastair", 
+        "title": "Thunder & Sunshine", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "af9ac283-a373-435e-b48b-3fd26da34f9a"
     }
 ]
