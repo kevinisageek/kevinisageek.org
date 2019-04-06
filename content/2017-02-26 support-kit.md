@@ -2,6 +2,7 @@ Title: EDC electronics support kit
 Date: 2017-02-26 09:50
 Tags: edc, electronics, kit, power
 Slug: edc-electronics-support-kit
+Status: draft
 
 EDC is becoming increasingly digital these days. Often people go out the door with a multitude of devices; phone, ebook reader, tablet, rechargeable flashlight et al. Having a means to support these devices is a good idea, especially if access to power is unreliable or a while away.
 

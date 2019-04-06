@@ -3,6 +3,7 @@ Date: 2015-04-18 08:56
 Author: Kevin
 Tags: micro, vagabonding
 Slug: going-south
+Status: draft
 
 for a week to help a friend spanner on his Land Rover Series 3.
 

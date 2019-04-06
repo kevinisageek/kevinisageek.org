@@ -3,6 +3,7 @@ Date: 2015-05-15 15:20
 Author: Kevin
 Tags: rucking, Goruck, GR0, , micro
 Slug: rucking-around
+Status: draft
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/Kevinisageek/17677589912/in/datetaken/" title="Rucking around"><img src="https://farm6.staticflickr.com/5321/17677589912_aa11cd62dd_c.jpg" width="800" height="450" alt="Rucking around" /></a>
 

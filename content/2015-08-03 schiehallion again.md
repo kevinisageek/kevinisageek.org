@@ -3,6 +3,7 @@ Date: 2015-08-03 09:00
 Author: Kevin
 Tags: Schiehallion, vagabonding, photos
 Slug: schiehallion-again
+Status: draft
 
 A couple of months ago, [Lynsay](http://lynsayshepherd.com) and I climbed up [Schiehallion](https://en.wikipedia.org/wiki/Schiehallion) (my second go, Lynsay's first Munro).
 

@@ -1,9 +1,9 @@
 Title: 31C3 Packing List
 Date: 2014-12-26 10:51
 Author: Kevin
-
 Tags: 31C3, gear, vagabonding
 Slug: 31c3-packing-list
+Status: draft
 
 I'm headed to Hamburg, Germany for the [31st Chaos Communications
 Congress](https://events.ccc.de/congress/2014/wiki/Main_Page), a week

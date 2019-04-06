@@ -3,6 +3,7 @@ Date: 2014-02-14 11:47
 Author: Kevin
 Tags: corrosion, electrical, Land Rover Defender
 Slug: if-its-not-one-thing-its-another
+Status: draft
 
 Last week one of my sidelights stopped working. Corrosion ate it. That
 was replaced this morning but the side light indicator light on the

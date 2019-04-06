@@ -3,6 +3,7 @@ Date: 2017-01-03 19:45
 Author: Kevin
 Tags: micro, photos
 Slug: recent-adventures
+Status: draft
 
 Day trips with my partner. Mostly to hunt down rocks of various sorts, as well as plants.
 
@@ -14,4 +15,3 @@ Glasgow Botanic Gardens
 
 Leadhills rock hunting
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/kevinisageek/albums/72157677250435720" title="Leadhills"><img src="https://c2.staticflickr.com/1/567/32080072145_bacf8f874b_c.jpg" width="800" height="535" alt="Leadhills"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-

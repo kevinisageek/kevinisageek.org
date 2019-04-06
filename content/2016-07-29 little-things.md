@@ -3,6 +3,7 @@ Date: 2016-06-29 16:00
 Author: Kevin
 Tags: micro, bicycle, chain, maintenance
 Slug: little-things
+Status: draft
 
 Like this improvised tool made from a bit of stiff wire. Holds the chain so a portion of it is slack enough to work with the master link.
 

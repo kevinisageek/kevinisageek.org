@@ -3,6 +3,7 @@ Date: 2014-02-19 14:08
 Author: Kevin
 Tags: electrics, Land Rover Defender
 Slug: finally-fused
+Status: draft
 
 Finally got an inline fuse on my auxiliary electrical stuff. For a long
 time, the kit has just been protected by the fuse box but if the main

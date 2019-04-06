@@ -3,6 +3,7 @@ Date: 2015-04-24 09:03
 Author: Kevin
 Tags: EDC, gear, photo
 Slug: minimal-edc
+Status: draft
 
 Don't need much for daily carry.
 
