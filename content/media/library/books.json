@@ -14,7 +14,7 @@
         "author_sort": "Stephenson, Neal", 
         "title": "The Diamond Age: Or, a Young Lady's Illustrated Primer", 
         "isbn": 9780141886282.0, 
-        "identifiers": "isbn:9780141886282,mobi-asin:4aec26ba-aed5-484d-9697-1955e40d8b8f", 
+        "identifiers": "mobi-asin:4aec26ba-aed5-484d-9697-1955e40d8b8f,isbn:9780141886282", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "37860be0-f233-447a-bb2a-8f6fc914c4b5"
@@ -94,7 +94,7 @@
         "author_sort": "Herbert, Frank", 
         "title": "Dune", 
         "isbn": 9780441013593.0, 
-        "identifiers": "isbn:9780441013593,mobi-asin:f9844f36-3979-49ef-a00c-512228292903", 
+        "identifiers": "mobi-asin:f9844f36-3979-49ef-a00c-512228292903,isbn:9780441013593", 
         "series": "Dune Saga", 
         "series_index": 10.0, 
         "uuid": "398c97f0-78d2-40ed-a21a-a124c99a78d7"
@@ -114,7 +114,7 @@
         "author_sort": "Anderson, Brian Herbert;Kevin J.", 
         "title": "Dune: The Butlerian Jihad", 
         "isbn": 312708084.0, 
-        "identifiers": "isbn:0312708084,mobi-asin:445f7e75-0dac-4794-b8e0-50140db44d7f", 
+        "identifiers": "mobi-asin:445f7e75-0dac-4794-b8e0-50140db44d7f,isbn:0312708084", 
         "series": "Dune Saga", 
         "series_index": 1.0, 
         "uuid": "72ebc414-e4ad-409a-81d7-dd6a3d1772d7"
@@ -194,7 +194,7 @@
         "author_sort": "Willink, Jocko", 
         "title": "Discipline Equals Freedom: Field Manual", 
         "isbn": 9781250156952.0, 
-        "identifiers": "isbn:9781250156952,google:4cI1DgAAQBAJ,amazon:1250156947", 
+        "identifiers": "google:4cI1DgAAQBAJ,isbn:9781250156952,amazon:1250156947", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "d78c6afb-6371-4f87-adaa-a0b8e68b9153"
@@ -324,7 +324,7 @@
         "author_sort": "Stross, Charles", 
         "title": "The Annihilation Score", 
         "isbn": 9780356505336.0, 
-        "identifiers": "isbn:9780356505336,mobi-asin:09c46614-eaf3-445d-87d4-15a076033691", 
+        "identifiers": "mobi-asin:09c46614-eaf3-445d-87d4-15a076033691,isbn:9780356505336", 
         "series": "Laundry Files", 
         "series_index": 6.0, 
         "uuid": "516f18aa-aaef-4f52-b9a3-a7aff8764260"
@@ -344,7 +344,7 @@
         "author_sort": "Stross, Charles", 
         "title": "The Atrocity Archives", 
         "isbn": 786578319.0, 
-        "identifiers": "isbn:0786578319,mobi-asin:a5330587-7ab0-4740-b8ca-5f23c9e002ef", 
+        "identifiers": "mobi-asin:a5330587-7ab0-4740-b8ca-5f23c9e002ef,isbn:0786578319", 
         "series": "Laundry Files", 
         "series_index": 1.0, 
         "uuid": "66b327d1-4492-46c0-9dc8-68ec846e4db7"
@@ -394,7 +394,7 @@
         "author_sort": "Babin, Jocko Willink; Leif", 
         "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win", 
         "isbn": 9781466874961.0, 
-        "identifiers": "isbn:9781466874961,mobi-asin:B00VE4Y0Z2", 
+        "identifiers": "mobi-asin:B00VE4Y0Z2,isbn:9781466874961", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "24ef6ed2-3c1e-4d6d-861e-2f0f9c483855"
@@ -474,7 +474,7 @@
         "author_sort": "Stross, Charles", 
         "title": "The Apocalypse Codex", 
         "isbn": 9781101581131.0, 
-        "identifiers": "isbn:9781101581131,mobi-asin:4901f687-4f0e-4bfb-bf1a-cf62d3d1a31f", 
+        "identifiers": "mobi-asin:4901f687-4f0e-4bfb-bf1a-cf62d3d1a31f,isbn:9781101581131", 
         "series": "Laundry Files", 
         "series_index": 4.0, 
         "uuid": "100b4cea-183c-465e-ba64-4076ab6c48cf"
