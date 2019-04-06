@@ -3,6 +3,7 @@ Date: 2014-07-04 11:40
 Author: Kevin
 Tags: bicycle, Klean Kanteen
 Slug: accessorising
+Status: draft
 
 [![image](/media/images/2014/07/wpid-wp-1404470229227.jpg "wp-1404470229227.jpg")](/media/images/2014/07/wpid-wp-1404470229227.jpg)
 

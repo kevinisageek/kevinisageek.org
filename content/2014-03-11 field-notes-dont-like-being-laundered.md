@@ -3,6 +3,7 @@ Date: 2014-03-11 15:53
 Author: Kevin
 Tags: fail, shit
 Slug: field-notes-dont-like-being-laundered
+Status: draft
 
 Field Notes don't like being laundered
 

@@ -3,6 +3,7 @@ Date: 2014-02-22 11:37
 Author: Kevin
 Tags: bicycle, maintenance, oh cock
 Slug: i-need-to-rtfm
+Status: draft
 
 Bike can only do low and medium range. Think I fanneyed about too much.
 
