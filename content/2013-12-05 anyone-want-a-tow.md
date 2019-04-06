@@ -3,6 +3,7 @@ Date: 2013-12-05 12:01
 Author: Kevin
 Tags: recovery equipment, winch
 Slug: anyone-want-a-tow
+Status: draft
 
 [caption id="attachment\_201" align="aligncenter" width="300"][![Anyone
 want a

@@ -3,6 +3,7 @@ Date: 2014-05-10 10:49
 Author: Kevin
 Tags: EDC, leatherwork
 Slug: i-comissioned-a-field-notes-leather-notebook-cover
+Status: draft
 
 Field Notes notebooks are among the best notebooks currently made. Good
 quality paper, fits in my pocket very well and are just a pleasure to

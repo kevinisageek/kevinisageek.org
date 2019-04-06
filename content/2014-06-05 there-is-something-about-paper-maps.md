@@ -3,6 +3,7 @@ Date: 2014-06-05 15:40
 Author: Kevin
 Tags: Craigowl Hill, map
 Slug: there-is-something-about-paper-maps
+Status: draft
 
 Don't know what it is but electronic maps just don't compare.
 

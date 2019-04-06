@@ -3,6 +3,7 @@ Date: 2013-11-28 12:42
 Author: Kevin
 Tags: review, torch
 Slug: tesco-cree-aluminium-torch-initial-review
+Status: draft
 
 Lighting is important. Without it, you run the risk of falling off a
 cliff and dying. Along with a knife and a reliable way to make fire, a

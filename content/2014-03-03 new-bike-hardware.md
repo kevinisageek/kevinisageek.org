@@ -3,6 +3,7 @@ Date: 2014-03-03 14:54
 Author: Kevin
 Tags: bicycle, pannier
 Slug: new-bike-hardware
+Status: draft
 
 Got a rear pannier (which will act as a mudguard), front mudguard and a
 decent pump.

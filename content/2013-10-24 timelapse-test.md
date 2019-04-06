@@ -1,9 +1,10 @@
 Title: Timelapse Test
 Date: 2013-10-24 10:55
 Author: Kevin
-
 Tags: GoPro, timelapse, video
 Slug: timelapse-test
+Status: draft
+
 I decided to test out the timelapse feature of my new to me GoPro
 camera. Set to take a picture every 2 seconds. Mounted using a cheapo
 windscreen mount I got from eBay.

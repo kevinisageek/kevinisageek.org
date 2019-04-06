@@ -3,6 +3,7 @@ Date: 2014-01-24 13:39
 Author: Kevin
 Tags: bicycle, diy, light
 Slug: rear-light-bodging
+Status: draft
 
 I have a bike. I don't use it. This needs to change.
 

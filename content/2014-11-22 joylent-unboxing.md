@@ -1,9 +1,9 @@
 Title: Joylent: Unboxing
 Date: 2014-11-22 10:44
 Author: Kevin
-
 Tags: Joylent
 Slug: joylent-unboxing
+Status: draft
 
 if you have been on the internet the past couple of years, you will have
 heard of [Soylent](http://www.soylent.me/). Not the stuff made from

@@ -1,9 +1,9 @@
 Title: Better the devil you know?
 Date: 2014-02-23 20:30
 Author: Kevin
-
 Tags: independence, referendum, Scotland
 Slug: better-the-devil-you-know
+Status: draft
 
 Independence.
 

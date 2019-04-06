@@ -3,6 +3,7 @@ Date: 2014-04-04 13:15
 Author: Kevin
 Tags: bicycle, dynamo, power, video
 Slug: bike-power
+Status: draft
 
 A good year ago I bought a cheap dynamo from eBay. The lights that came
 with it were utter garbage and I chucked them. The dynamo got installed
