@@ -2,6 +2,7 @@ Title: Now
 Date: 2016-03-03 16:27
 Author: kevin
 Slug: now
+Status: draft
 
 What I am up to:
 
