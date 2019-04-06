@@ -44,7 +44,7 @@
         "author_sort": "Peterson, Jordan B.", 
         "title": "12 Rules for Life: An Antidote to Chaos", 
         "isbn": 9780241351659.0, 
-        "identifiers": "mobi-asin:a5367b8f-6536-4c8f-b4c5-d4fd611dd3f5,isbn:9780241351659", 
+        "identifiers": "isbn:9780241351659,mobi-asin:a5367b8f-6536-4c8f-b4c5-d4fd611dd3f5", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "f4e96188-848c-4ab9-a7f2-21b3b092abbe"
@@ -84,7 +84,7 @@
         "author_sort": "Heinlein, Robert A.", 
         "title": "Time Enough for Love: The Lives of Lazarus Long", 
         "isbn": 9780441810765.0, 
-        "identifiers": "mobi-asin:0da188b3-47dd-4b11-9d32-92266609be56,isbn:9780441810765", 
+        "identifiers": "isbn:9780441810765,mobi-asin:0da188b3-47dd-4b11-9d32-92266609be56", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "8295311e-1898-4fea-b397-34db4462eaf2"
@@ -104,7 +104,7 @@
         "author_sort": "Anderson, Brian Herbert;Kevin J.", 
         "title": "Dune: The Machine Crusade", 
         "isbn": 312711085.0, 
-        "identifiers": "mobi-asin:5eeeca6d-ac03-4140-a692-a2a2de5ed34d,isbn:0312711085", 
+        "identifiers": "isbn:0312711085,mobi-asin:5eeeca6d-ac03-4140-a692-a2a2de5ed34d", 
         "series": "Dune Saga", 
         "series_index": 2.0, 
         "uuid": "296d7bb3-d635-410d-8733-7aef8fb035ba"
@@ -124,7 +124,7 @@
         "author_sort": "Anderson, Brian Herbert;Kevin J.", 
         "title": "Dune: The Battle of Corrin", 
         "isbn": 312712332.0, 
-        "identifiers": "mobi-asin:73d7f763-9623-4f55-bca7-f8c9b8feb452,isbn:0312712332", 
+        "identifiers": "isbn:0312712332,mobi-asin:73d7f763-9623-4f55-bca7-f8c9b8feb452", 
         "series": "Dune Saga", 
         "series_index": 3.0, 
         "uuid": "34519265-5cb7-46ad-b5f5-67dfa02b0ecb"
@@ -194,7 +194,7 @@
         "author_sort": "Willink, Jocko", 
         "title": "Discipline Equals Freedom: Field Manual", 
         "isbn": 9781250156952.0, 
-        "identifiers": "amazon:1250156947,google:4cI1DgAAQBAJ,isbn:9781250156952", 
+        "identifiers": "isbn:9781250156952,google:4cI1DgAAQBAJ,amazon:1250156947", 
         "series": null, 
         "series_index": 1.0, 
         "uuid": "d78c6afb-6371-4f87-adaa-a0b8e68b9153"
@@ -326,7 +326,7 @@
         "isbn": 9780356505336.0, 
         "identifiers": "isbn:9780356505336,mobi-asin:09c46614-eaf3-445d-87d4-15a076033691", 
         "series": "Laundry Files", 
-        "series_index": 5.0, 
+        "series_index": 6.0, 
         "uuid": "516f18aa-aaef-4f52-b9a3-a7aff8764260"
     }, 
     {
@@ -358,6 +358,16 @@
         "series": "Laundry Files", 
         "series_index": 2.0, 
         "uuid": "6f9cd9b0-b306-42af-b760-4ff92fbd2e1b"
+    }, 
+    {
+        "﻿id": 522.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Labyrinth Index", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": "Laundry Files", 
+        "series_index": 9.0, 
+        "uuid": "8892f689-dc2d-4414-8451-5c774f5d9d32"
     }, 
     {
         "﻿id": 528.0, 
@@ -428,5 +438,55 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "e21147fb-5841-4034-9985-78a5391dcf8e"
+    }, 
+    {
+        "﻿id": 538.0, 
+        "author_sort": "Yudkowsky, Eliezer", 
+        "title": "Harry Potter and the Methods of Rationality", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:d28fa789-bae9-43ac-8b22-fde0d2c0ef93", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8f998220-a943-457a-a028-731d6eee9575"
+    }, 
+    {
+        "﻿id": 539.0, 
+        "author_sort": "Crane, Richard; Nicholas", 
+        "title": "Journey to the Centre of the Earth", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "576c5903-cc4b-4f8a-b94c-62e73a285427"
+    }, 
+    {
+        "﻿id": 540.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Nightmare Stacks", 
+        "isbn": 9780356505350.0, 
+        "identifiers": "isbn:9780356505350,mobi-asin:B019CSNQ24", 
+        "series": "Laundry Files", 
+        "series_index": 7.0, 
+        "uuid": "a5dc7465-d96e-430f-9557-3b363b1b27c4"
+    }, 
+    {
+        "﻿id": 541.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Apocalypse Codex", 
+        "isbn": 9781101581131.0, 
+        "identifiers": "isbn:9781101581131,mobi-asin:4901f687-4f0e-4bfb-bf1a-cf62d3d1a31f", 
+        "series": "Laundry Files", 
+        "series_index": 4.0, 
+        "uuid": "100b4cea-183c-465e-ba64-4076ab6c48cf"
+    }, 
+    {
+        "﻿id": 542.0, 
+        "author_sort": "Stross, Charles", 
+        "title": "The Fuller Memorandum", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B003RWSJME", 
+        "series": "Laundry Files", 
+        "series_index": 3.0, 
+        "uuid": "e3102057-fd27-4e75-a96b-87d56760025a"
     }
 ]
