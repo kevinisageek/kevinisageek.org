@@ -11,4 +11,7 @@ Slug: morning-routine
 
 Been doing this the past week while pulling 12 hour shifts at work and I have to say it is working out really well for me. Combination of early runs and long days mean my sleep is much improved.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/N4idiqP1MeA" frameborder="0" allowfullscreen></iframe>
+<video width="720" height="488" controls>
+    <source src="/media/video/patrolling morning routine.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
