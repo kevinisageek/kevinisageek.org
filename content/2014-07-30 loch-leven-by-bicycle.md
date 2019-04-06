@@ -4,4 +4,4 @@ Author: Kevin
 Tags: bicycle, video
 Slug: loch-leven-by-bicycle
 
-<iframe src="//www.youtube-nocookie.com/embed/1F9BC8DbMDs?rel=0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<video src="/media/video/2014-07-30 loch leven by bicycle" width="800" />
