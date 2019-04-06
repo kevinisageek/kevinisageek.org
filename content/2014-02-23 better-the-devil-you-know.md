@@ -41,7 +41,7 @@ page.
 
 [caption id="attachment\_339" align="aligncenter" width="225"][![The
 Propaganda Brick. You could build a house with
-these.](/images/2014/02/IMG_20140223_192312-225x300.jpg)](/images/2014/02/IMG_20140223_192312.jpg)
+these.](/media/images/2014/02/IMG_20140223_192312-225x300.jpg)](/media/images/2014/02/IMG_20140223_192312.jpg)
 The Propaganda Brick. You could build a house with these.[/caption]
 
 I do know one thing. If Scotland does get independence, it will make my

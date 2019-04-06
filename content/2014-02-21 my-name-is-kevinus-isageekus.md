@@ -11,5 +11,5 @@ Slug: my-name-is-Kevinus-isageekus
 
 [caption id="attachment\_328" align="aligncenter" width="300"][![Gladius
 machete, Training Gladius and Lanskey sharpening
-puck](/images/2014/02/IMG_20140221_095915-300x225.jpg)](/images/2014/02/IMG_20140221_095915.jpg)
+puck](/media/images/2014/02/IMG_20140221_095915-300x225.jpg)](/media/images/2014/02/IMG_20140221_095915.jpg)
 Gladius machete, Training Gladius and Lanskey sharpening puck[/caption]

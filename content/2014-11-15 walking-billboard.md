@@ -8,4 +8,4 @@ Slug: walking-billboard
 [Triple Aught Design](https://tripleaughtdesign.com/) make good kit so
 its worth it.
 
-[![image](/images/2014/11/wpid-wp-1416049067073.jpeg "wp-1416049067073")](/images/2014/11/wpid-wp-1416049067073.jpeg)
+[![image](/media/images/2014/11/wpid-wp-1416049067073.jpeg "wp-1416049067073")](/media/images/2014/11/wpid-wp-1416049067073.jpeg)

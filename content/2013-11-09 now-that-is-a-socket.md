@@ -4,10 +4,10 @@ Author: Kevin
 Tags: britpart, oh dear, socket
 Slug: now-that-is-a-socket
 
-[![image](/images/2013/11/wpid-wp-1383994149665.jpg "wp-1383994149665.jpg")](/images/2013/11/wpid-wp-1383994149665.jpg)
+[![image](/media/images/2013/11/wpid-wp-1383994149665.jpg "wp-1383994149665.jpg")](/media/images/2013/11/wpid-wp-1383994149665.jpg)
 
 Its massive!
 
-[![image](/images/2013/11/wpid-wp-1383994182041.jpg "wp-1383994182041.jpg")](/images/2013/11/wpid-wp-1383994182041.jpg)
+[![image](/media/images/2013/11/wpid-wp-1383994182041.jpg "wp-1383994182041.jpg")](/media/images/2013/11/wpid-wp-1383994182041.jpg)
 
 Britpart, hmmm....

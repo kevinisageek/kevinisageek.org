@@ -5,4 +5,4 @@ Author: Kevin
 Tags: book, clojure
 Slug: hipster-nerdiness-intensifies
 
-[![image](/images/2014/10/wpid-wp-1412157444902.jpg "wp-1412157444902.jpg")](/images/2014/10/wpid-wp-1412157444902.jpg)
+[![image](/media/images/2014/10/wpid-wp-1412157444902.jpg "wp-1412157444902.jpg")](/media/images/2014/10/wpid-wp-1412157444902.jpg)

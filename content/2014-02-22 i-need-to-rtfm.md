@@ -6,4 +6,4 @@ Slug: i-need-to-rtfm
 
 Bike can only do low and medium range. Think I fanneyed about too much.
 
-[![image](/images/2014/02/wpid-wp-1393064729903.jpg "wp-1393064729903.jpg")](/images/2014/02/wpid-wp-1393064729903.jpg)
+[![image](/media/images/2014/02/wpid-wp-1393064729903.jpg "wp-1393064729903.jpg")](/media/images/2014/02/wpid-wp-1393064729903.jpg)

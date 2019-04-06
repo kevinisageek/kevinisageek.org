@@ -6,6 +6,6 @@ Slug: its-been-proven-that-stickers-increase-boost
 
 \*
 
-[![image](/images/2013/10/wpid-wp-1382005986651.jpg "wp-1382005986651.jpg")](/images/2013/10/wpid-wp-1382005986651.jpg)
+[![image](/media/images/2013/10/wpid-wp-1382005986651.jpg "wp-1382005986651.jpg")](/media/images/2013/10/wpid-wp-1382005986651.jpg)
 
 \*not actually proven

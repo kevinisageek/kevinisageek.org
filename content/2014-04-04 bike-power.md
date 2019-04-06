@@ -26,7 +26,7 @@ future, just need to swap out the regulator. Currently it is capped at 1
 amp at 5 volts. If I decide I want more amps, it will cost about £2 to
 upgrade. Not bad.
 
-[![IMG\_20140403\_140058](/images/2014/04/IMG_20140403_140058-300x225.jpg)](/images/2014/04/IMG_20140403_140058.jpg)We
+[![IMG\_20140403\_140058](/media/images/2014/04/IMG_20140403_140058-300x225.jpg)](/media/images/2014/04/IMG_20140403_140058.jpg)We
 opted to alter the configuration of the components from the kit
 defaults. The large capacitor is moved off to the side so that it will
 fit in the project box and the regulator is now fitted outside the box

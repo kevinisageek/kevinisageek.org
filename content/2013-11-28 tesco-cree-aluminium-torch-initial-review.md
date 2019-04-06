@@ -15,7 +15,7 @@ meters.
 
 [caption id="attachment\_173" align="aligncenter" width="300"][![Tesco
 CREE aluminium
-torch](/images/2013/11/wpid-IMG_20131128_111736-300x225.jpg)](/images/2013/11/wpid-IMG_20131128_111736.jpg)
+torch](/media/images/2013/11/wpid-IMG_20131128_111736-300x225.jpg)](/media/images/2013/11/wpid-IMG_20131128_111736.jpg)
 Tesco CREE aluminium torch[/caption]
 
 For the [princely sum of
@@ -27,7 +27,7 @@ aluminium body. There are 2 variants, a 2 AA battery and a 2 D version
 
 [caption id="attachment\_174" align="aligncenter"
 width="300"][![Comparison between the Tesco CREE and Fenix
-LD20](/images/2013/11/wpid-IMG_20131128_112022-e1385638237529-300x225.jpg)](/images/2013/11/wpid-IMG_20131128_112022.jpg)
+LD20](/media/images/2013/11/wpid-IMG_20131128_112022-e1385638237529-300x225.jpg)](/media/images/2013/11/wpid-IMG_20131128_112022.jpg)
 Comparison between the Tesco CREE and Fenix LD20[/caption]
 
 Size wise, it is very comparable to the [Fenix

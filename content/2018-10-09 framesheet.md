@@ -7,11 +7,11 @@ I've been rocking a [Goruck GR1](https://www.goruck.com/GR1) as my EDC pack for 
 
 Simply pull out the stock sheet, draw round it onto the Kydex and cut out with some sort of rotary tool. Wrestle it back in, job done.
 
-<img src="/images/2018-10-09 sheets.jpg" width="800px" class="align-center" />
+<img src="/media/images/2018-10-09 sheets.jpg" width="800px" class="align-center" />
 
-<img src="/images/2018-10-09 cut out.jpg" width="800px" class="align-center" />
+<img src="/media/images/2018-10-09 cut out.jpg" width="800px" class="align-center" />
 
-<img src="/images/2018-10-09 in.jpg" width="800px" class="align-center" />
+<img src="/media/images/2018-10-09 in.jpg" width="800px" class="align-center" />
 
-<img src="/images/2018-10-09 broken.jpg" width="800px" class="align-center" />
+<img src="/media/images/2018-10-09 broken.jpg" width="800px" class="align-center" />
 Don't forget your eye protection for when structural failures happen.

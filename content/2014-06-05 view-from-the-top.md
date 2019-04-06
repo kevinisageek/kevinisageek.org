@@ -4,6 +4,6 @@ Author: Kevin
 Tags: Craigowl Hill, photo
 Slug: view-from-the-top
 
-[![image](/images/2014/06/wpid-wp-1401995209756.jpeg "wp-1401995209756")](/images/2014/06/wpid-wp-1401995209756.jpeg)
+[![image](/media/images/2014/06/wpid-wp-1401995209756.jpeg "wp-1401995209756")](/media/images/2014/06/wpid-wp-1401995209756.jpeg)
 
 Weather isn't so good. Yay Scotland.
