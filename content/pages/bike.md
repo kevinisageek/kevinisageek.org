@@ -1,6 +1,6 @@
 Title: Bike
 Date: 2018-10-28
-Author: kevin
+Author: Kevin
 Slug: bike
 
 Mostly stock Surly Troll in a fetching purple colour (they call it eggplant).

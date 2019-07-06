@@ -1,6 +1,6 @@
 Title: About
 Date: 2018-10-16
-Author: kevin
+Author: Kevin
 Slug: about
 
 Just a random geek on the internet.

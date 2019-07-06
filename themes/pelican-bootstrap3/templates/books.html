@@ -1,6 +1,6 @@
-{% extends "base.html" %}
+{% extends "page.html" %}
 
-{% block title %}{{ page.title|striptags }} | {{ SITENAME }}{% endblock %}
+{% block title %}{{ page.title|striptags }} - {{ SITENAME }}{% endblock %}
 
 {% block body_id %}page-{{ page.slug }}{% endblock %}
 
@@ -33,7 +33,7 @@
 
 
 
-    {{ super() }}
+
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery-3.3.1.min.js"></script>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/datatables.min.js"></script>
     <script>
