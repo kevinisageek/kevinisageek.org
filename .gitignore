@@ -2,3 +2,4 @@
 **.DS_Store
 output/**
 content/media/video/*
+*.pyc
