@@ -14,14 +14,14 @@ I have standardised on [Waterbricks](https://www.waterbrick.org/) for my emergen
 
 They are made of HDPE in a nice blue colour, come with a handle for portability and the lid has a gasket to stop leaks. Capacity is approximately 16 litres (3.5 gallons). The waterbricks also stack up nicely and can be palletised for bulk storage and movement. The cuboid shape also leaves less dead space like round containers do. The relatively small volume of them also helps if one becomes compromised and leaks, you don't end up losing your entire store of water, usually just before you need it.
 
-It is a good idea to rotate your water when stored. Opening up a container after 6 years is probably not going to be a good idea. I use [Taskwarrior](https://taskwarrior.org/) to automate reminders to rotate on a yearly basis, with a 6 month offset. The water won't be fantastically fresh or crisp, or particularly cool for that matter, after that time but can be reasonably assumed to be pathogen free.
+It is a good idea to rotate your water when stored. Opening up a container after 6 years is probably not going to be particularly pleasant. I use [Taskwarrior](https://taskwarrior.org/) to automate reminders to rotate on a yearly basis, with a 6 month offset. The water won't be fantastically fresh or crisp - or particularly cool for that matter - after that time but can be reasonably assumed to be pathogen free.
 
     $ task add project:waterstorage due:2019-06-01 wait:due-3days recur:yearly Rotate waterbrick alpha
     $ task add project:waterstorage due:2019-06-01 wait:due-3days recur:yearly Rotate waterbrick bravo
     $ task add project:waterstorage due:2019-12-01 wait:due-3days recur:yearly Rotate waterbrick charlie
     $ task add project:waterstorage due:2019-12-01 wait:due-3days recur:yearly Rotate waterbrick delta
 
-Now, while the waterbricks are intended to be used for home storage in my case, the handle also makes them pretty convenient to lug out to a vehicle for trips to remote locations where a potable water supply is not immediately available.
+Now, while the waterbricks are intended to be used for home storage in my case, the handle also makes them reasonably convenient to lug out to a vehicle for trips to remote locations where a potable water supply is not immediately available.
 
 <!--<video width="720" height="488" controls>
     <source src="/media/video/" type="video/mp4">
