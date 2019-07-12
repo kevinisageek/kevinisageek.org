@@ -548,5 +548,85 @@
         "series": "Discworld", 
         "series_index": 1.0, 
         "uuid": "fc425b72-a3b2-47eb-b427-ce5aeb26159c"
+    }, 
+    {
+        "﻿id": 557.0, 
+        "authors": "Terry Pratchett", 
+        "title": "The Light Fantastic", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": "Discworld", 
+        "series_index": 2.0, 
+        "uuid": "b601ba71-46c1-469a-aea6-725aeb0e322f"
+    }, 
+    {
+        "﻿id": 578.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Interesting Times", 
+        "isbn": 9780061056901.0, 
+        "identifiers": "isbn:9780061056901", 
+        "series": "Discworld", 
+        "series_index": 17.0, 
+        "uuid": "164772e6-0ad4-4236-9084-f77cc1a36f49"
+    }, 
+    {
+        "﻿id": 585.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Eric", 
+        "isbn": 9780061807039.0, 
+        "identifiers": "isbn:9780061807039", 
+        "series": "Discworld", 
+        "series_index": 9.0, 
+        "uuid": "e75ad3cb-af4a-43de-9ae3-aab74a8317c2"
+    }, 
+    {
+        "﻿id": 590.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Sourcery", 
+        "isbn": 9780061807145.0, 
+        "identifiers": "isbn:9780061807145", 
+        "series": "Discworld", 
+        "series_index": 5.0, 
+        "uuid": "b2bf3d4c-3324-4093-98b7-e1722b614f39"
+    }, 
+    {
+        "﻿id": 593.0, 
+        "authors": "Alastair Humphreys", 
+        "title": "Moods of Future Joys", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "50fbc581-eff2-4ebf-a8da-05c60243bfa1"
+    }, 
+    {
+        "﻿id": 594.0, 
+        "authors": "Ben Clark", 
+        "title": "Red Team Field Manual", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "3ec652c6-fef9-4c66-83d3-cda763df2318"
+    }, 
+    {
+        "﻿id": 596.0, 
+        "authors": "Warren Ellis", 
+        "title": "Transmetropolitan 01 (1997)", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "41281ed9-bed3-4bf7-8f1e-ea6f836fc027"
+    }, 
+    {
+        "﻿id": 613.0, 
+        "authors": "Warren Ellis", 
+        "title": "Transmetropolitan 02 (1997)", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "aa7f7aea-ba92-4c0d-907b-3ec3f9cbc52f"
     }
 ]
