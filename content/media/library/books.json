@@ -390,6 +390,16 @@
         "uuid": "8892f689-dc2d-4414-8451-5c774f5d9d32"
     }, 
     {
+        "﻿id": 523.0, 
+        "authors": "Nick Offerman", 
+        "title": "Paddle Your Own Canoe", 
+        "isbn": null, 
+        "identifiers": "edelweiss:052595421X,google:R7rgpxRZ3NsC,amazon:052595421X,mobi-asin:B00C1N5WRU,oclc:834432680,goodreads:17674991", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "761afa7e-283a-4ccf-8cb5-c95858c78674"
+    }, 
+    {
         "﻿id": 524.0, 
         "authors": "Aleksandr Solzhenitsyn", 
         "title": "The Gulag Archipelago (Vintage Classics)", 
@@ -558,6 +568,36 @@
         "series": "Discworld", 
         "series_index": 2.0, 
         "uuid": "b601ba71-46c1-469a-aea6-725aeb0e322f"
+    }, 
+    {
+        "﻿id": 558.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Unseen Academicals", 
+        "isbn": 9780061161704.0, 
+        "identifiers": "isbn:9780061161704", 
+        "series": "Discworld", 
+        "series_index": 37.0, 
+        "uuid": "cc788c3b-a96f-498a-8e65-f85c1a5db2ee"
+    }, 
+    {
+        "﻿id": 569.0, 
+        "authors": "Terry Pratchett", 
+        "title": "The Last Hero", 
+        "isbn": 9780061040962.0, 
+        "identifiers": "isbn:9780061040962", 
+        "series": "Discworld", 
+        "series_index": 27.0, 
+        "uuid": "b4a17511-e0e9-4fad-9814-6130f0ee4c8a"
+    }, 
+    {
+        "﻿id": 572.0, 
+        "authors": "Terry Pratchett", 
+        "title": "The Last Continent", 
+        "isbn": 9780385409896.0, 
+        "identifiers": "isbn:9780385409896", 
+        "series": "Discworld", 
+        "series_index": 22.0, 
+        "uuid": "1fe2a3bf-f348-4d6d-bfdf-abf5ded9c340"
     }, 
     {
         "﻿id": 578.0, 
