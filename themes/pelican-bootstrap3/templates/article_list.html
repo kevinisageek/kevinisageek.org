@@ -10,6 +10,11 @@
                     </div>
                 {% endif %}
                 <div class="summary entry-content">{{ article.content }}
+									<div class="panel">
+	                    <div class="panel-body">
+	                        {% include "includes/article_info.html" %}
+	                    </div>
+	                </div>
                 </div>
             </article>
             <hr/>
