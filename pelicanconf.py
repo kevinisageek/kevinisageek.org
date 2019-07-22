@@ -43,7 +43,11 @@ PAGINATION_PATTERNS = (
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
+<<<<<<< HEAD
 PLUGINS = ['tipue_search', 'i18n_subsites']
+=======
+PLUGINS = ['tipue_search']
+>>>>>>> 50d3549696340b5df60aafaa95c4936a144d9598
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
