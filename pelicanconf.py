@@ -8,7 +8,6 @@ SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 STATIC_PATHS = ['media','content','*.jpg','favicon.ico']
-#STATIC_PATHS = ['misc','images','content','*.jpg','keybase.txt','favicon.ico']
 PAGE_PATHS = ['pages']
 
 TIMEZONE = 'Europe/London'
@@ -22,19 +21,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/kevinisageek'),
-          ('Github', 'https://github.com/kevinisageek'),
-)
-
 # Pagination
-#USE_PAGINATION = True
 DEFAULT_PAGINATION = 10
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
@@ -44,10 +31,6 @@ PAGINATION_PATTERNS = (
 # Plugins
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['tipue_search']
-
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 DIRECT_TEMPLATES = ('index', 'tags', 'archives', 'search')
 
