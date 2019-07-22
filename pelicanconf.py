@@ -84,5 +84,3 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 MENUITEMS = (
             ('Feed', '/feed'),
             )
-
-USE_OPEN_GRAPH = False

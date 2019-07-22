@@ -152,7 +152,6 @@
 <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
     <div class="row">
         <div class="{{ content_class }}">
-            {% block breadcrumbs %}{% endblock %}
             {% block content %}{% endblock %}
         </div>
         {% if sidebar_class %}
