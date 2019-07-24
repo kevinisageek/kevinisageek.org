@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kevin Smith'
 SITENAME = u'Random Geekage'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://nomadic.local'
 
 PATH = 'content'
 STATIC_PATHS = ['media','content','*.jpg','favicon.ico']
