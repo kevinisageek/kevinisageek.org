@@ -61,7 +61,7 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = False
 DISPLAY_TAGS_ON_SIDEBAR = False
 HIDE_SIDEBAR = True
 
-THEME = 'pelican-kevinisageek'
+THEME = 'themes/pelican-kevinisageek'
 IGNORE_FILES = ['.#*','.DS_Store']
 DEFAULT_LANG = 'en'
 MENUITEMS = (
