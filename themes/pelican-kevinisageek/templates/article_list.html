@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if articles %}
+        {% for article in (articles_page.object_list if articles_page else articles) %}
+            <article class="entry{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}">
+                <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
+                    <div class="well well-sm">
+                        {% include "includes/article_info.html" %}
+                    </div>
+                {% endif %}
+                <div class="summary entry-content">{{ article.content }}
+									<div class="panel">
+	                    <div class="panel-body">
+	                        {% include "includes/article_info.html" %}
+	                    </div>
+	                </div>
+                </div>
+            </article>
+            <hr/>
+        {% endfor %}
+    {% endif %}
+
+    {% include 'includes/pagination.html' %}
+{% endblock content %}
