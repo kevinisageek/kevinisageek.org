@@ -8,8 +8,7 @@ Just a random geek on the internet.
 Places I am:
 
 * [Twitter](https://twitter.com/kevinisageek)
-* Discord: [House Ordos](https://discord.gg/p8tAxfR)
+* Discord: kevinisageek#2683 or at [House Ordos](https://discord.gg/p8tAxfR)
 * Email: kevin at this domain
-* [Instagram](https://instagram.com/kevinisageek_)
 * [Github](https://github.com/kevinisageek)
 * Nintendo Switch: SW-7336-5895-0692
