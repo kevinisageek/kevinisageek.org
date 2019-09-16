@@ -710,6 +710,16 @@
         "uuid": "11d01250-2ac6-49be-991e-1de1f993fffa"
     }, 
     {
+        "﻿id": 584.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Reaper Man", 
+        "isbn": 9780451451682.0, 
+        "identifiers": "isbn:9780451451682", 
+        "series": "Discworld", 
+        "series_index": 11.0, 
+        "uuid": "47ab8dce-8d56-45cd-a447-877e9e270673"
+    }, 
+    {
         "﻿id": 585.0, 
         "authors": "Terry Pratchett", 
         "title": "Eric", 
@@ -788,5 +798,25 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "aa7f7aea-ba92-4c0d-907b-3ec3f9cbc52f"
+    }, 
+    {
+        "﻿id": 664.0, 
+        "authors": "Non Prophet", 
+        "title": "Raze Anthology", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "62431d78-78dc-435c-8f85-24022db33909"
+    }, 
+    {
+        "﻿id": 665.0, 
+        "authors": "alextynemouth", 
+        "title": "Haze", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7cc48cb2-cab4-49c0-8a30-98e32e8c4439"
     }
 ]
