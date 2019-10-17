@@ -46,6 +46,7 @@ help:
 
 
 html:
+	./books.sh
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
