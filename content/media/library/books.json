@@ -250,6 +250,16 @@
         "uuid": "170b3d7d-0bb0-4434-af9e-c8323d1067e9"
     }, 
     {
+        "﻿id": 496.0, 
+        "authors": "Andrew \"bunnie\" Huang", 
+        "title": "Hacking the Xbox: An Introduction to Reverse Engineering", 
+        "isbn": 1593270291.0, 
+        "identifiers": "isbn:1593270291,mobi-asin:1777e8f4-c195-40fa-be02-3178beab8138", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "243c6a16-fb98-4585-971e-628c6522eb1e"
+    }, 
+    {
         "﻿id": 497.0, 
         "authors": "Robert A. Heinlein", 
         "title": "The Cat Who Walked Through Walls", 
@@ -560,6 +570,26 @@
         "uuid": "84d5513b-3a65-4767-b1a3-d6f99a0975cf"
     }, 
     {
+        "﻿id": 546.0, 
+        "authors": "Mark Twight", 
+        "title": "Kiss or Kill: Confessions of a Serial Climber", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B00D3OC8LO", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7422612e-9807-4725-bd10-a468a54dd114"
+    }, 
+    {
+        "﻿id": 548.0, 
+        "authors": "Mark F. Twight & James Martin", 
+        "title": "Extreme Alpinism", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B00D3OCACQ", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2ca2bebe-429f-4e1b-b149-057afc1df7a5"
+    }, 
+    {
         "﻿id": 550.0, 
         "authors": "Sarah Outen", 
         "title": "Dare to Do", 
@@ -730,6 +760,16 @@
         "uuid": "6130325b-db1f-47dd-8495-b9b77f23d407"
     }, 
     {
+        "﻿id": 580.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Men at Arms", 
+        "isbn": 9780061092190.0, 
+        "identifiers": "isbn:9780061092190", 
+        "series": "Discworld", 
+        "series_index": 15.0, 
+        "uuid": "848f6c3d-6cf0-448d-a562-92f8df178bca"
+    }, 
+    {
         "﻿id": 582.0, 
         "authors": "Terry Pratchett", 
         "title": "Witches Abroad", 
@@ -768,6 +808,16 @@
         "series": "Discworld", 
         "series_index": 9.0, 
         "uuid": "e75ad3cb-af4a-43de-9ae3-aab74a8317c2"
+    }, 
+    {
+        "﻿id": 587.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Guards! Guards!", 
+        "isbn": 9780061440496.0, 
+        "identifiers": "isbn:9780061440496", 
+        "series": "Discworld", 
+        "series_index": 8.0, 
+        "uuid": "75da8083-0aad-4407-9741-e038dd80be58"
     }, 
     {
         "﻿id": 589.0, 
@@ -838,6 +888,36 @@
         "series": "Transmetropolitan", 
         "series_index": 2.0, 
         "uuid": "aa7f7aea-ba92-4c0d-907b-3ec3f9cbc52f"
+    }, 
+    {
+        "﻿id": 651.0, 
+        "authors": "Warren Ellis", 
+        "title": "Transmetropolitan 08 (1998)", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": "Transmetropolitan", 
+        "series_index": 8.0, 
+        "uuid": "7978967a-690d-4116-b630-65109ded3d87"
+    }, 
+    {
+        "﻿id": 652.0, 
+        "authors": "Warren Ellis", 
+        "title": "Transmetropolitan 07 (1998)", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": "Transmetropolitan", 
+        "series_index": 7.0, 
+        "uuid": "360ee2d1-d042-4606-a300-a373cfdac0d8"
+    }, 
+    {
+        "﻿id": 653.0, 
+        "authors": "Warren Ellis", 
+        "title": "Transmetropolitan 06 (1998)", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": "Transmetropolitan", 
+        "series_index": 6.0, 
+        "uuid": "844be8f9-44c6-4427-ac99-99123b9a4153"
     }, 
     {
         "﻿id": 654.0, 
