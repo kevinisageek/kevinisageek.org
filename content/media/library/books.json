@@ -720,6 +720,16 @@
         "uuid": "1fe2a3bf-f348-4d6d-bfdf-abf5ded9c340"
     }, 
     {
+        "﻿id": 574.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Jingo", 
+        "isbn": 9780613572316.0, 
+        "identifiers": "isbn:9780613572316", 
+        "series": "Discworld", 
+        "series_index": 21.0, 
+        "uuid": "dfa68324-62c0-4cc1-8ebe-e553b9f7c760"
+    }, 
+    {
         "﻿id": 576.0, 
         "authors": "Terry Pratchett", 
         "title": "Carpe Jugulum", 
@@ -848,6 +858,16 @@
         "series": "Discworld", 
         "series_index": 4.0, 
         "uuid": "42e03e1a-bdb8-4592-985a-5b4f7635565e"
+    }, 
+    {
+        "﻿id": 592.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Feet of Clay", 
+        "isbn": 9780061807022.0, 
+        "identifiers": "isbn:9780061807022", 
+        "series": "Discworld", 
+        "series_index": 19.0, 
+        "uuid": "a5203410-8298-42b1-baee-db2b69e9d1c8"
     }, 
     {
         "﻿id": 593.0, 
