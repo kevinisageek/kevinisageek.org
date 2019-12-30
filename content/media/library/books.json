@@ -190,6 +190,16 @@
         "uuid": "db104faa-5dfa-4da0-adc5-32427f1fa554"
     }, 
     {
+        "﻿id": 378.0, 
+        "authors": "Marcus Aurelius (Emperor of Rome); Gregory Hays", 
+        "title": "Meditations", 
+        "isbn": 9780679642602.0, 
+        "identifiers": "mobi-asin:33dda5b0-00a6-4e25-bfe7-dbf15cb75f87,isbn:9780679642602", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "dae9c10f-83ab-4084-b4d8-2bcf949fcecb"
+    }, 
+    {
         "﻿id": 389.0, 
         "authors": "Jeff Vail", 
         "title": "A Theory of Power", 
@@ -998,5 +1008,25 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "7cc48cb2-cab4-49c0-8a30-98e32e8c4439"
+    }, 
+    {
+        "﻿id": 666.0, 
+        "authors": "2600 Magazine", 
+        "title": "2600 3q19 DigitalEdition", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f3d63611-2613-4614-9d8d-37f4eb954a97"
+    }, 
+    {
+        "﻿id": 671.0, 
+        "authors": "Unknown", 
+        "title": "cornbread", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "d0fbbc82-549a-412f-a94e-c1b6317bb1e0"
     }
 ]
