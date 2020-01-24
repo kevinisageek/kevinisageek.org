@@ -30,6 +30,16 @@
         "uuid": "21c4c76d-4c91-40cc-b552-48dc9c8200d4"
     }, 
     {
+        "﻿id": 107.0, 
+        "authors": "Stephen W. Hawking", 
+        "title": "A brief history of time: from the big bang to black holes", 
+        "isbn": 9780553346145.0, 
+        "identifiers": "isbn:9780553346145", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f2982778-c2b7-43dc-8ab3-e72a41cd0253"
+    }, 
+    {
         "﻿id": 138.0, 
         "authors": "Stephen W. Hawking", 
         "title": "The Grand Design", 
@@ -248,6 +258,26 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "f1894aaa-fb29-4eec-941e-79abe5dc2114"
+    }, 
+    {
+        "﻿id": 485.0, 
+        "authors": "Clint Emerson", 
+        "title": "100 Deadly Skills", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "88c45847-d5e6-4d7a-a144-3e4c1535a53c"
+    }, 
+    {
+        "﻿id": 489.0, 
+        "authors": "Clint Emerson", 
+        "title": "100 Deadly Skills: Survival Edition", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "9f47d12a-17e7-4e7b-b450-661711c7ce1d"
     }, 
     {
         "﻿id": 494.0, 
@@ -1018,6 +1048,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "f3d63611-2613-4614-9d8d-37f4eb954a97"
+    }, 
+    {
+        "﻿id": 670.0, 
+        "authors": "Neil Stanley", 
+        "title": "How to Sleep Well", 
+        "isbn": 9780857087874.0, 
+        "identifiers": "isbn:9780857087874", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2254f308-3b4f-4a73-826c-0a6bd56adf67"
     }, 
     {
         "﻿id": 671.0, 
