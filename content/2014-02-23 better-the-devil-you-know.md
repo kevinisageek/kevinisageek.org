@@ -1,9 +1,7 @@
 Title: Better the devil you know?
 Date: 2014-02-23 20:30
-Author: Kevin
 Tags: independence, referendum, Scotland
 Slug: better-the-devil-you-know
-Status: draft
 
 Independence.
 
@@ -39,10 +37,7 @@ for free for you to have a read. My Dad got a copy and when I had a
 flick through, it was dripping with fervent nationalism from the first
 page.
 
-[caption id="attachment\_339" align="aligncenter" width="225"][![The
-Propaganda Brick. You could build a house with
-these.](/media/images/2014/02/IMG_20140223_192312-225x300.jpg)](/media/images/2014/02/IMG_20140223_192312.jpg)
-The Propaganda Brick. You could build a house with these.[/caption]
+<img src="/media/images/2014-02-23 indyref whitepaper.jpg" class="align-center" />
 
 I do know one thing. If Scotland does get independence, it will make my
 trips to Yorkshire a hassle. The Tories have said they will institute
