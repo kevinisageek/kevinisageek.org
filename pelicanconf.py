@@ -22,11 +22,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Pagination
-DEFAULT_PAGINATION = 10
-PAGINATION_PATTERNS = (
-    (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/{number}/', '{base_name}/{number}/index.html'),
-)
+USE_PAGER = False
+#PAGINATION_PATTERNS = (
+#    (1, '{base_name}/', '{base_name}/index.html'),
+#    (2, '{base_name}/{number}/', '{base_name}/{number}/index.html'),
+#)
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
