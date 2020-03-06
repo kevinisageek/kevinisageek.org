@@ -143,7 +143,28 @@
 </div>
 <!-- End Content Container -->
 
-{% include 'includes/footer.html' %}
+<footer>
+   <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+      <hr>
+      <div class="row">
+         {% if articles %}
+           {% if articles[0].modified %}
+             {% set copy_date = articles[0].modified.strftime('%Y') %}
+           {% else %}
+             {% set copy_date = articles[0].date.strftime('%Y') %}
+           {% endif %}
+         {% else %}
+            {% set copy_date = '' %}
+         {% endif %}
+         <div class="col-xs-10 align-center">&copy; {{ copy_date }} {{ AUTHOR }}
+            &middot; Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a> and modified
+						<a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>.<br />
+						<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="/media/images/cc.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
 
 {% if BANNER %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
