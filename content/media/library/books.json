@@ -740,6 +740,16 @@
         "uuid": "ed037ed0-7535-4385-ace2-ab5056b542d0"
     }, 
     {
+        "﻿id": 568.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Night Watch", 
+        "isbn": 9781435274785.0, 
+        "identifiers": "isbn:9781435274785", 
+        "series": "Discworld", 
+        "series_index": 29.0, 
+        "uuid": "69cd58be-302a-4d57-8a43-c7c657ebe99b"
+    }, 
+    {
         "﻿id": 569.0, 
         "authors": "Terry Pratchett", 
         "title": "The Last Hero", 
@@ -758,6 +768,16 @@
         "series": "Discworld", 
         "series_index": 22.0, 
         "uuid": "1fe2a3bf-f348-4d6d-bfdf-abf5ded9c340"
+    }, 
+    {
+        "﻿id": 573.0, 
+        "authors": "Terry Pratchett", 
+        "title": "The Fifth Elephant", 
+        "isbn": 9780061020407.0, 
+        "identifiers": "isbn:9780061020407", 
+        "series": "Discworld", 
+        "series_index": 24.0, 
+        "uuid": "64ac6860-ecca-42b4-a74c-2e89a4f15737"
     }, 
     {
         "﻿id": 574.0, 
@@ -870,6 +890,16 @@
         "uuid": "e75ad3cb-af4a-43de-9ae3-aab74a8317c2"
     }, 
     {
+        "﻿id": 586.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Moving Pictures", 
+        "isbn": 9780061440618.0, 
+        "identifiers": "isbn:9780061440618", 
+        "series": "Discworld", 
+        "series_index": 10.0, 
+        "uuid": "0562c551-3d79-477f-adad-9f4be031215e"
+    }, 
+    {
         "﻿id": 587.0, 
         "authors": "Terry Pratchett", 
         "title": "Guards! Guards!", 
@@ -878,6 +908,16 @@
         "series": "Discworld", 
         "series_index": 8.0, 
         "uuid": "75da8083-0aad-4407-9741-e038dd80be58"
+    }, 
+    {
+        "﻿id": 588.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Pyramids", 
+        "isbn": 9780061807206.0, 
+        "identifiers": "isbn:9780061807206", 
+        "series": "Discworld", 
+        "series_index": 7.0, 
+        "uuid": "c2db7439-a601-4ce9-aa81-2f8c4a199751"
     }, 
     {
         "﻿id": 589.0, 
@@ -1308,5 +1348,15 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "d0fbbc82-549a-412f-a94e-c1b6317bb1e0"
+    }, 
+    {
+        "﻿id": 703.0, 
+        "authors": "Dr. Suzi Gage", 
+        "title": "Say Why to Drugs: Everything You Need to Know About the Drugs We Take and Why We Get High", 
+        "isbn": 9781473686229.0, 
+        "identifiers": "amazon:1473686229,google:yTEauwEACAAJ,isbn:9781473686229", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "dc94e8ca-3ad6-43c3-933c-0d7c81bc82bf"
     }
 ]
