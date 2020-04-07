@@ -7,6 +7,6 @@ I'm a user of the [CryptoStorm VPN service](https://cryptostorm.is/) for over a 
 
 The latter being the sticking part. Could not for the life of me get my iPhone (I'm an Apple user, sue me) to connect, constant timeouts. Well today I found the solution and it is really simple. Just need to go into the Settings app, down to OpenVPN and select the "Force AES-CBC cipersuites" option in the Advanced Settings portion.
 
-<img src="/media/images/2018-03-22 cryptostorm.png" width="400px" class="align-center" />
+<img src="/media/images/2018-03-22 cryptostorm.png" width="400px" class="align-center" loading="lazy" />
 
 Connects within 2 seconds. At the time of writing, my laptop appears to be in Lithuania and my phone in Latvia.

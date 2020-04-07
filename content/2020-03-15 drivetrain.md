@@ -11,4 +11,4 @@ I've added a reminder to my [todo list](https://taskwarrior.org) on a regular ba
 
     $ task add project:fixmakeready due:May recur:60days wait:due-2days Check bike chain wear
 
-<img src="/media/images/2020-03-15 drivetrain.jpg" class="align-center" />
+<img src="/media/images/2020-03-15 drivetrain.jpg" class="align-center" loading="lazy" />

@@ -5,6 +5,6 @@ Tags: micro, vagabonding,
 
 They seem to like me for the last 3 gigs at the weekend so I'm getting free transport and accommodation for 2 more gigs. Might even get some sightseeing done.
 
-<img src="/media/images/2018-06-08 gr2.jpg" class="align-center" />
+<img src="/media/images/2018-06-08 gr2.jpg" class="align-center" loading="lazy" />
 
 Way aye man!

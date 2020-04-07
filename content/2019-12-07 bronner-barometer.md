@@ -5,6 +5,6 @@ Tags: micro, weather
 
 My flat isn't the best insulated or heated so it can get a bit parky, especially in the morning. Cold enough that my Dr Bronner soaps go opaque as opposed to the usual translucent.
 
-<img src="/media/images/2019-12-07 bronner.jpg" class="align-center" />
+<img src="/media/images/2019-12-07 bronner.jpg" class="align-center" loading="lazy" />
 
 Better get the heating on.

@@ -6,4 +6,4 @@ Slug: tow
 Arrived just in time, nice 4 meter tow strop and 2 shackles. Want to get
 my winching on.
 
-<img src="/media/images/2013-12-05 tow-strap.jpg" class="align-center" />
+<img src="/media/images/2013-12-05 tow-strap.jpg" class="align-center" loading="lazy" />

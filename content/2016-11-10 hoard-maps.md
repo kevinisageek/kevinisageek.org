@@ -5,4 +5,4 @@ Slug: hoard-maps
 
 Say what you will about having [Google Maps](https://maps.google.com) or [OSM](https://www.openstreetmap.org/), paper maps are worth their weight in gold, especially in grid down situations.
 
-<img src="/media/images/2016-11-10 hoard-maps.jpg" class="align-center" />
+<img src="/media/images/2016-11-10 hoard-maps.jpg" class="align-center" loading="lazy" />
