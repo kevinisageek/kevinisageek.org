@@ -1,6 +1,6 @@
 Title: Quick bike ride
 Date: 2020-03-26 11:35
-Slug: cycle
+Slug: quick-cycle
 Tags: micro, bicycle, edc
 
 and a shakedown of a new commuter setup. Since switching to the [TAD Fast Pack EDC](https://tripleaughtdesign.com/shop/fast-pack-edc/), I've had to commute with my pack on my back which makes for a moist time. My former GR1 setup could be [hung on the pannier rack with a little modification](/2019/03/10/pannier) but I can't replicate that with the Fast Pack.
