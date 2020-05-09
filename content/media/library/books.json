@@ -30,6 +30,26 @@
         "uuid": "21c4c76d-4c91-40cc-b552-48dc9c8200d4"
     }, 
     {
+        "﻿id": 102.0, 
+        "authors": "Stephen W. Hawking", 
+        "title": "The Future of Quantum Cosmology", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:571d658c-0bcc-468f-a5be-e75652761fe2", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "5acdfd64-7cc4-4187-80b4-3dd80b7c5406"
+    }, 
+    {
+        "﻿id": 106.0, 
+        "authors": "Stephen W. Hawking", 
+        "title": "Does God Play Dice?", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:c1e5164a-fb03-46a9-bc00-c92e30c88eba", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e7412dab-2141-43db-a4c2-410f9706471a"
+    }, 
+    {
         "﻿id": 107.0, 
         "authors": "Stephen W. Hawking", 
         "title": "A brief history of time: from the big bang to black holes", 
@@ -38,6 +58,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "f2982778-c2b7-43dc-8ab3-e72a41cd0253"
+    }, 
+    {
+        "﻿id": 112.0, 
+        "authors": "Unknown", 
+        "title": "Havamal", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "536e55e5-d78d-452a-b86a-e30e79546004"
     }, 
     {
         "﻿id": 138.0, 
@@ -108,6 +138,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "8295311e-1898-4fea-b397-34db4462eaf2"
+    }, 
+    {
+        "﻿id": 250.0, 
+        "authors": "Miyamoto Musashi", 
+        "title": "A Book of Five Rings", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:89b41ec9-594a-47a3-b20e-ba4b0dc9785f,uri:urn:uuid:89b41ec9-594a-47a3-b20e-ba4b0dc9785f", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "2c0befeb-c88b-4ef6-94e5-ca2d97de4f90"
     }, 
     {
         "﻿id": 272.0, 
@@ -198,6 +238,26 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "db104faa-5dfa-4da0-adc5-32427f1fa554"
+    }, 
+    {
+        "﻿id": 365.0, 
+        "authors": "Adam Longman", 
+        "title": "A Paramedic's Journal:: Another call, another page, another story", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:4ac5b240-bb49-42e1-b7eb-64b273f24944", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "8477fec9-37b9-43a3-8420-a90674848f9b"
+    }, 
+    {
+        "﻿id": 377.0, 
+        "authors": "US Government", 
+        "title": "Tradecraft Primer", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:4eb5ed49-6d77-4b82-b32e-00e22dd51c2c", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b0c84c94-016b-4f11-8b17-4c93b621589a"
     }, 
     {
         "﻿id": 378.0, 
@@ -1322,7 +1382,7 @@
     {
         "﻿id": 666.0, 
         "authors": "2600 Magazine", 
-        "title": "2600 3q19 DigitalEdition", 
+        "title": "36:3", 
         "isbn": null, 
         "identifiers": null, 
         "series": null, 
@@ -1358,5 +1418,95 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "dc94e8ca-3ad6-43c3-933c-0d7c81bc82bf"
+    }, 
+    {
+        "﻿id": 708.0, 
+        "authors": "Crimethinc", 
+        "title": "Fighting For Our Lives", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "80a67e0e-e523-4e79-9f1c-f77f8277cc12"
+    }, 
+    {
+        "﻿id": 709.0, 
+        "authors": "Crimethinc", 
+        "title": "Recipes for Disaster: An Anarchist Cookbook", 
+        "isbn": 970910142.0, 
+        "identifiers": "isbn:0970910142", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e015a54f-2ca5-44d6-882b-31e5521d937c"
+    }, 
+    {
+        "﻿id": 712.0, 
+        "authors": "Zeek", 
+        "title": "The Art of Shen Ku: The First Intergalactic Artform of the Entire Universe", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "f0a6e2ff-04cd-4c6f-98e0-11ca5af552f6"
+    }, 
+    {
+        "﻿id": 716.0, 
+        "authors": "Alan Betts", 
+        "title": "Foundation licence now", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "c889ecc3-078c-4508-81df-4733ca4e47ab"
+    }, 
+    {
+        "﻿id": 717.0, 
+        "authors": "2600 Magazine", 
+        "title": "36:1", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "aa106a23-ca1c-47d6-b0bf-c58b19b1ab56"
+    }, 
+    {
+        "﻿id": 718.0, 
+        "authors": "2600 Magazine", 
+        "title": "36:2", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7173b1ab-1c14-4bff-82cb-287e12fe1655"
+    }, 
+    {
+        "﻿id": 719.0, 
+        "authors": "2600 Magazine", 
+        "title": "36:4", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "dbec378b-238b-46e3-8024-4db16374c2be"
+    }, 
+    {
+        "﻿id": 720.0, 
+        "authors": "2600 Magazine", 
+        "title": "37:1", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "d9a3eeef-ea49-404d-87d5-d962150feb4f"
+    }, 
+    {
+        "﻿id": 721.0, 
+        "authors": "Hakim Bey", 
+        "title": "T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:56709a69-2398-401a-90da-d32a3d08e57a", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "4bf1f83b-0802-44d7-9e0a-a0d2373b052a"
     }
 ]
