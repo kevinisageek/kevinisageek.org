@@ -11,9 +11,3 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'https://kevinisageek.org'
-RELATIVE_URLS = False
-
-FEED_ALL_ATOM = 'feed/index.xml'
-#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
-DELETE_OUTPUT_DIRECTORY = True
