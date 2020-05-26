@@ -20,7 +20,7 @@ ifeq ($(DEBUG), 1)
 endif
 
 all: publishpi publish html
-	
+
 help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
@@ -40,7 +40,7 @@ html:
 publishpi:
 	./books.sh
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(BASEDIR)/publishpi.py $(PELICANOPTS)
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_PI):$(SSH_TARGET_DIR) --cvs-exclude
+	- rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_PI):$(SSH_TARGET_DIR) --cvs-exclude
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
