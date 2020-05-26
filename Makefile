@@ -8,7 +8,8 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=kevinisageek.org
+SSH_VPS=kevinisageek.org
+SSH_PI=raspberrypi.local
 SSH_PORT=22
 SSH_USER=kevin
 SSH_TARGET_DIR=/home/kevin/website/
@@ -18,10 +19,8 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-rsync_upload: html publish
-	./books.sh
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
-
+all: publishpi publish html
+	
 help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
@@ -38,13 +37,19 @@ html:
 	./books.sh
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
-
-regenerate:
-	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+publishpi:
+	./books.sh
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(BASEDIR)/publishpi.py $(PELICANOPTS)
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_PI):$(SSH_TARGET_DIR) --cvs-exclude
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	./books.sh
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_VPS):$(SSH_TARGET_DIR) --cvs-exclude
+
+clean:
+	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	regenerate:
+		$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 .PHONY: html help clean regenerate publish ssh_upload rsync_upload b

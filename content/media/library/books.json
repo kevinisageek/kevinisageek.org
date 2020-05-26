@@ -70,6 +70,16 @@
         "uuid": "536e55e5-d78d-452a-b86a-e30e79546004"
     }, 
     {
+        "﻿id": 132.0, 
+        "authors": "Stephen W. Hawking", 
+        "title": "The Theory of Everything: The Origin and Fate of the Universe", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:cdcc78ed-e058-4725-b802-47ec6423b4ad", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "485bb7ad-9051-4667-93eb-624470f69e5b"
+    }, 
+    {
         "﻿id": 138.0, 
         "authors": "Stephen W. Hawking", 
         "title": "The Grand Design", 
@@ -800,6 +810,16 @@
         "uuid": "ed037ed0-7535-4385-ace2-ab5056b542d0"
     }, 
     {
+        "﻿id": 567.0, 
+        "authors": "Terry Pratchett", 
+        "title": "The Amazing Maurice and His Educated Rodents", 
+        "isbn": null, 
+        "identifiers": "uri:urn:uuid:6118f45a124ca751331a535d655c3157", 
+        "series": "Discworld", 
+        "series_index": 28.0, 
+        "uuid": "dddceb10-4af9-4181-ae1d-215b46ed54c3"
+    }, 
+    {
         "﻿id": 568.0, 
         "authors": "Terry Pratchett", 
         "title": "Night Watch", 
@@ -818,6 +838,16 @@
         "series": "Discworld", 
         "series_index": 27.0, 
         "uuid": "b4a17511-e0e9-4fad-9814-6130f0ee4c8a"
+    }, 
+    {
+        "﻿id": 570.0, 
+        "authors": "Terry Pratchett", 
+        "title": "Thief of Time", 
+        "isbn": 9788401337260.0, 
+        "identifiers": "isbn:9788401337260", 
+        "series": "Discworld", 
+        "series_index": 26.0, 
+        "uuid": "fcd47078-f526-4326-bba2-7e42d2a5db67"
     }, 
     {
         "﻿id": 572.0, 
@@ -1450,6 +1480,16 @@
         "uuid": "f0a6e2ff-04cd-4c6f-98e0-11ca5af552f6"
     }, 
     {
+        "﻿id": 714.0, 
+        "authors": "Cyriak Harris", 
+        "title": "Horse Destroys the Universe", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:d849ae13-96cc-45b0-a5f6-3d7b6f57921e", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e44c7b31-7c74-4022-9269-72006f3fb389"
+    }, 
+    {
         "﻿id": 716.0, 
         "authors": "Alan Betts", 
         "title": "Foundation licence now", 
@@ -1508,5 +1548,15 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "4bf1f83b-0802-44d7-9e0a-a0d2373b052a"
+    }, 
+    {
+        "﻿id": 724.0, 
+        "authors": "Neal Stephenson", 
+        "title": "The Great Simoleon Caper", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "fb5e2090-c722-4def-93de-6a0f6157b596"
     }
 ]
