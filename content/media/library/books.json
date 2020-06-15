@@ -90,6 +90,16 @@
         "uuid": "4fc50d16-2c66-437b-b7dd-0d96a9d00d48"
     }, 
     {
+        "﻿id": 149.0, 
+        "authors": "Stephen W. Hawking", 
+        "title": "A History of Science", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:dd5b105c-e9bb-4dc4-b915-8a95617e3d64", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "21a20aac-5e4b-4d52-aea4-f5874137efe0"
+    }, 
+    {
         "﻿id": 162.0, 
         "authors": "Stephen W. Hawking", 
         "title": "The Universe in a Nutshell", 
@@ -118,6 +128,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "2c51ef8b-4bc1-4ccc-aa1f-e67f41b52e0c"
+    }, 
+    {
+        "﻿id": 177.0, 
+        "authors": "Stephen W. Hawking", 
+        "title": "Nature Of Space And Time", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:6a138e79-ab94-41f7-b016-3d4a11b40622", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "7e70c138-cd4b-47ea-8e26-4a7966523149"
     }, 
     {
         "﻿id": 223.0, 
@@ -166,7 +186,7 @@
         "isbn": 9780441013593.0, 
         "identifiers": "isbn:9780441013593,mobi-asin:f9844f36-3979-49ef-a00c-512228292903", 
         "series": "Dune Saga", 
-        "series_index": 10.0, 
+        "series_index": 12.0, 
         "uuid": "398c97f0-78d2-40ed-a21a-a124c99a78d7"
     }, 
     {
@@ -176,7 +196,7 @@
         "isbn": 9780441172696.0, 
         "identifiers": "isbn:9780441172696", 
         "series": "Dune Saga", 
-        "series_index": 12.0, 
+        "series_index": 13.0, 
         "uuid": "667a4b85-de0b-4bf4-af04-8671aed7a852"
     }, 
     {
@@ -186,8 +206,18 @@
         "isbn": 312711085.0, 
         "identifiers": "mobi-asin:5eeeca6d-ac03-4140-a692-a2a2de5ed34d,isbn:0312711085", 
         "series": "Dune Saga", 
-        "series_index": 2.0, 
+        "series_index": 5.0, 
         "uuid": "296d7bb3-d635-410d-8733-7aef8fb035ba"
+    }, 
+    {
+        "﻿id": 295.0, 
+        "authors": "Scott Fausset", 
+        "title": "Red Teaming Handbook", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:7c4002fd-8e0e-49c3-be77-12c0c4ca97a2", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "9910bc40-e9b4-4d95-a1c9-5d74aba8929c"
     }, 
     {
         "﻿id": 307.0, 
@@ -196,7 +226,7 @@
         "isbn": 312708084.0, 
         "identifiers": "isbn:0312708084,mobi-asin:445f7e75-0dac-4794-b8e0-50140db44d7f", 
         "series": "Dune Saga", 
-        "series_index": 1.0, 
+        "series_index": 4.0, 
         "uuid": "72ebc414-e4ad-409a-81d7-dd6a3d1772d7"
     }, 
     {
@@ -206,7 +236,7 @@
         "isbn": 312712332.0, 
         "identifiers": "mobi-asin:73d7f763-9623-4f55-bca7-f8c9b8feb452,isbn:0312712332", 
         "series": "Dune Saga", 
-        "series_index": 3.0, 
+        "series_index": 6.0, 
         "uuid": "34519265-5cb7-46ad-b5f5-67dfa02b0ecb"
     }, 
     {
@@ -238,6 +268,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "91d25639-e08b-424d-99b7-23a5139f4826"
+    }, 
+    {
+        "﻿id": 355.0, 
+        "authors": "Mark Greaney", 
+        "title": "The Gray Man", 
+        "isbn": 9780515147018.0, 
+        "identifiers": "isbn:9780515147018,mobi-asin:ce7a26ca-5fdb-4d4a-9991-c8a7c02ae228", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "890b484b-9ace-4c10-919d-11b4057e4c46"
     }, 
     {
         "﻿id": 357.0, 
@@ -308,6 +348,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "336a444d-f336-4b62-a851-322faed1affa"
+    }, 
+    {
+        "﻿id": 474.0, 
+        "authors": "Alastair Humphreys", 
+        "title": "There Are Other Rivers", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:42d17c72-64fb-406e-b924-9e4d3ab7fbd7", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "735f9859-45f7-49b0-b88d-d1154fdc28d9"
     }, 
     {
         "﻿id": 482.0, 
@@ -388,6 +438,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "a50790c0-dc22-47c2-b39f-3288c21ffc06"
+    }, 
+    {
+        "﻿id": 506.0, 
+        "authors": "Micah Zenko", 
+        "title": "Red Team: How to Succeed By Thinking Like the Enemy", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B012271LJM", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "aef778f3-a906-44ee-a81c-ce1507699ed3"
     }, 
     {
         "﻿id": 507.0, 
@@ -1420,6 +1480,26 @@
         "uuid": "f3d63611-2613-4614-9d8d-37f4eb954a97"
     }, 
     {
+        "﻿id": 668.0, 
+        "authors": "Thomas J. Glover", 
+        "title": "Pocket Ref", 
+        "isbn": 9781885071620.0, 
+        "identifiers": "amazon:1885071620,google:6nejSgAACAAJ,isbn:9781885071620", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "703cb402-6c1e-4f1f-bccd-9b4536ddee9e"
+    }, 
+    {
+        "﻿id": 669.0, 
+        "authors": "Thomas J. Glover & Richard A. Young", 
+        "title": "Desk Ref", 
+        "isbn": 9781885071606.0, 
+        "identifiers": "amazon:1885071604,google:gUqoSQAACAAJ,isbn:9781885071606", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "85885fa8-7486-4871-8cad-0f2d1445d935"
+    }, 
+    {
         "﻿id": 670.0, 
         "authors": "Neil Stanley", 
         "title": "How to Sleep Well", 
@@ -1448,6 +1528,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "dc94e8ca-3ad6-43c3-933c-0d7c81bc82bf"
+    }, 
+    {
+        "﻿id": 707.0, 
+        "authors": "Crimethinc", 
+        "title": "Days of War, Nights of Love", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "a6235447-1980-4299-afb9-0fce65ea2310"
     }, 
     {
         "﻿id": 708.0, 
@@ -1488,6 +1578,16 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "e44c7b31-7c74-4022-9269-72006f3fb389"
+    }, 
+    {
+        "﻿id": 715.0, 
+        "authors": "Douglas Jack", 
+        "title": "The Jewish-Japanese Sex and Cook Book and How to Raise Wolves", 
+        "isbn": null, 
+        "identifiers": null, 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "41c99281-49b2-4c4b-bf2d-2763c4da7729"
     }, 
     {
         "﻿id": 716.0, 
@@ -1558,5 +1658,45 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "fb5e2090-c722-4def-93de-6a0f6157b596"
+    }, 
+    {
+        "﻿id": 726.0, 
+        "authors": "Charles Stross", 
+        "title": "Equoid: A Laundry novella: A Tor.Com Original (Laundry Files)", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B00EWZCTD0", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "b05869d1-b7f9-4232-85b9-4e73bb290b63"
+    }, 
+    {
+        "﻿id": 728.0, 
+        "authors": "2600 Magazine", 
+        "title": "29:2", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B008H7XP8M", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "6f784b80-8fe6-4a86-84be-5ae6ad2d17df"
+    }, 
+    {
+        "﻿id": 735.0, 
+        "authors": "Cody Lundin", 
+        "title": "98.6 Degrees: The Art of Keeping Your Ass Alive!", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B001RKFTZS", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "e6050b9b-b712-42b7-98fa-57e2056db867"
+    }, 
+    {
+        "﻿id": 737.0, 
+        "authors": "Zoltan Istvan", 
+        "title": "The Transhumanist Wager", 
+        "isbn": null, 
+        "identifiers": "mobi-asin:B00AQQSY60", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "c808039d-127c-4893-bc81-eb3fc9581a68"
     }
 ]
