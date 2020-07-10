@@ -1698,5 +1698,25 @@
         "series": null, 
         "series_index": 1.0, 
         "uuid": "c808039d-127c-4893-bc81-eb3fc9581a68"
+    }, 
+    {
+        "﻿id": 739.0, 
+        "authors": "Alan Betts", 
+        "title": "Foundation Licence Manual", 
+        "isbn": 9781910193631.0, 
+        "identifiers": "google:wmPuwQEACAAJ,isbn:9781910193631", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "bb786c5c-d7ba-4cc7-9cac-b088d3e4e047"
+    }, 
+    {
+        "﻿id": 742.0, 
+        "authors": "Andy Walker & Gordon Tyerman", 
+        "title": "Working as a CCTV Operator: Course Book", 
+        "isbn": 9781910964729.0, 
+        "identifiers": "google:8tMZtAEACAAJ,isbn:9781910964729", 
+        "series": null, 
+        "series_index": 1.0, 
+        "uuid": "0b029b7a-a841-4199-9175-1db649f2e77a"
     }
 ]

@@ -1,0 +1,16 @@
+BODY
+{
+  font-size: 12pt;
+  font-family: Arial, Times, sans-serif;
+  color: black;
+  background: white;
+}
+
+.color1 { color: white; background: #a3baff; }
+
+.color2 { color: black; background: #eeeeee; }
+
+.color3 { color: blue; }
+
+.strong { text-transform: uppercase; }
+
