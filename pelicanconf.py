@@ -7,7 +7,7 @@ SITENAME = u'Random Geekage'
 SITEURL = 'http://nomadic.local'
 
 PATH = 'content'
-STATIC_PATHS = ['media','content','*.jpg','favicon.ico']
+STATIC_PATHS = ['media','media/images/*','content','*.jpg','favicon.ico']
 PAGE_PATHS = ['pages']
 
 TIMEZONE = 'Europe/London'

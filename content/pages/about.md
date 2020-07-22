@@ -7,7 +7,7 @@ Just a random geek on the internet.
 
 Places I am:
 
-* [Twitter](https://twitter.com/kevinisageek)
+* [Twitter](https://twitter.com/kevinisageek) (deprecated, Twitter is a hive of hate and suffering)
 * Discord: kevinisageek#2683 or at [House Ordos](https://discord.gg/p8tAxfR) or [R4nger5](https://discord.gg/RsTZCkD)
 * Email: kevin at this domain, optionally use [this GPG key](/media/misc/kevinatkevinisageekdotorg.public.gpg.asc) (0x9CFB108B) to encrypt messages to me
 * [Github](https://github.com/kevinisageek)
