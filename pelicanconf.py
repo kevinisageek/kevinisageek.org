@@ -65,6 +65,7 @@ IGNORE_FILES = ['.#*','.DS_Store']
 DEFAULT_LANG = 'en'
 MENUITEMS = (
             ('Feed', '/feed'),
+			('Photos', '/media/images')
             )
 
 RELATIVE_URLS = False
