@@ -29,7 +29,7 @@ USE_PAGER = False
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['tipue_search']
+PLUGINS = ['tipue_search', 'pelican_podcast_feed']
 
 DIRECT_TEMPLATES = ('index', 'tags', 'archives', 'search')
 
@@ -71,3 +71,16 @@ MENUITEMS = (
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
 READERS = {'html': None}
+
+PODCAST_FEED_PATH = u'podcast/index.xml'
+PODCAST_FEED_TITLE = u'Random Geekage'
+PODCAST_FEED_EXPLICIT = u'Yes'
+PODCAST_FEED_LANGUAGE = u'English'
+PODCAST_FEED_COPYRIGHT = u'CC BY-SA-NC'
+PODCAST_FEED_SUBTITLE = u''
+PODCAST_FEED_AUTHOR = u'Kevin Smith'
+PODCAST_FEED_SUMMARY = u'Random stuff'
+PODCAST_FEED_IMAGE = u''
+PODCAST_FEED_OWNER_NAME = u'Kevin Smith'
+PODCAST_FEED_OWNER_EMAIL = u'Kevin@kevinisageek.org'
+PODCAST_FEED_CATEGORY = ['Stuff','Things']
