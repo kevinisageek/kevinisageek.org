@@ -19,7 +19,7 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-all: publishpi publish html
+all: publish html
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
