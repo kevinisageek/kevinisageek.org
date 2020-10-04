@@ -9,5 +9,5 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
-
+SITENAME = u'Random Geekage'
 SITEURL = 'https://kevinisageek.org'
