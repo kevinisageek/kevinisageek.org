@@ -35,17 +35,12 @@ help:
 
 html:
 	./books.sh
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-
-publishpi:
-	./books.sh
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(BASEDIR)/publishpi.py $(PELICANOPTS)
-	- rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_PI):$(SSH_TARGET_DIR) --cvs-exclude
+	$(PELICAN) $(INPUTDIR) -o nomadic.local -s $(CONFFILE) $(PELICANOPTS)
 
 publish:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o kevinisageek.org -s $(PUBLISHCONF) $(PELICANOPTS)
 	./books.sh
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_VPS):$(SSH_TARGET_DIR) --cvs-exclude
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete kevinisageek.org/ $(SSH_USER)@$(SSH_VPS):$(SSH_TARGET_DIR) --cvs-exclude
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
