@@ -7,9 +7,6 @@
     {% else %}
         <meta name="author" content="{{ AUTHOR }}" />
     {% endif %}
-    {% if page.summary %}
-        <meta name="description" content="{{ page.summary|striptags|escape }}" />
-    {% endif %}
 {% endblock %}
 {% block canonical_rel %}
 <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
@@ -22,9 +19,6 @@
         {% endif %}
         <div class="entry-content">
             {{ page.content }}
-            {% if page.comments == 'enabled' %}
-                {% include 'includes/comments.html' %}
-            {% endif %}
         </div>
     </section>
 {% endblock %}
