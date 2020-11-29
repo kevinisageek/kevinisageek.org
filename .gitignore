@@ -1,5 +1,6 @@
 *.pid
 **.DS_Store
-output/**
+kevinisageek.org/**
+nomadic.local/**
 content/media/video/*
 *.pyc
