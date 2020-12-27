@@ -1,5 +1,5 @@
 Title: Hardware Ownership
-Date: 2020-12-07
+Date: 2020-12-07 09:00
 Slug: ownership
 Tags: quote
 
