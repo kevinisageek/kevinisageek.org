@@ -37,6 +37,11 @@ html:
 	./books.sh
 	$(PELICAN) $(INPUTDIR) -o nomadic.local -s $(CONFFILE) $(PELICANOPTS)
 
+tilde:
+	$(PELICAN) $(INPUTDIR) -o tilde -s publishconf-tilde.py $(PELICANOPTS)
+	./books.sh
+	rsync -P -rvzc --delete tilde/ kevinisageek.org:public_html/ --cvs-exclude
+
 publish:
 	$(PELICAN) $(INPUTDIR) -o kevinisageek.org -s $(PUBLISHCONF) $(PELICANOPTS)
 	./books.sh
@@ -47,4 +52,4 @@ clean:
 	regenerate:
 		$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-.PHONY: html help clean regenerate publish ssh_upload rsync_upload b
+.PHONY: html help clean regenerate publish tilde ssh_upload rsync_upload b
