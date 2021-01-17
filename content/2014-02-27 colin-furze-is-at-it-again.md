@@ -3,6 +3,7 @@ Date: 2014-02-27 17:27
 Author: Kevin
 Tags: mental, mobility scooter, video
 Slug: colin-furze-is-at-it-again
+Status: draft
 
 This time its a mobility scooter that will do 60mph.
 

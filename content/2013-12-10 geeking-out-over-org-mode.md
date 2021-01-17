@@ -3,6 +3,7 @@ Date: 2013-12-10 21:49
 Author: Kevin
 Tags: emacs, geek, org-mode
 Slug: geeking-out-over-org-mode
+Status: draft
 
 Geeking out over Org-mode.
 

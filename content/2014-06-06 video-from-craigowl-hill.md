@@ -3,6 +3,7 @@ Date: 2014-06-06 10:52
 Author: Kevin
 Tags: Craigowl Hill, video
 Slug: video-from-craigowl-hill
+Status: draft
 
 Scott got some of our rambling on camera while we walked up Craigowl
 Hill. Can't see much due to the weather unfortunately.

@@ -1,8 +1,9 @@
-Title: Colin Furze is proper mental
+Title: Colin Furze is proper mental.
 Date: 2013-10-10 16:11
 Author: Kevin
-Tags: Colin Furze, fail, mental, turbocharger
+Tags: Colin Furze, fail, mental, turbocharger, micro
 Slug: colin-furze-is-proper-mental
+Status: draft
 
 Colin Furze is proper mental.
 

@@ -16,7 +16,8 @@ publish:
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
-	regenerate:
+
+regenerate:
 		pelican -r content -o $(OUTPUTDIR) -s $(CONFFILE)
 
 .PHONY: html clean publish tilde
