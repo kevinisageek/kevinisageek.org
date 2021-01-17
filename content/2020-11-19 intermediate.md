@@ -5,4 +5,4 @@ Tags: amateur radio, micro
 
 Privileges have been bumped up to 50 watts in most bands and I'm allowed to play about with some microwave stuff. New callsign is 2#0GJA, where the # is dependent on where in the UK I'm operating. For Scotland, I'm 2M0GJA.
 
-<img src="/media/images/2020-11-19 callsign-radio.jpg" />
+<img src="/media/images/2020-11-19 callsign-radio.jpg" class="align-center" loading="lazy"/>
