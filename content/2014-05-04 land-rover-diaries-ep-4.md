@@ -3,6 +3,7 @@ Date: 2014-05-04 21:25
 Author: Kevin
 Tags: Land Rover Defender, video
 Slug: land-rover-diaries-ep-4
+Status: draft
 
 Well it is here sooner than I thought. Featuring random ramblings going
 over a hill.

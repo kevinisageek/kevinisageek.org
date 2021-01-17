@@ -5,6 +5,6 @@ Tags: micro, commute
 
 Worked in the city for once and thought it would be good to try getting the train in
 
-<img class="align-center" src="/media/images/2020-12-19 pace-change/on-train.jpg" />
-<img class="align-center" src="/media/images/2020-12-19 pace-change/skyline.jpg" />
-<img class="align-center" src="/media/images/2020-12-19 pace-change/m8.jpg" />
+<img class="align-center" src="/media/images/2020-12-19 pace-change/on-train.jpg" class="align-center" loading="lazy"/>
+<img class="align-center" src="/media/images/2020-12-19 pace-change/skyline.jpg" class="align-center" loading="lazy"/>
+<img class="align-center" src="/media/images/2020-12-19 pace-change/m8.jpg" class="align-center" loading="lazy"/>
