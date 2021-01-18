@@ -4,7 +4,7 @@ Author: Kevin
 Tags: bicycle, video
 Slug: loch-leven-by-bicycle
 
-<video width="720" height="488" controls>
+<video width="720" height="488" controls class="align-center" loading="lazy">
     <source src="/media/video/2014-07-30 loch leven by bicycle.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
