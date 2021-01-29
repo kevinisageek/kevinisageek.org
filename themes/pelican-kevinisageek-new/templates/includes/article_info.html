@@ -1,0 +1,12 @@
+<footer class="post-info">
+Date: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}.</time>
+{% if article.tags %}
+Tagged with
+	 {% for tag in article.tags %}
+	 <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+	 {% if not loop.last %}
+		 /
+	 {% endif %}
+	 {% endfor %}
+	 {% endif %}
+ </footer><!-- /.post-info -->

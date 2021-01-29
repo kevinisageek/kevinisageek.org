@@ -36,8 +36,8 @@ THEME = 'themes/pelican-kevinisageek'
 IGNORE_FILES = ['.#*','.DS_Store']
 DEFAULT_LANG = 'en'
 MENUITEMS = (
-			('Feed', '/feed'),
-			('Photos', '/media/images')
+			('Feed', SITEURL + '/feed'),
+			('Photos', SITEURL + '/media/images')
 			)
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True

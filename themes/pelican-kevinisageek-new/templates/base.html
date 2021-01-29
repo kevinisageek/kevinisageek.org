@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+	<!-- Using the latest rendering mode for IE -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="{{ AUTHOR }}" />
+	{% if 'tipue_search' in PLUGINS %}
+	<link href="{{ SITEURL}}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.css" rel="stylesheet"/>
+	{% endif %}
+  <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" rel="stylesheet" type="text/css"/>
+  {% if FEED_ALL_ATOM %}
+  <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed"/>
+  {% endif %}
+	{% if FEED_ALL_RSS %}
+  <link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/atom+rss" rel="alternate" title="{{ SITENAME }} RSS Feed"/>
+  {% endif %}
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+</head>
+<body>
+	<header>
+		<h1>
+			<a href="{{ SITEURL }}/">{{ SITENAME }}</a>
+		</h1>
+		<nav>
+		{% for title, link in MENUITEMS %}
+			<a href="{{ link }}">{{ title }}</a>
+		{% endfor %}
+		{% if DISPLAY_PAGES_ON_MENU %}
+			{% for p in pages | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
+				{% if p.url %}
+					<a href="{{ SITEURL }}/{{ p.url }}">{{ p.menulabel|default(p.title) }}</a>
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+</nav>
+</header>
+<!-- Content Container -->
+<main>
+  {% block content %}{% endblock %}
+</main>
+<!-- End Content Container -->
+
+<footer>
+	<div class="col-xs-10 align-center">
+		&copy; {{ copy_date }} {{ AUTHOR }}&middot; Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="/media/images/cc.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+	</div>
+</footer>
+</body>
+</html>

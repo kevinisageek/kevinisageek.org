@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block meta %}
+        <meta name="author" content="{{ AUTHOR }}" />
+{% endblock %}
+{% block canonical_rel %}
+<link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+{% endblock %}
+
+{% block content %}
+    <section id="content" class="body">
+        {% if page.title %}
+        <h1 class="entry-title">{{ page.title }}</h1>
+        {% endif %}
+        <div class="entry-content">
+            {{ page.content }}
+        </div>
+    </section>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title|striptags }} - {{ SITENAME }}{% endblock %}
+{% block html_lang %}{{ article.lang }}{% endblock %}
+{% block meta %}
+        <meta name="author" content="{{ AUTHOR }}" />
+        <meta name="keywords" content="{{ article.tags|join(',')|striptags }}" />
+{% endblock %}
+
+{% block canonical_rel %}
+<link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+{% endblock %}
+
+{% block content %}
+	<section id="content">
+		<article class="h-entry{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}">
+			<h2 class="entry-title{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+			{{ article.content }}
+			{% include "includes/article_info.html" %}
+		</article>
+	</section>
+{% endblock %}
