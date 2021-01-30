@@ -8,4 +8,4 @@ Slug: my-name-is-Kevinus-isageekus
 
 --Coined by V, with apologies to Russel Crowe
 
-<img src="/media/images/2014-02-21 gladius.jpg" class="align-center" loading="lazy" />
+<img src="{static}/media/images/2014-02-21 gladius.jpg" class="align-center" loading="lazy" />

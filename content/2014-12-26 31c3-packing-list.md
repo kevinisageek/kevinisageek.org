@@ -18,7 +18,7 @@ want to take with me.
 Enter the [Goruck GR0](http://www.goruck.com/en/gr0). Plenty of room to
 fit what I need yet not unwieldy.
 
-<img src="/media/images/2014-12-26 31c3 pack.jpg" class="align-center" loading="lazy" />
+<img src="{static}/media/images/2014-12-26 31c3 pack.jpg" class="align-center" loading="lazy" />
 
 -   Clothes in a Kifaru extra large pullout (2 pairs boxer shorts, 2
     pairs socks, 2 tshirts, 1 pair sleeping boxers, merino wool thermal

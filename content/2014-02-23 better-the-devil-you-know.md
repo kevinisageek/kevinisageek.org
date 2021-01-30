@@ -37,7 +37,7 @@ for free for you to have a read. My Dad got a copy and when I had a
 flick through, it was dripping with fervent nationalism from the first
 page.
 
-<img src="/media/images/2014-02-23 indyref whitepaper.jpg" class="align-center" loading="lazy" />
+<img src="{static}/media/images/2014-02-23 indyref whitepaper.jpg" class="align-center" loading="lazy" />
 
 I do know one thing. If Scotland does get independence, it will make my
 trips to Yorkshire a hassle. The Tories have said they will institute

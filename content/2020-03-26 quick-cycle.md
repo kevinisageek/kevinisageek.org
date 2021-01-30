@@ -7,4 +7,4 @@ and a shakedown of a new commuter setup. Since switching to the [TAD Fast Pack E
 
 [Pig Monkey posted](https://pig-monkey.com/2020/03/rok-straps/) about [Rok straps](https://smile.amazon.co.uk/gp/product/B075X4CNJY/) earlier so I picked up a pair and went for a quick ride with my usual commuter loadout strapped to the rack. Some minor movement but otherwise pretty solid.
 
-<img src="/media/images/2020-03-26 loadout.jpg" class="align-center" loading="lazy" />
+<img src="{static}/media/images/2020-03-26 loadout.jpg" class="align-center" loading="lazy" />

@@ -11,3 +11,8 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 SITENAME = u'Random Geekage'
 SITEURL = 'https://kevinisageek.org/~kevin'
+
+MENUITEMS = (
+	('Feed', SITEURL + '/feed'),
+	('Photos', SITEURL + '/media/images')
+)

@@ -13,6 +13,6 @@ THEME = 'themes/pelican-kevinisageek-new'
 RELATIVE_URLS = False
 SITEURL = 'http://nomadic.kevinisageek.org/~kevin'
 MENUITEMS = (
-			('Feed', SITEURL + '/feed'),
-			('Photos', SITEURL + '/media/images')
-			)
+	('Feed', SITEURL + '/feed'),
+	('Photos', SITEURL + '/media/images')
+)

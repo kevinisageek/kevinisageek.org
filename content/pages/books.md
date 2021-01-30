@@ -2,9 +2,9 @@ Title: Books
 Slug: books
 Author: Kevin
 
-I try to read as often as I can.  Generated from my [calibre](https://calibre-ebook.com/) library as [CSV](/media/library/books.csv) and converted to [JSON](/media/library/books.json) to be rendered using [DataTables](https://datatables.net/examples/ajax/custom_data_flat.html).
+I try to read as often as I can.  Generated from my [calibre](https://calibre-ebook.com/) library as [CSV]({static}/media/library/books.csv) and converted to [JSON]({static}/media/library/books.json) to be rendered using [DataTables](https://datatables.net/examples/ajax/custom_data_flat.html).
 
-<!--{%include "content/media/library/books.html" %}-->
+<!--{%include "content{static}/media/library/books.html" %}-->
 
 <table class="table table-hover table-striped stripe" id="library-table">
 		<thead class="thead-light">
@@ -17,6 +17,7 @@ I try to read as often as I can.  Generated from my [calibre](https://calibre-eb
 		</thead>
 </table>
 
+<script src="/theme/js/jquery.min.js"></script>
 <script src="/theme/js/datatables.min.js"></script>
 <script>
 	$(document).ready(function() {

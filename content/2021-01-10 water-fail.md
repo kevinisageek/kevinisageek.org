@@ -7,8 +7,8 @@ The property next door has suffered some sort of failure with their water. There
 
 For reasons unknown to me, this block of flats is also served via this stopcock, resulting in zero cold water pressure.
 
-Naturally, [I have prepared for this](/2020/03/05/sterile).
+Naturally, [I have prepared for this](2020/03/05/sterile).
 
-<a href="/media/images/2021-01-10 waterbrick/2021-01-10 waterbrick.jpg"><img class="align-center" src="/media/images/2021-01-10 waterbrick/2021-01-10 waterbrick thumb.jpg" /></a>
+<a href="{static}/media/images/2021-01-10 waterbrick/2021-01-10 waterbrick.jpg"><img class="align-center" src="{static}/media/images/2021-01-10 waterbrick/2021-01-10 waterbrick thumb.jpg" /></a>
 
 I can continue to enjoy my morning brews until this gets fixed.
