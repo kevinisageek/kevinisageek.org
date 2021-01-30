@@ -42,7 +42,6 @@ DEFAULT_LANG = 'en'
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images'),
-	('Tag List', SITEURL + '/tags')
 )
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
