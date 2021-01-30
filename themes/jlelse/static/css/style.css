@@ -164,6 +164,9 @@ article.tag-micro {
 #tipue_search_input {
 
 }
+.dataTables_filter{
+	padding-bottom: 15px;
+}
 @media print{
 	html{
 		--background:#fff;
