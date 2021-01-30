@@ -1,10 +1,8 @@
- Title: Made it to work on the bike
+Title: Made it to work on the bike without dying.
 Date: 2014-02-19 16:26
-Author: Kevin
-Tags: bicycle
+Tags: bicycle, micro
 Slug: made-it-to-work-on-the-bike
 
-Made it to work on the bike without dying. Helmet also fits in my
-backpack. Great success!
+Helmet also fits in my backpack. Great success!
 
 Dreading the ride home though. Bloody hill.
