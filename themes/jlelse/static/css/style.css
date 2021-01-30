@@ -161,6 +161,9 @@ article.tag-micro {
 	margin-right: auto;
 	margin-bottom: 11px;
 }
+#tipue_search_input {
+
+}
 @media print{
 	html{
 		--background:#fff;

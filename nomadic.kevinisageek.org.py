@@ -16,3 +16,7 @@ MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images')
 )
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['tipue_search']
+SEARCH_SAVE_AS = 'search/index.html'
+SEARCH_URL = 'search/'
