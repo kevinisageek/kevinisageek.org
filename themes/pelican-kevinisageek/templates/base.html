@@ -14,7 +14,7 @@
     {% if FEED_ALL_ATOM %}
     <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed"/>
     {% endif %}
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+
 		<!--<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.js"></script>-->
 </head>
 <body>
@@ -104,5 +104,8 @@
       </div>
    </div>
 </footer>
+{% block js %}
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+{% endblock %}
 </body>
 </html>

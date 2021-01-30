@@ -15,7 +15,7 @@ body{
 	background:var(--background,#fff);
 	line-height:1.5;
 	margin:0 auto;
-	max-width:700px;
+	max-width:900px;
 	padding:10px;
 	word-break:break-word;
 	overflow-wrap:break-word
@@ -35,9 +35,9 @@ header *{
 h1 a,h2 a{
 	text-decoration:none
 }
-img{
+/*img{
 	width:100%
-}
+}*/
 input,textarea,select,button,.button{
 	border:1px solid #000;
 	border:1px solid var(--primary,#000);
@@ -131,12 +131,30 @@ footer *{
 .tag-micro header time {
 	display: none;
 }
+
+.tag-micro h2 {
+	display: inline;
+}
 .tag-micro .entry-title {
 	font-size: 1.3em;
 	line-height: 1em;
 }
 .tag-micro .page-header {
 	border-bottom: none;
+}
+.align-right {
+	float: right;
+	margin-left: 4px;
+}
+.align-left {
+	float: left;
+	margin-right: 4px;
+}
+.align-center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 11px;
 }
 @media print{
 	html{

@@ -4,13 +4,8 @@
 		{% for article in (articles_page.object_list if articles_page else articles) %}
 		<article class="h-entry border-bottom{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}">
 			<h2 class="entry-title{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
-			<div class="summary entry-content">{{ article.content }}
-				<div class="panel">
-					<div class="panel-body">
-						{% include "includes/article_info.html" %}
-					</div>
-				 </div>
-			 </div>
+			{{ article.content }}
+			{% include "includes/article_info.html" %}
 		 </article>
     <!--<hr/>-->
     {% endfor %}

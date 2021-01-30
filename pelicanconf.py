@@ -39,6 +39,6 @@ MENUITEMS = (
 			('Feed', SITEURL + '/feed'),
 			('Photos', SITEURL + '/media/images')
 			)
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
 READERS = {'html': None}
