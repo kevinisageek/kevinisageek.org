@@ -9,7 +9,7 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
-THEME = 'themes/pelican-kevinisageek-new'
+THEME = 'themes/jlelse'
 RELATIVE_URLS = False
 SITEURL = 'http://nomadic.kevinisageek.org/~kevin'
 MENUITEMS = (
