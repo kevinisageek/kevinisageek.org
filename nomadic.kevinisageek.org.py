@@ -9,14 +9,8 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
-THEME = 'themes/jlelse'
-RELATIVE_URLS = False
 SITEURL = 'http://nomadic.kevinisageek.org/~kevin'
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images')
 )
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ['tipue_search']
-SEARCH_SAVE_AS = 'search/index.html'
-SEARCH_URL = 'search/'
