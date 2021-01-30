@@ -12,5 +12,6 @@ from pelicanconf import *
 SITEURL = 'http://nomadic.kevinisageek.org/~kevin'
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
-	('Photos', SITEURL + '/media/images')
+	('Photos', SITEURL + '/media/images'),
+	('Tag List', SITEURL + '/tags')
 )

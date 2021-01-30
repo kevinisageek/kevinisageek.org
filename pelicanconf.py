@@ -23,10 +23,14 @@ PLUGINS = ['tipue_search']
 DIRECT_TEMPLATES = ('index', 'tags', 'archives', 'search')
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARCHIVES_URL = 'archives/'
+ARCHIVES_SAVE_AS = 'archives/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAGS_URL = 'tags/'
+TAGS_SAVE_AS = 'tags/index.html'
 STATIC_SAVE_AS = '{path}'
 SEARCH_SAVE_AS = 'search/index.html'
 SEARCH_URL = 'search/'
@@ -37,7 +41,8 @@ IGNORE_FILES = ['.#*','.DS_Store']
 DEFAULT_LANG = 'en'
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
-	('Photos', SITEURL + '/media/images')
+	('Photos', SITEURL + '/media/images'),
+	('Tag List', SITEURL + '/tags')
 )
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True

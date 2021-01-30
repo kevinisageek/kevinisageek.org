@@ -13,6 +13,7 @@ SITENAME = u'Random Geekage'
 SITEURL = 'https://kevinisageek.org'
 
 MENUITEMS = (
-			('Feed', SITEURL + '/feed'),
-			('Photos', SITEURL + '/media/images')
-			)
+	('Feed', SITEURL + '/feed'),
+	('Photos', SITEURL + '/media/images'),
+	('Tag List', SITEURL + '/tags')
+)
