@@ -125,23 +125,28 @@ footer *{
 .captchaimg{
 	background-color:#fff
 }
-.tag-micro .entry-content, .tag-micro .entry-content>p:first-child, .tag-micro .entry-title, .tag-micro header {
+.tag-micro .entry-title {
+	font-size: 1.2em;
+	line-height: 1em;
+}
+.tag-micro .entry-content, .tag-micro .entry-content>p:first-child, .tag-micro .entry-title, .tag-micro entry, .tag-micro h2 {
 	display: inline;
 }
-.tag-micro header time {
+
+article.tag-micro {
+	margin-top: 1em;
+}
+/*.tag-micro header time {
 	display: none;
 }
 
-.tag-micro h2 {
+.tag-micro {
 	display: inline;
 }
-.tag-micro .entry-title {
-	font-size: 1.3em;
-	line-height: 1em;
-}
+
 .tag-micro .page-header {
 	border-bottom: none;
-}
+}*/
 .align-right {
 	float: right;
 	margin-left: 4px;
