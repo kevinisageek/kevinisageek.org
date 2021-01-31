@@ -4,11 +4,6 @@
 
 {% block body_id %}page-{{ page.slug }}{% endblock %}
 
-{% block extrahead %}
-    {{ super() }}
-    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/style/fixedHeader.dataTables.min.css"/>
-{% endblock %}
-
 {% block content %}
 <article class="entry border-bottom">
 <header>

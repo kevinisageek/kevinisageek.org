@@ -180,10 +180,10 @@ article.tag-micro {
 		display:none
 	}
 }
-@media(prefers-color-scheme:dark){
+/*@media(prefers-color-scheme:dark){
 	html{
 		--background:#000;
 		--primary:#fff;
 		color:#fff
 	}
-}
+}*/
