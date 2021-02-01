@@ -181,9 +181,9 @@ article.tag-micro {
 	}
 }
 @media(prefers-color-scheme:dark){
-	/*html{
+	html{
 		--background:#000;
 		--primary:#fff;
 		color:#fff
-	}*/
+	}
 }
