@@ -23,9 +23,3 @@ Search - {{ super() }}
 {% block content %}
 <div id="tipue_search_content"></div>
 {% endblock %}
-
-{% block css %}
-{% if 'tipue_search' in PLUGINS %}
-<link href="{{ SITEURL}}/{{ THEME_STATIC_DIR }}/css/tipuesearch.css" rel="stylesheet" type="text/css"/>
-{% endif %}
-{% endblock %}
