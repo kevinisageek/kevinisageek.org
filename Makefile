@@ -3,12 +3,12 @@ all: publish tilde nomadic
 publish:
 	./books.sh
 	pelican content -o kevinisageek.org -s kevinisageek.org.py
-	rsync -vruz --delete kevinisageek.org/ kevinisageek.org:website/ --cvs-exclude
+	rsync -Prvzc --delete kevinisageek.org/ kevinisageek.org:website/ --cvs-exclude
 
 tilde:
 	./books.sh
 	pelican content -o tilde -s kevinisageek.org-tilde.py
-	rsync -vruz --delete tilde/ kevinisageek.org:public_html/ --cvs-exclude
+	rsync -Prvzc --delete tilde/ kevinisageek.org:public_html/ --cvs-exclude
 
 nomadic:
 	./books.sh
