@@ -14,7 +14,7 @@
 	<section id="content">
 		<article class="h-entry entry border-bottom {% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}">
 			<h2 class="p-name entry-title{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}"><a class="u-url" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
-			<div class="e-content entry-content"
+			<div class="e-content entry-content">
 			{{ article.content }}
 			</div>
 			{% include "includes/article_info.html" %}
