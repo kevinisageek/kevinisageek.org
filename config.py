@@ -10,6 +10,7 @@ STATIC_PATHS = ['media','media/images/*','content','*.jpg','favicon.ico']
 PAGE_PATHS = ['pages']
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = u'en'
+USE_FOLDER_AS_CATEGORY = False
 LOAD_CONTENT_CACHE = False
 FEED_ALL_ATOM = 'feed/index.xml'
 CATEGORY_FEED_ATOM = None
