@@ -3,7 +3,6 @@ Date: 2013-11-08 14:35
 Author: Kevin
 Tags: clojure, geek, MLP
 Slug: clojure-and-ponies
-Status: draft
 
 <iframe src="//player.vimeo.com/video/78909065" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
