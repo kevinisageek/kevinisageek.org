@@ -6,3 +6,5 @@ tilde/**
 content/media/video/*
 *.pyc
 *.mp4
+__pycache__
+
