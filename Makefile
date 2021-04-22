@@ -14,4 +14,9 @@ nomadic:
 	./books.sh
 	pelican content -o ~/public_html -s nomadic.kevinisageek.org.py
 
+basecamp:
+	./books.sh
+	pelican content -o basecamp -s basecamp.kevinisageek.org.py
+	rsync -Prvzc --delete basecamp/ basecamp.kevinisageek.org:public_html/ --cvs-exclude
+
 .PHONY: publish tilde nomadic
