@@ -2,9 +2,9 @@
 **.DS_Store
 kevinisageek.org/**
 nomadic.local/**
+basecamp/**
 tilde/**
 content/media/video/*
 *.pyc
 *.mp4
 __pycache__
-
