@@ -19,4 +19,9 @@ basecamp:
 	pelican content -o basecamp -s basecamp.kevinisageek.org.py
 	rsync -Prvzc --delete basecamp/ basecamp.local:public_html/ --cvs-exclude
 
-.PHONY: publish tilde nomadic basecamp
+home:
+	./books.sh
+	pelican content -o home -s home.kevinisageek.org.py
+	rsync -Prvzc --delete home/ basecamp.local:public_html/ --cvs-exclude
+
+.PHONY: publish tilde nomadic basecamp home
