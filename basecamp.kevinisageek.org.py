@@ -9,7 +9,8 @@ import os
 import sys
 sys.path.append(os.curdir)
 from config import *
-SITEURL = 'http://basecamp.local/~kevin'
+SITENAME = u'Random Geekage'
+SITEURL = 'https://basecamp.kevinisageek.org'
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images'),
