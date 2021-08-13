@@ -1,4 +1,4 @@
-all: publish tilde nomadic
+all: publish
 
 publish:
 	./books.sh
