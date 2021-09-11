@@ -1,4 +1,4 @@
-all: publish
+all: publish basecamp
 
 publish:
 	./books.sh
