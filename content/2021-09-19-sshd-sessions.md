@@ -1,7 +1,6 @@
 Title: Increasing sshd Sessions
 Date: 2021-09-22 09:00
 Slug: sshd-max-sessions
-Status: draft
 Tags: sshd, docker, ansible
 
 While playing around with Docker in my homelab, I was trying to get [docker-compose](https://docs.docker.com/compose/) to control another machine directly via [contexts](https://docs.docker.com/engine/context/working-with-contexts/), instead of having to continually copy the compose file over and run it. However, I kept getting messages along the lines of ``Secsh channel 10 open FAILED: open failed: Connect failed``.
