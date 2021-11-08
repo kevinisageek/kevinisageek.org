@@ -9,7 +9,7 @@ import os
 import sys
 sys.path.append(os.curdir)
 from config import *
-SITEURL = 'https://home.kevinisageek.org/'
+SITEURL = 'https://home.kevinisageek.org'
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images'),
