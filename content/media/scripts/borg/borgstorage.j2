@@ -1,0 +1,20 @@
+#!/bin/bash
+# {{ ansible_managed }}
+export BORG_PASSCOMMAND="cat /home/kevin/.keys/borg.key"
+export BORG_REPO='/media/kevin/backup'
+
+# Create backups
+echo "Creating backups..."
+borg create --verbose --stats --compression=lz4 --exclude ~/.cache --exclude ~/.config/discord --exclude ~/.local --exclude ~/downloads --exclude ~/podcasts ::'{hostname}-{user}-{now:%Y-%m-%dT%H:%M}' ~/
+
+# Prune backups
+echo "Pruning backups..."
+borg prune --verbose --list --prefix '{hostname}-{user}-' --keep-within=2d --keep-daily=28 --keep-weekly=16 --keep-monthly=24 --keep-yearly=5
+
+# Check backups
+echo "Checking repository..."
+backitup -a -p 172800 -l ~/.borgstorage_check-repo.lastrun -b "borg check --verbose --repository-only"
+echo "Checking archives..."
+backitup -a -p 259200 -l ~/.borgstorage_check-arch.lastrun -b "borg check --verbose --archives-only --last 24"
+
+exit 0

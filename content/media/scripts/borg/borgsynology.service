@@ -1,0 +1,7 @@
+[Unit]
+Description=Run borg to synology hourly
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/notify-send "Backing up to synology"
+ExecStart=/usr/local/bin/borgsynology
