@@ -9,7 +9,7 @@ In no particular order:
 
 * [Jlelse](https://jlelse.blog)
 * [The Doctor](https://drwho.virtadpt.net)
-* [The Iterant Engineer](http://misc-stuff.terraaeon.com/)
+* [The Itinerant Engineer](http://misc-stuff.terraaeon.com/)
 * [The Cheapskate's Guide](https://cheapskatesguide.org/)
 * [Dattagubbe](https://www.datagubbe.se/)
 * [Cavelab Blog](https://blog.cavelab.dev/)
