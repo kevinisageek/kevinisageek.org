@@ -16,3 +16,7 @@ In no particular order:
 * [NetworkProfile](https://blog.networkprofile.org/)
 * [Solene](https://dataswamp.org/~solene/)
 * [Pig Monkey](https://pig-monkey.com)
+* [Lynsay](https://www.lynsayshepherd.com/blog/)
+* [Xe](https://christine.website/blog)
+* [Mark Loveless](https://www.markloveless.net/)
+* [Vane Vander](https://mayvaneday.org/)
