@@ -9,6 +9,7 @@ import os
 import sys
 sys.path.append(os.curdir)
 from config import *
+
 SITENAME = u'Random Geekage'
 SITEURL = 'https://kevinisageek.org'
 

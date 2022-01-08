@@ -1,4 +1,4 @@
-all: publish basecamp
+all: publish tilde laptop basecamp
 
 publish:
 	./dump-read-library
@@ -10,13 +10,13 @@ tilde:
 	pelican content -o tilde -s kevinisageek.org-tilde.py
 	rsync -Ppruvzc --delete tilde/ kevinisageek.org:public_html/ --cvs-exclude
 
-nomadic:
+laptop:
 	./dump-read-library
-	pelican content -o ~/public_html -s nomadic.kevinisageek.org.py
+	pelican content -o ~/public_html -s runabout.kevinisageek.org.py
 
 basecamp:
 	./dump-read-library
 	pelican content -o basecamp -s home.kevinisageek.org.py
 	rsync -Pprvuzc --delete basecamp/ basecamp.kevinisageek.org:public_html/ --cvs-exclude
 
-.PHONY: publish tilde nomadic basecamp
+.PHONY: publish tilde laptop basecamp

@@ -9,7 +9,10 @@ import os
 import sys
 sys.path.append(os.curdir)
 from config import *
-SITEURL = 'http://nomadic.kevinisageek.org/~kevin'
+
+SITENAME = u'Runabout Geekage'
+SITEURL = 'http://runabout.local/~kevin'
+
 MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images'),
