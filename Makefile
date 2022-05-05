@@ -1,4 +1,4 @@
-all: publish tilde laptop basecamp
+all: publish #tilde laptop basecamp
 
 publish:
 	./dump-read-library

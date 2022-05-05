@@ -44,6 +44,9 @@ MENUITEMS = (
 	('Feed', SITEURL + '/feed'),
 	('Photos', SITEURL + '/media/images'),
 )
+RELLINKS = (
+	('https://social.kevinisageek.org/@kevinisageek'),
+)
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
 READERS = {'html': None}

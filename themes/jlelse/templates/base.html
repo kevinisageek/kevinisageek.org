@@ -15,6 +15,9 @@
 	<link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/atom+rss" rel="alternate" title="{{ SITENAME }} RSS Feed"/>
 	{% endif %}
 	<link rel="shortcut icon" href="{{ SITEURL }}/favicon.ico">
+	{% for link in RELLINKS %}
+	<link rel="me" href="{{ link }}" />
+	{% endfor %}
 </head>
 <body>
 	<header>
