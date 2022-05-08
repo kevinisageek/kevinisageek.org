@@ -46,6 +46,7 @@ MENUITEMS = (
 )
 RELLINKS = (
 	('https://social.kevinisageek.org/@kevinisageek'),
+	('https://twitter.com/kevinisageek')
 )
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
