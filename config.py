@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Kevin Smith'
-SITENAME = u'Local Geekage'
-SITEURL = 'http://localhost'
+SITENAME = u'Random Geekage'
+SITEURL = 'https://kevinisageek.org'
 PATH = 'content'
 STATIC_PATHS = ['media','favicon.ico', '.well-known']
 PAGE_PATHS = ['pages']
