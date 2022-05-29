@@ -1,7 +1,7 @@
-agate==1.6.2
 agate-dbf==0.2.2
 agate-excel==0.2.3
 agate-sql==0.5.6
+agate==1.6.2
 Babel==2.9.0
 beautifulsoup4==4.9.3
 blinker==1.4
@@ -10,6 +10,7 @@ csvkit==1.0.5
 dbfread==2.0.7
 docutils==0.17
 et-xmlfile==1.0.1
+feed2toot=0.17
 feedgenerator==1.9.1
 greenlet==1.0.0
 isodate==0.6.0
