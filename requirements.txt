@@ -10,7 +10,7 @@ csvkit==1.0.5
 dbfread==2.0.7
 docutils==0.17
 et-xmlfile==1.0.1
-feed2toot=0.17
+feed2toot==0.17
 feedgenerator==1.9.1
 greenlet==1.0.0
 isodate==0.6.0
