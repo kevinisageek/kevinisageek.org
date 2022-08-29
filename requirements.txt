@@ -6,12 +6,12 @@ Babel==2.9.0
 beautifulsoup4==4.9.3
 blinker==1.4
 bs4==0.0.1
-csvkit==1.0.5
+csvkit==1.0.7
 dbfread==2.0.7
 docutils==0.17
 et-xmlfile==1.0.1
 feedgenerator==1.9.1
-greenlet==1.0.0
+greenlet==1.1.0
 isodate==0.6.0
 Jinja2==2.11.3
 leather==0.3.3

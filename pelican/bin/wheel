@@ -1,4 +1,4 @@
-#!/home/kevin/doc/projects/kevinisageek.org/pelican/bin/python
+#!/home/kevin/projects/kevinisageek.org/pelican/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
