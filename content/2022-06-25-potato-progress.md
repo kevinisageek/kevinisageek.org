@@ -1,7 +1,7 @@
 Title: The potatoes are doing pretty good.
 Date: 2022-06-25 08:30
 Slug: potato-progress
-Tags: micro, potatoes, self sufficiency
+Tags: micro, potatoes, self sufficiency, urban gardening
 
 Seems I have greener thumbs than I thought.
 
