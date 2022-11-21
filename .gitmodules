@@ -1,0 +1,3 @@
+[submodule "plugins/pelican-jsonfeed"]
+	path = plugins/pelican-jsonfeed
+	url = https://github.com/jmartindf/pelican-jsonfeed
