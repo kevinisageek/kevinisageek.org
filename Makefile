@@ -1,12 +1,18 @@
 .ONESHELL:
 
-all: publish
+all: vps gh-pages
 
-publish:
+vps:
 	. pelican/bin/activate
 	./dump-read-library
-	pelican content -o kevinisageek.org -s config.py
-	rsync -Ppruvzc --delete kevinisageek.org/ kevinisageek.org:website/ --cvs-exclude
+	pelican content -o kevinisageek.org -s config-vps.py
+	rsync -Ppruvzc --delete kevinisageek.org/ kevinisageek:website/ --cvs-exclude
 	deactivate
 
-.PHONY: publish
+gh-pages:
+	. pelican/bin/activate
+	./dump-read-library
+	pelican content -o kevinisageek.github.io -s config-ghpages.py
+	deactivate
+
+.PHONY: all vps gh-pages
