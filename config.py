@@ -6,7 +6,7 @@ AUTHOR = u'Kevin Smith'
 SITENAME = u'Random Geekage'
 SITEURL = 'https://kevinisageek.org'
 PATH = 'content'
-STATIC_PATHS = ['media','favicon.ico', '.well-known']
+STATIC_PATHS = ['media','favicon.ico']
 PAGE_PATHS = ['pages']
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = u'en'
@@ -42,7 +42,8 @@ THEME = 'themes/goblog'
 IGNORE_FILES = ['.#*','.DS_Store']
 DEFAULT_LANG = 'en'
 MENUITEMS = (
-	('Feed', SITEURL + '/feed'),
+	('Atom Feed', SITEURL + '/feed'),
+	('JSON Feed', SITEURL + '/feed/index.json'),
 	('Photos', SITEURL + '/media/images'),
 )
 RELLINKS = (
