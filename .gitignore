@@ -1,6 +1,6 @@
 *.pid
 **.DS_Store
-kevinisageek.org/**
+kevinisageek.org/*
 kevinisageek.github.io/**
 nomadic.local/**
 basecamp/**
