@@ -10,7 +10,7 @@ dbfread==2.0.7
 docutils==0.17
 et-xmlfile==1.0.1
 feedgenerator==1.9.1
-greenlet==1.1.0
+greenlet
 isodate==0.6.0
 Jinja2==2.11.3
 leather==0.3.3
