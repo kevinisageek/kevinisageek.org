@@ -1,0 +1,13 @@
+fly.toml
+.git
+*.pid
+**.DS_Store
+kevinisageek.org/*
+kevinisageek.github.io/**
+nomadic.local/**
+basecamp/**
+tilde/**
+*.pyc
+__pycache__
+home/
+pelican/
