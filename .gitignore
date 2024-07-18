@@ -4,7 +4,6 @@ __pycache__
 *.pyc
 basecamp/
 cache/
-content/media/video/
 home/
 kevinisageek-org.fly.dev/
 kevinisageek.github.io/

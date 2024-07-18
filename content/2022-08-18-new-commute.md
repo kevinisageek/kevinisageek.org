@@ -5,4 +5,4 @@ Tags: bike, micro
 
 Shorter, flatter and most of the way is a legit off road bike route so more cycling needs to be done.
 
-<img src="{static}/media/images/2022-08-18 bike.jpg" class="align-center" /> 
+<img src="{static}/media/images/2022-08-18 bike.jpg" class="align-center" loading="lazy" /> 
