@@ -11,4 +11,5 @@ jobs:
       pages: "write"
       id-token: "write"
     with:
-      settings: "config-ghpages.py"
+      settings: "config.py"
+      siteurl: "https://kevinisageek.github.io"
