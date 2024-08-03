@@ -9,4 +9,4 @@ sys.path.append(os.curdir)
 from config import *
 
 STATIC_EXCLUDES = ['media/video']
-SITEURL = 'https://kevinisageek.github.io'
+#SITEURL = 'https://kevinisageek.github.io'
