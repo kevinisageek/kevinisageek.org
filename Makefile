@@ -22,4 +22,9 @@ fly:
 	deactivate
 	fly deploy --local-only
 
-.PHONY: all vps gh-pages fly
+clean:
+	rm -rf kevinisageek.org
+	rm -rf kevinisageek.github.io
+	rm -rf kevinisageek-org.fly.dev
+
+.PHONY: all vps gh-pages fly clean
