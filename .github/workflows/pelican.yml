@@ -12,4 +12,5 @@ jobs:
       id-token: "write"
     with:
       settings: "config.py"
-      siteurl: "https://kevinisageek.github.io"
+      # siteurl: "https://kevinisageek.github.io"
+      requirements: "pelican[markdown] bs4"
