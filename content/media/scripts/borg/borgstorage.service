@@ -1,0 +1,8 @@
+[Unit]
+Description=Run borg to backup drive hourly
+ConditionPathExists=/media/kevin/backup/
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/notify-send "Backing up to hard drive"
+ExecStart=/usr/local/bin/borgstorage

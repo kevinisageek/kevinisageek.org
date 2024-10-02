@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# {{ ansible_managed }}
+# One line wrapper script to download Youtube videos from a config file
+# Written by Kevin Smith (kevin at kevinisageek dot org)
+# Requires yt-dlp to work
+
+# Run yt-dlp, record videos downloaded in the archive file, subscription list in .ytget.conf
+# Additional config in ~/.config/yt-dlp.conf
+yt-dlp --download-archive ~/.ytget.archive \
+			--batch-file ~/.ytget.conf \
+			--output "~/podcasts/%(uploader)s/%(upload_date)s %(title)s.%(ext)s"

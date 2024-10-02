@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Search - {{ super() }}
+{% endblock %}
+
+{% block js %}
+    {{ super() }}
+    <script src="{{ SITEURL }}/tipuesearch_content.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch_set.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#tipue_search_input').tipuesearch({
+                'show': 20,
+                'showURL': false,
+                'imageZoom': false,
+            });
+        });
+    </script>
+{% endblock %}
+
+{% block content %}
+<div id="tipue_search_content"></div>
+{% endblock %}

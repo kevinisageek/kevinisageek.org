@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+	{% if articles %}
+		{% for article in (articles_page.object_list if articles_page else articles) %}
+		<article class="h-entry entry border-bottom{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}">
+			<h2 class="entry-title{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %}"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+			<div class="entry-content" >
+			{{ article.content }}
+			</div>
+			{% include "includes/article_info.html" %}
+		 </article>
+    {% endfor %}
+  {% endif %}
+{% endblock content %}

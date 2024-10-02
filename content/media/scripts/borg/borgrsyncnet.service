@@ -1,0 +1,11 @@
+[Unit]
+Description=Run borg to rsync.net
+Requires=check-metered-connection.service
+After=check-metered-connection.service
+Requires=check-trusted-connection.service
+After=check-trusted-connection.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/notify-send "Backing up to rsync.net"
+ExecStart=/usr/local/bin/borgrsyncnet
