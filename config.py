@@ -6,11 +6,7 @@ AUTHOR = u'Kevin Smith'
 SITENAME = u'Random Geekage'
 SITEURL = 'https://kevinisageek.org'
 PATH = 'content'
-<<<<<<< HEAD
 STATIC_PATHS = ['keys','media','favicon.ico','robots.txt']
-=======
-STATIC_PATHS = ['.well-known','media','favicon.ico','robots.txt']
->>>>>>> f8714703a9f6681e0722d3bd954bc5db32f019f0
 PAGE_PATHS = ['pages']
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = u'en'
