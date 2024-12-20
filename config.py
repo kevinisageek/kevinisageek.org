@@ -49,6 +49,7 @@ MENUITEMS = (
 )
 RELLINKS = (
 	('https://fedi.kevinisageek.org/@kevin'),
+        ('https://bsky.app/profile/kevinisageek.org'),
 )
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
