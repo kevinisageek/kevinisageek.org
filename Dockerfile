@@ -1,5 +1,5 @@
 # Generate the site with Pelican
-FROM python:3.12-alpine AS builder
+FROM docker.io/library/python:3.12-alpine AS builder
 
 RUN /usr/sbin/adduser -g python -D python
 
