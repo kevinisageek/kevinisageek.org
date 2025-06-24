@@ -20,8 +20,7 @@ AUTHOR_FEED_RSS = None
 AUTHOR_SAVE_AS = ''
 AUTHOR_URL = ''
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['tipue_search', 
-]
+PLUGINS = ['tipue_search']#, 'fediverse']
 DIRECT_TEMPLATES = ('index', 'tags', 'archives', 'search')
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -49,7 +48,7 @@ MENUITEMS = (
 )
 RELLINKS = (
 	('https://fedi.kevinisageek.org/@kevin'),
-        ('https://bsky.app/profile/kevinisageek.org'),
+    ('https://bsky.app/profile/kevinisageek.org'),
 )
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
