@@ -1,0 +1,6 @@
+.env
+*.mp4
+*.pyc
+build/
+cache/
+pelicanfediverse_clientcred.secret
