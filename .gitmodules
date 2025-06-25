@@ -1,0 +1,3 @@
+[submodule "plugins/fediverse"]
+	path = plugins/fediverse
+	url = https://github.com/pelican-plugins/fediverse
