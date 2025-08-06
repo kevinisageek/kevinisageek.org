@@ -4,3 +4,4 @@
 build/
 cache/
 pelicanfediverse_clientcred.secret
+__pycache__/
