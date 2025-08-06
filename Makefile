@@ -13,12 +13,14 @@ container:
 	. pelican/bin/activate
 	./dump-read-library
 	pelican content -o build/container -s config-container.py
+	docker build . -t kevinisageek/kevinisageek-org-container:latest
 	deactivate
 
 gokrazy:
 	. pelican/bin/activate
 	./dump-read-library
 	pelican content -o build/gokrazy -s config-gokrazy.py
+	rsync -Ppruvzc --delete --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=r,Fo=r build/gokrazy/ /perm/home/caddy/ --cvs-exclude
 	deactivate
 
 gh-pages:
@@ -35,9 +37,7 @@ fly:
 	fly deploy --local-only
 
 clean:
-	rm -rf build/kevinisageek.org
-	rm -rf build/kevinisageek.github.io
-	rm -rf build/kevinisageek-org.fly.dev
+	rm -rf build/
 
 .PHONY: all vps gh-pages fly clean container gokrazy
 
