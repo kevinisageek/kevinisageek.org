@@ -7,3 +7,4 @@ build/
 fly.toml
 pelican/
 *.mp4
+pelicanfediverse_clientcred.secret
