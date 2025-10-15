@@ -30,3 +30,6 @@ RUN /home/python/venv/bin/pelican content -o container -s config-container.py
 FROM docker.io/library/nginx:latest
 
 COPY --from=builder /home/python/docker-pelican/container/ /usr/share/nginx/html/
+COPY kevinisageek.org.conf /etc/nginx/sites-enabled/kevinisageek.org.conf
+
+EXPOSE 80
