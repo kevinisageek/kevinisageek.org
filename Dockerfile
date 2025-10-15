@@ -31,5 +31,6 @@ FROM docker.io/library/nginx:latest
 
 COPY --from=builder /home/python/docker-pelican/container/ /usr/share/nginx/html/
 COPY kevinisageek.org.conf /etc/nginx/sites-enabled/kevinisageek.org.conf
+RUN chmod -R 755 1000:1000 /usr/share/nginx/html/
 
 EXPOSE 80
